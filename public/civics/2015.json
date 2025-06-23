@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The following are components of a nation except",
+              "options": {
+                "A": "territory",
+                "B": "people",
+                "C": "government",
+                "D": "national flag",
+                "E": "international recognition."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "A nuclear family consist of",
+              "options": {
+                "A": "wife, husband, children and relatives",
+                "B": "wife, grandmother, father and children.",
+                "C": "one parent with children",
+                "D": "wife, sister and grandfather",
+                "E": "wife, husband and children."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "A continuous situation in which the poor do not improve their condition and status is called",
+              "options": {
+                "A": "poverty line",
+                "B": "poverty cycle",
+                "C": "debt burden",
+                "D": "daily poverty",
+                "E": "relative poverty."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The essence of an independent judiciary is to",
+              "options": {
+                "A": "contain powers of the President",
+                "B": "promote minority rights",
+                "C": "promote rule of law",
+                "D": "maintain lawyers prestige",
+                "E": "promote free and fair election."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In a democratic state the legitimacy of the government is obtained through",
+              "options": {
+                "A": "democratic campaigns",
+                "B": "democratic elections",
+                "C": "independency of the parliament",
+                "D": "democratic mass rallies",
+                "E": "political party propaganda."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The two categories of local government authorities are",
+              "options": {
+                "A": "street and town governments",
+                "B": "village and street authorities",
+                "C": "districts and urban authorities",
+                "D": "village councils and village authorities",
+                "E": "urban councils and village authorities."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following is the second step in a healthy decision making?",
+              "options": {
+                "A": "Listing possible solution.",
+                "B": "Evaluation.",
+                "C": "Making decision.",
+                "D": "Checking the result.",
+                "E": "Identifying the problem."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Which of the following types of work involves the use of more mental skills than physical strengths?",
+              "options": {
+                "A": "Nursing and teaching.",
+                "B": "Carpentry and teaching.",
+                "C": "Farming and nursing.",
+                "D": "Teaching and lumbering.",
+                "E": "Carpentry and mining."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Choosing the best option after learning the consequences of each option is known as",
+              "options": {
+                "A": "creative thinking",
+                "B": "self esteem",
+                "C": "problem solving skills",
+                "D": "rational decision making",
+                "E": "coping with stress."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the major aspect of globalization is",
+              "options": {
+                "A": "increased public ownership of the major means of production",
+                "B": "favourable international terms of trade to third world countries",
+                "C": "poverty reduction in developing countries",
+                "D": "increased investment from third world to developed countries",
+                "E": "revolution in information and communication technology."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct response in List B by writing the letter of the corresponding response beside the item number in the answer booklet.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Deals with managing risks of a firm, business, people and property.",
+                "ii": "The average earnings of the people of a given country in particular year.",
+                "iii": "Provide advice to their customers on issues of investment and trade.",
+                "iv": "A factor of economic development.",
+                "v": "A social security scheme in Tanzania.",
+                "vi": "An institution responsible for controlling inflation in Tanzania.",
+                "vii": "An indicator of poverty.",
+                "viii": "Register all Social Security Schemes.",
+                "ix": "It has no proper places set for it to conduct its business.",
+                "x": "The improvement of the welfare of the people in the country."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Commercial Banks",
+                "B": "PSPF",
+                "C": "B.O.T",
+                "D": "Insurance Companies",
+                "E": "Capital",
+                "F": "Informal sector",
+                "G": "Per capita income",
+                "H": "Social development",
+                "I": "High mortality rate",
+                "J": "SSRA",
+                "K": "TRA",
+                "L": "Formal sector",
+                "M": "NPES",
+                "N": "TANROADS",
+                "O": "TTCL"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer the questions that follow.\n\nAround the world and in Tanzania in particular, the growing gaps between the rich and the poor in the recent decades have forced millions of young children out of school and into work. The International Labour Organization estimates that 215 million children between the age of 5 and 17 currently work under conditions considered illegal, hazardous or extremely exploitative. Under age children work at all sorts of jobs around the world, usually because they and their families are extremely poor.\n\nThese child labourers suffer extreme illness, exploitation, injuries and death in underground mines, open cast mines and quarries. Children as young as 6 or 7 years old break up rocks, sieve and carry ore, some of them especially girls work in domestic services, sometimes starting as young as 5 or 6 years. These types of child labour are linked to child trafficking. Domestic child labourers can be victims of physical, emotional and sometimes sexual abuse.\n\nWorse still domestic child labourers, particularly girls, have been considered as sexual objects by male members of the family and in some cases including heads of the families. Additionally, sexual protective gears such as condoms may not be used in the actions, as a result the house girl may conceive, get infected with STIs, HIV and AIDS or both. In most cases a pregnant girl may be chased out of the house without any help, forced to take an abortion or sometimes given a few money which is enough for bus fair to reach her parents' home. These options are taken to avoid leakage of information on her pregnancy and confrontations in the family.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest the suitable title for this passage and give reasons for your suggestion."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Account for the root causes of child labour in Tanzania."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Point out two risks facing domestic child labourers."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Define child labour according to International Labour Organization."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "According to the passage, what are the risks of having unprotected sex?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Briefly outline five responsibilities of a good citizen in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "List down five importance of human rights to Tanzanians."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Discuss six functions of the Parliament of the United Republic of Tanzania in the governing process of the country."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Explain six elements of culture."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Examine the importance of life skills to the youth in Tanzania by giving six points."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Assess six significances of National Festival and Public Holidays to Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Examine the importance of local governments in Tanzania by giving six points."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Despite the fact that Tanzania is endowed with many resources, it is economically underdeveloped. Discuss six factors needed for economic development of Tanzania to take off."
+        }
+      ]
+    }
+  ]
+}

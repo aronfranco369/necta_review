@@ -1,0 +1,232 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 15,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter besides the item number in the answer booklet(s) provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Who serves as the Secretary to the District Council?",
+              "options": {
+                "A": "Mayor",
+                "B": "Deputy Mayor",
+                "C": "Executive Director",
+                "D": "Chairperson",
+                "E": "Deputy Chairperson"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "What is the proper name for a place where old records such as files, diaries and letter are kept?",
+              "options": {
+                "A": "Antiquities",
+                "B": "Museum",
+                "C": "Library",
+                "D": "Archaeology",
+                "E": "Archives"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Why the Uhuru torch race is vital in Tanzania?",
+              "options": {
+                "A": "It unifies all people in Tanzania",
+                "B": "It improves the physical endurance of the people",
+                "C": "It sensitize the people to vote in the general election",
+                "D": "It creates employment opportunities to the youth",
+                "E": "It shows the authority of the state and presidency"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Why the National Electoral Commission in Tanzania maintain a permanent voter's register?",
+              "options": {
+                "A": "To identify eligible women for special parliamentary seat",
+                "B": "To make sure that no one vote twice on the election day",
+                "C": "To enable the people obtain a national identity card",
+                "D": "To enable people obtain a passport",
+                "E": "To establish a list of members of political parties"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The following are manual related work except",
+              "options": {
+                "A": "Teaching, nursing, banking and accountancy",
+                "B": "Fishing, lumbering, plumbing and masonry",
+                "C": "Carpentry, sculpturing, fishing and livestock keeping",
+                "D": "Farming, quarrying, welding and fishing",
+                "E": "Quarrying, cart pulling, fishing and sculpturing"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "A Form Four student named Akilimali wishes to pursue a music career while his parents prefer an academic career. What type of skills will guide Akilimali to reach an amicable agreement with his parents?",
+              "options": {
+                "A": "Critical thinking skills",
+                "B": "Negotiation skills",
+                "C": "Creative thinking skills",
+                "D": "Friendship formation",
+                "E": "Peer resistance"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which element of culture is bride price embodied?",
+              "options": {
+                "A": "Customs",
+                "B": "Beliefs",
+                "C": "Traditions",
+                "D": "Norms",
+                "E": "Rituals"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "How are moral rights differentiated from legal rights?",
+              "options": {
+                "A": "Moral rights are defined in the instrument of the law.",
+                "B": "Moral rights are enforceable by international legal instruments.",
+                "C": "Moral rights deal with the freedom of worship.",
+                "D": "Moral rights are conceivable by way of conscience.",
+                "E": "Moral rights focus on social rights."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "At the age of sixteen Shida is married with three month pregnancy. What health risks she will likely to face when giving birth?",
+              "options": {
+                "A": "Obesity",
+                "B": "Loss of weight",
+                "C": "Anaemia",
+                "D": "Phobia",
+                "E": "Obstructed labour"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which action does the constitution of the United Republic of Tanzania approve as appropriate in the context of the President's second refusal to assent a bill into law?",
+              "options": {
+                "A": "The Government sends the bill to the Parliament for amendment",
+                "B": "The Attorney General reformulates and resubmits the bill to the Parliament",
+                "C": "The Parliament refuses to pass Government's budget",
+                "D": "The President dissolves the Parliament and orders new election",
+                "E": "The Speaker dissolves all parliamentary standing committees"
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the descriptions of financial institutions in List A with their corresponding terminologies in List B by writing the letter of the correct response besides the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "A community based financial organization that mobilizes funds and provides soft loans.",
+                "ii": "An organization which deals with compensation of losses and risks management.",
+                "iii": "A financial organization which protects the value of the currency and monitor exchange rates in the country.",
+                "iv": "An organization which mobilizes savings from employees and pays them after retirement.",
+                "v": "An organization which make financial transactions like buying and selling local and foreign currency."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Bureau de Change",
+                "B": "Commercial Banks",
+                "C": "Social Security Funds",
+                "D": "SACCOS",
+                "E": "The Central Bank",
+                "F": "The Tanzania Revenue Authority",
+                "G": "Insurance company",
+                "H": "EWURA"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 40,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "In which ways the family can promote social construction of gender roles in your community? (Give five ways)."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "What privileges do you enjoy by being a Tanzanian Citizen? (Give five points)."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Why all road users must obey traffic signs? (Give five reasons)."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "How does the National Sports Council of Tanzania promote and preserves the cultural values of Tanzania? (Give five points)."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Briefly, explain five factors that can enhance economic development of the people in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Use five points to verify the contention that \"Tanzania is a democratic state.\""
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "What is the essence of preserving and promoting Tanzanian traditions? (Give five points)."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Why marriage counselors advocate for family stability? (Give five reasons)."
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 45,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "Analyse the effects of globalization to a country like Tanzania by giving five points."
+        },
+        {
+          "question_number": 12,
+          "question_type": "normal",
+          "question_text": "Suppose you are the discipline master/mistress in your school and a recent report by education quality control office indicated a dreadful situation of student's discipline. In five points, analyse the root causes of students' indiscipline."
+        },
+        {
+          "question_number": 13,
+          "question_type": "normal",
+          "question_text": "Basing on J.K. Nyerere ideology, good leadership is one of the pre-condition for rapid development in Tanzania. How would you characterise a good leader in your society? Give five points."
+        },
+        {
+          "question_number": 14,
+          "question_type": "normal",
+          "question_text": "Assess the long term implications of poverty to a country like Tanzania by using five points."
+        }
+      ]
+    }
+  ]
+}

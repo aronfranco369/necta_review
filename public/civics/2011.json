@@ -1,0 +1,260 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Zebra crossing is an important traffic sign because it",
+              "options": {
+                "A": "enables pedestrians to walk across the road safely",
+                "B": "shows the presence of wild animals along the road",
+                "C": "enables the law enforcers to apprehend law breakers",
+                "D": "reduces traffic congestion",
+                "E": "enables school children to walk across the road safely."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Family stability in a society is important because",
+              "options": {
+                "A": "it ensures job security",
+                "B": "it helps people to live a comfortable life",
+                "C": "it protects immoralities in the society",
+                "D": "it is a bridge to community conflicts",
+                "E": "it guarantees the society with a good source of income."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Which of the following is not an indicator of poverty?",
+              "options": {
+                "A": "Low per capita income",
+                "B": "High illiteracy rate",
+                "C": "Dependant economy",
+                "D": "Low mortality rate",
+                "E": "Environmental destruction."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Norms of conduct which differ from one society to another and change from time to time are known as",
+              "options": {
+                "A": "traditions",
+                "B": "crafts",
+                "C": "customs",
+                "D": "rituals",
+                "E": "values."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The branch of central government responsible for administrative duties is called",
+              "options": {
+                "A": "Judiciary",
+                "B": "Legislature",
+                "C": "Secretariat",
+                "D": "The cabinet",
+                "E": "The executive."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The constitution of the United Republic of Tanzania was amended to include provisions for the bill of rights in",
+              "options": {
+                "A": "1992",
+                "B": "1984",
+                "C": "1979",
+                "D": "1977",
+                "E": "1967"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Under normal circumstances, a marriage is preceded by friendship between a man and woman. Such friendship is called",
+              "options": {
+                "A": "honeymoon",
+                "B": "cohabitation",
+                "C": "early marriage",
+                "D": "courtship",
+                "E": "infidelity."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "One of the following encourages and cultivate values, knowledge and ability to perceive things",
+              "options": {
+                "A": "cooperative techniques",
+                "B": "problem solving",
+                "C": "life skills promotion",
+                "D": "initiation and mediation",
+                "E": "guidance and counselling."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Many Tanzanians cannot access credit from financial institutions due to",
+              "options": {
+                "A": "political strings attached to loans",
+                "B": "lack of enough financial institutions",
+                "C": "lack of entrepreneurial skills and security",
+                "D": "lack of proper identification",
+                "E": "lack of political influence."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "The organs responsible for administering elections in Tanzania are",
+              "options": {
+                "A": "REDET and TEMCO",
+                "B": "ZEC and NEC",
+                "C": "ZLSC and ILHR",
+                "D": "CCM and CUF",
+                "E": "EAC and SADC."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Cultural tolerance",
+                "ii": "Material culture",
+                "iii": "Ideology",
+                "iv": "Archives",
+                "v": "Instruments of labour",
+                "vi": "Antiquities",
+                "vii": "Ethics",
+                "viii": "Norms of conduct",
+                "ix": "The intellectual culture",
+                "x": "Culture"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "a child learns to behave in the acceptable manner.",
+                "B": "a place where old written records are kept.",
+                "C": "disrespecting those with different view.",
+                "D": "proper ways of doing things in a society.",
+                "E": "achievement reflected through the extent one has mastered the nature.",
+                "F": "application of skills to deal with the environment.",
+                "G": "relaxing and amusement.",
+                "H": "facilitates learning about the society.",
+                "I": "ability to allow other peoples opinion, customs, beliefs and behaviors in a society.",
+                "J": "human rights abuse.",
+                "K": "cultural change.",
+                "L": "lays down principles and conditions to be followed in a given society.",
+                "M": "outdated customs and traditions.",
+                "N": "important objects made in an earlier period.",
+                "O": "shared patterns of beliefs, customs, values, and behaviours in a society.",
+                "P": "attainment in science, education, ethics, literature and art.",
+                "Q": "used to carry out material production.",
+                "R": "historical achievements of the society.",
+                "S": "perception on what is right or wrong in a given society.",
+                "T": "assigning responsibilities according to sex."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer the questions that follow.\n\nWomen in Tanzania and all over the world have been very active in contributing to national development. However, this contribution has neither been recognized nor acknowledged by society, especially the decision makers who have mostly been men.\n\nIn Tanzania for example, during the struggle for independence in the 1950's women did a lot in campaigning but during elections were rarely voted into parliamentary seats.\n\nOn the issue of education, parents and community at large preferred to educate boys more than girls. At family level decision making was done by the father and the rest of the members were just obeying.\n\nAfter independence things changed a bit where few girls had access to school. However, subjects remained the same, gender stereotyped ones. As a result women's roles were ignored due to lack of decision making within and outside their homes. Decision making on issues like reproductive health, family size and child spacing were not within their power.\n\nThe main cause of this discrimination of women is the wrong beliefs and customs through informal education. Stakeholders and leaders responsible for issues related to women development should sensitize and educate the people about equality. This can be done through training, employment and financial support for small business because when educating the women, the entire nation is educated.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest a suitable title for the passage and give a rationale for your suggestion."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "From the passage, why are women's reproductive rights undermined?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "From the passage, what is the root cause of the biasness against women?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Describe how women can be empowered according to the author."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "In your opinion, what is meant by the statement that “to educate a woman, is to educate the entire nation.”"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline the effects of drug abuse by giving five points."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "List down any five solutions to improper behaviours."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "\"Agriculture is an engine for the growth of the economy\". Analyse six strategies which can be used to improve production in agriculture."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Examine any six problems facing the government in the provision of better health services to Tanzanians."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "There is almost unquestionable view that culture is dynamic. In the light of this statement, explain any five merits of cultural change to Tanzanians."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "\"To a great extent, the road accidents in Tanzania are man made\". Justify this statement by giving five points."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Work and Development are two sides of the same coin\". Elaborate six importance of work."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Despite an impressive human rights record, Tanzania still suffers from instances of human rights abuse. Use six points to validate this statement."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SEHEMU A",
+      "marks": 40,
+      "instructions": "Jibu maswali yote kutoka sehemu hii. Sehemu hii ina alama 40.\nTumia muda usiozidi saa moja kujibu maswali haya.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Katika sehemu hii ya swali, kuna vipengele 10, Kila kipengele kina majibu matano (5). Chagua jibu lililosahihi na kuandika herufi yake katika kijitabu cha majibu.\n\nMfano:\nKila tarehe kumi na mbili Januari ya kila mwaka huwa ni sikukuu ya:\nA. Mapinduzi ya Zanzibar yaliyofanyika mwaka 1964\nB. Kuzaliwa kwa CCM\nC. Muungano wa Tanganyika na Zanzibar\nD. Kuzaliwa kwa TANU\nE. Kuzaliwa kwa ASP\nJibu ni: A",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Wareno waliivamia miji ya Pwani ya Africa Mashariki na kuziangusha tawala nyingi za Kisultani kwa madhumuni ya:",
+                  "options": {
+                    "A": "Kuendesha biashara ya pembe za ndovu",
+                    "B": "Kuendesha biashara ya dhahabu",
+                    "C": "Kujenga vituo vya biashara",
+                    "D": "Kumiliki biashara kati ya Afrika Mashariki na Asia",
+                    "E": "Kutoza ushuru wa forodha."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Tarehe 25 Mei 1963 ni siku muhimu katika historia ya Bara la Afrika kwa sababu:",
+                  "options": {
+                    "A": "Nchi nyingi za Afrika zilipata uhuru wao",
+                    "B": "Umoja wa Mataifa ulianza kuunga mkono harakati za ukombozi Barani Afrika",
+                    "C": "Tanzania ilitangaza siasa yake ya kusaidia Ukombozi wa Bara la Afrika",
+                    "D": "Umoja wa Nchi Huru za Afrika (OAU) ulizaliwa",
+                    "E": "Jumuiya ya Uchumi ya Nchi za Afrika ilizaliwa."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "Mtawala wa mwisho wa Kisultani huko Zanzibar aliitwa:",
+                  "options": {
+                    "A": "Seyyid Majid",
+                    "B": "Seyyid Barghash",
+                    "C": "Shamte",
+                    "D": "Jamshid",
+                    "E": "Seyyid Said"
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "Misingi ya Katiba ya Serikali ya Jamhuri ya Tanzania ya mwaka 1977 ni :",
+                  "options": {
+                    "A": "Uhuru, haki na amani",
+                    "B": "Demokrasi kamili",
+                    "C": "Uhuru, amani, haki na udugu",
+                    "D": "Uhuru, amani na demokrasi",
+                    "E": "Usawa, haki na amani."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "Wakaloni walianzisha huduma za kijamii na kiuchumi kama vile shule, hospitali, reli, bandari, benki n.k. ili:",
+                  "options": {
+                    "A": "Kupambana na adui njaa, maradhi na ujinga",
+                    "B": "Kuleta maendeleo ya Waafrika",
+                    "C": "Kuongeza uzalishaji mali na utoaji huduma",
+                    "D": "Kuimarisha utawala na utamaduni wao",
+                    "E": "Kuwawezesha Waafrika kuwasiliana kwa urahisi."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "Lipi kati ya haya yafuatayo si kweli kuhusu vyama vilivyopinga TANU na ASP?",
+                  "options": {
+                    "A": "U.T.P.",
+                    "B": "A.N.C.",
+                    "C": "T.F.L.",
+                    "D": "Z.P.P.P.",
+                    "E": "Z.N.P."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "Lipi si kweli kuhusu Baraza la Usalama la Umoja wa Mataifa (UNO)?",
+                  "options": {
+                    "A": "Ni chombo muhimu chenye kazi ya kulinda na kudumisha amani.",
+                    "B": "Wajumbe wote wa Baraza hili wana haki sawa",
+                    "C": "Lina uwezo wa kupeleka majeshi ya kulinda amani katika nchi wanachama",
+                    "D": "Wajumbe wa muda katika Baraza hili hubadilika kila baada ya miaka miwili",
+                    "E": "Russia ni miongoni mwa wanachama wa Kudumu wa Baraza hili."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "Lipi si kweli kuhusu athari za mageuzi duniani?",
+                  "options": {
+                    "A": "Kusambaratika kwa iliyokuwa nchi ya Urusi (U.S.S.R.)",
+                    "B": "Kuanzishwa kwa mfumo wa vyama vingi vya siasa katika nchi za Afrika",
+                    "C": "Kutoweka kwa mvutano kati ya NATO na WARSAW PACT.",
+                    "D": "Kuimarika kwa uchumi wa nchi za Kiafrika",
+                    "E": "Kusambaratika kwa nchi ya Yugoslavia."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "Madaraka ya kutunga sheria katika Tanzania Visiwani juu ya mambo yote yasiyohusu Muungano yako mikononi mwa:",
+                  "options": {
+                    "A": "Majaji wa Mahakama Kuu ya Zanzibar",
+                    "B": "Baraza la Mapinduzi Zanzibar",
+                    "C": "Bunge la Jamhuri ya Muungano ya Tanzania",
+                    "D": "Wizara ya Sheria ya Zanzibar.",
+                    "E": "Baraza la Wawakilishi Zanzibar."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "Madhumuni ya Elimu ya Jadi yalikuwa:",
+                  "options": {
+                    "A": "Kuwaandaa vijana kuwa raia wema",
+                    "B": "Kuwaandaa vijana kwa maisha halisi katika jamii na kurithisha utamaduni kutoka kizazi kimoja hadi kingine",
+                    "C": "Kuwapitisha wasichana kwenye unyago na wavulana jandoni",
+                    "D": "Kuwafunza vijana mambo wakubwa",
+                    "E": "Kuwaandaa vijana kwenda vitani"
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Katika sehemu hii ya swali, oanisha maneno yaliyoko katika orodha A na yale ya orodha B kwa kuandika herufi ya neno kutoka orodha A kando ya namba inayowiana kutoka orodha B.",
+              "visual_elements": [
+                {
+                  "element_type": "table",
+                  "table_data": [
+                    {
+                      "column_name": "Orodha A",
+                      "column_items": {
+                        "A": "Boutrous Ghail",
+                        "B": "I.P.C.",
+                        "C": "NAM",
+                        "D": "Baraza Kuu la Umoja wa Mataifa",
+                        "E": "SADC"
+                      }
+                    },
+                    {
+                      "column_name": "LIST B",
+                      "column_items": {
+                        "1": "Tamko la Haki za Binadamu",
+                        "2": "Chombo chenye nguvu katika Umoja wa Mataifa",
+                        "3": "Jumuiya ya Ushirikiano wa Kiuchumi Kusini mwa Afrika",
+                        "4": "Waziri wa Mambo ya Nje wa Misri",
+                        "5": "Kituo cha Uwekezaji Rasilimali",
+                        "6": "Jumuiya ya Ushirikiano wa Kiuchumi Afrika Mashariki na Kusini",
+                        "7": "Umoja wa Kutofungamana na Upande Wowote",
+                        "8": "Kituo cha Kuendeleza Viwanda",
+                        "9": "Umoja wa Kujihami wa Nchi za Amerika",
+                        "10": "Katibu Mkuu wa Umoja wa Mataifa."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Somo kwa makini habari inayofuata chini. Na kisha ujibu maswali yanayoifuatia. Sehemu hii ina jumla ya alama 40. Tumia saa moja tu kujibu maswali kutoka sehemu hii.\n\nKumekuwepo na uhusiano fulani kati ya Kenya, Tanzania na Uganda kwa siku nyingi. Wakoloni wa Kiingereza wakati walipotawala nchi hizi walianzisha ushirikiano mwaka 1947. Ushirikiano huu ulikuwa ukihusika na unyonyaji wa uchumi na utawala ili uendelee vyema. Mwaka 1967 nchi hizi tatu, wakati huo zikiwa huru zilianzisha Jumuiya ya Afrika ya Mashariki. Katika jumuiya hii kuna “Soko la Pamoja” ambalo hutumika kwa ajili ya watu 25 milioni. Katika “soko” hili la pamoja nchi zilizo wanachama zimekubaliana kuwa na ushuru wa forodha wa pamoja kwa vitu vyote vitokavyo nje ya nchi hizi tatu.\n\nZaidi ya “Soko la Pamoja”, Jumuiya imeweza kuanzisha huduma za jamii za pamoja kwa manufaa ya watu wa nchi hizi tatu.\n\nYako mafanikio mengine ya kiuchumi ambayo nchi hizi tatu zimepata kutokana na ushirikiano huu. Huduma kama reli, bandari, posta zinasaidia nchi zote tatu. Pia jumuiya imewezesha raia wa nchi hizo kutembea na kufanya kazi kati ya nchi mojawapo. Hili ni jambo ambalo halijapata kutokea katika historia ya nchi huru za Kiafrika.\n\nTanganyika imekuwa mbele katika jitihada ya kuunda Jumuiya hii hata ilidiriki kusema inaweza kuchelewesha uhuru wake 1961 ili kungojea Umoja wa Afrika ya Mashariki. Zaidi ya faida zipatikanazo katika uchumi, nchi hizi tatu zinaona kuwa Umoja wa Afrika utaletwa na muungano wa kiuchumi wa nchi fulani fulani za Afrika. Hii ndio sababu Tanzania inaunga mkono kwa moyo mmoja Jumuiya ya Afrika ya Mashariki.\n\nMASWALI:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Andika kichwa cha habari uliyosoma."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Ni tofauti gani iliyokuwepo kati ya ushirikiano wa Kenya, Tanganyika na Uganda ulioanzishwa na Wakoloni mwaka 1947 na ule wa 1967?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Kwa maoni yako na kwa kusaidiwa na maoni ya mwandhishi ni nini yalikuwa majukumu ya soko la pamoja la Jumuyiya ya Afrika ya Mashariki?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Ni mafanikio gani ambayo nchi za Afrika Mashariki zilipata kutokana na ushirikiano ulioanzishwa mwaka 1967?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Kwa nini Tanzania iliunga mkono, kwa dhati, Jumuiya ya Afrika ya Mashariki?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SEHEMU B",
+      "marks": 60,
+      "instructions": "Chagua maswali matatu (3) tu yoyote kutoka sehemu hii na kuyajibu ipasavyo. Kila swali lina alama sawa. Sehemu hii ina jumla ya alama 60. Unashauriwa kutumia muda wa saa moja na nusu kujibu maswali kutoka sehemu hii.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Eleza kwa kifupi maana ya dhana zifuatazo:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Uchumi tegemezi"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Siasa"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Elimu ya siasa"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Siasa uchumi"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Ukiritimba"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Siasa ya Waingereza kuhusu Elimu lilimarisha matabaka. Jadili usemi huo ukizingatia uhusiano wa Elimu na ukuaji wa matabaka huko Zanzibar wakati wa ukoloni."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Eleza hatua Tanzania ilizochukua ili kurekebisha utamaduni wake kati ya mwaka 1961 - 1967."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Kwa niri harakati za ukombozi wa Kisiasa wa Tanzania Visiwani ulikuwa mgumu zaidi kuliko wa Tanzania Bara?"
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Jadili chanzo na matokeo ya ukoloni mamboleo katika Bara la Afrika."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Fafanua madhumuni ya kuanzishwa kwa Umoja wa Nchi Huru za Afrika na eleze ni kwa kiasi gani madhumuni hayo yametekelezwa."
+        }
+      ]
+    }
+  ]
+}

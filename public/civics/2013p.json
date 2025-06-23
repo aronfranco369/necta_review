@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number in your answer booklet.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which type of skills are lacking to a youth who engage in unsafe sex?",
+              "options": {
+                "A": "Creative thinking skills.",
+                "B": "Coping with emotions skills.",
+                "C": "Listening skills.",
+                "D": "Decision making skills.",
+                "E": "Speaking skills."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The totality of socially transmitted behaviour patterns, arts, beliefs, institutions, product of human work and thought are called",
+              "options": {
+                "A": "traditions",
+                "B": "norms",
+                "C": "culture",
+                "D": "customs",
+                "E": "values."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Tanzania is a Republic, which means",
+              "options": {
+                "A": "the Prime Minister is the head of the government",
+                "B": "the President is both the head of state and government",
+                "C": "the President is the ceremonial head of state",
+                "D": "the Prime Minister approves bills passed by the Parliament",
+                "E": "there is separation of powers of the major government organs."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which of the following is a non-union matter according to the constitution of the United Republic of Tanzania?",
+              "options": {
+                "A": "Immigration.",
+                "B": "Civil Aviation.",
+                "C": "Income Tax.",
+                "D": "Prisons.",
+                "E": "The Court of Appeal."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In a democratic state rule of law is fostered through",
+              "options": {
+                "A": "increasing the powers of the Attorney General",
+                "B": "increasing the powers of the Chief Justice",
+                "C": "increasing the powers of the Executive",
+                "D": "increasing the powers of the Legislature",
+                "E": "promoting the independence of the Judiciary."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "When was the Commission for Human Rights and good Governance established in Tanzania?",
+              "options": {
+                "A": "2001",
+                "B": "1992",
+                "C": "1977",
+                "D": "2002",
+                "E": "1995."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The state or practise of having only one husband or wife at any one time is called",
+              "options": {
+                "A": "cohabitation",
+                "B": "engagement",
+                "C": "monogamy",
+                "D": "polygamy",
+                "E": "nuclear family."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Who is vested with powers and authority to grant citizenship in Tanzania?",
+              "options": {
+                "A": "the Minister for Constitutional and Legal Affairs.",
+                "B": "the Minister for Home Affairs.",
+                "C": "the Chief Justice.",
+                "D": "the Prime Minister.",
+                "E": "the Minister for International Cooperation."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which of the following is not a correct characterization of culture?",
+              "options": {
+                "A": "Culture is resistant to change.",
+                "B": "Culture is adaptive.",
+                "C": "Culture is learned.",
+                "D": "Culture is interactive.",
+                "E": "Culture is symbolic."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the major political demerits of globalization to developing countries is",
+              "options": {
+                "A": "introduction of multi-partism",
+                "B": "increased ethnic conflicts",
+                "C": "collapse of scientific socialism",
+                "D": "the rise of dictatorial regimes",
+                "E": "loss of national sovereignty."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "The ability to understand ones potentialities, strength, weaknesses and position in life.",
+                "ii": "Participatory approach to decision making.",
+                "iii": "Maintain peace and order.",
+                "iv": "Ability to stand up for ones values and belief in the face of conflicting ideas from friends.",
+                "v": "Promotes individuals personality in terms of dressing and communication.",
+                "vi": "Ability to analyse, evaluate and describe the quality of an action.",
+                "vii": "Improves quality and productivity by maximizing the different strengths and skills of members.",
+                "viii": "The ability to share, understand and feel another person's feelings.",
+                "ix": "Unrestricted freedom in management.",
+                "x": "Suitable to people living with HIV/AIDS."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Teamwork.",
+                "B": "Laissez faire leadership.",
+                "C": "Empathy.",
+                "D": "Guidance and counselling.",
+                "E": "Critical thinking skills.",
+                "F": "Self-awareness skills.",
+                "G": "Improper behaviour.",
+                "H": "Friendship.",
+                "I": "Creative thinking skills.",
+                "J": "Self-confidence.",
+                "K": "Good leadership.",
+                "L": "Decision making.",
+                "M": "Study tours.",
+                "N": "Peer resistance.",
+                "O": "Negotiation skills"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nThe wave of struggle for democracy which swept through many countries since the late 1980s triggered the demand for the multi-party system. But then many questions came to the fore. One of the questions is whether it is not possible to have democracy without a multi-party system. It is not easy to reach a consensual conclusion on this issue. But many people agree that having one political party by law minimizes the right of political participation for those who dislike that single party. Because of this, western countries insist that true democracy has to go hand in hand with the freedom to form parties. In those countries, various political parties contest for peoples' votes and the party which win forms a government and the rest remain as opposition parties.\n\nOne important benefit of the multi-party system is that it provides an opportunity to form a different government when the ruling party loses in an election. This provides an equal opportunity for various political parties and politicians to rule on behalf of the voters. It is said that this opportunity for change in the leadership of government provides better chances to formulate and implement better policies for the benefit of the people. It is also said that the existence of opposition parties makes the government constantly keen in serving the people, for one of the roles of the opposition parties is to challenge and correct the government in power.\n\nSome experts in questions of democracy have warned that opposition under multi-partism does not always promote democracy. They believe that where there are weak opposition political parties which merely make empty speeches at political platforms, democracy may be weakened. A useful opposition is one where political parties are strong, with a broad social base.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Explain the western countries view on true democracy."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "According to the author, list two merits of the multiparty system."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "According to the author, what is the condition for a vibrant democracy?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "From the passage, describe the demerit of the single party system."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "From the passage, explain the role of the opposition parties."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline five functions of the National Electoral Commission in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State five conditions for acquiring citizenship by naturalization in Tanzania."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "One of the sources of government income is generated through taxation. As a good citizen explain to your community six benefits of paying taxes."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Describe gender-based violence which exists in Tanzania by giving six points."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "The Tanzanian public outcry for government measures to stop road accidents is understandable. Suggest six measures which can be taken to improve Public road transport safety in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Examine six roles of Savings and Credit Cooperative Societies (SACCOS) in alleviating poverty in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "One of the major drawbacks to sustainable development in Tanzania is lack of culture of preventive care and maintenance of Public properties. Elaborate six importance of preventive care and maintenance of Public properties."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "The government efforts to provide quality secondary education to the majority in Tanzania are facing multiple challenges. Analyse six current challenges in the provision of secondary school education in Tanzania."
+        }
+      ]
+    }
+  ]
+}

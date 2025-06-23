@@ -1,0 +1,375 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Answer all questions in this Section. This Section carries 40 marks.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Under each of the following items there are five statements. One of the five statements best explains or completes sentences labelled (i) - (x). Identify the best statement and write down its letter.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The colonial state created various power structures such as the army, the police and prisons in order to:",
+                  "options": {
+                    "A": "prevent crime in the society",
+                    "B": "protect Africans from external invasions",
+                    "C": "create colonial order and fear among Africans",
+                    "D": "force Africans to work.",
+                    "E": "get more taxes."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The objective behind adoption of multiparty system in Tanzania was to:",
+                  "options": {
+                    "A": "control authoritarian rule",
+                    "B": "solve the economic problems",
+                    "C": "impress external donors",
+                    "D": "contain opposition demands",
+                    "E": "strengthen and extend democracy."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The constitutional amendments of 1965 in Tanzania basically aimed at introducing:",
+                  "options": {
+                    "A": "party supremacy",
+                    "B": "a bill of rights",
+                    "C": "unity between Tanganyika and Zanzibar",
+                    "D": "one party system",
+                    "E": "parliamentary democracy."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The parliament is also known as the legislature because it:",
+                  "options": {
+                    "A": "has the power to make laws",
+                    "B": "approves the state budget",
+                    "C": "checks the government",
+                    "D": "can vote out the president",
+                    "E": "proposes laws."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "According to the constitution the President of the United Republic of Tanzania can be removed from power through the following methods except",
+                  "options": {
+                    "A": "parliamentary vote of no confidence",
+                    "B": "Death",
+                    "C": "resignation",
+                    "D": "coup d'etat",
+                    "E": "expulsion from party membership."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "Which of the following statements is true about the United Nations Organisation?",
+                  "options": {
+                    "A": "The UNO was formed on May 25, 1945",
+                    "B": "Kurt Waldhein, U Thant and Perez de Quella were Secretary Generals of the UNO.",
+                    "C": "The largest organ of the UNO is the Security Council.",
+                    "D": "The Security Council of the UNO consists of twenty seven members five of whom are permanent.",
+                    "E": "The Secretary General of the UNO is appointed by the United States of America."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "The Non-Alignment Movement was founded by:",
+                  "options": {
+                    "A": "Tanzania, Ghana and Egypt",
+                    "B": "Egypt, Indonesia and Yugoslavia",
+                    "C": "Tanzania, Yugoslavia and India",
+                    "D": "Ghana, Egypt and Ethiopia",
+                    "E": "Indonesia, Tanzania and India."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "Which of the following parties did not oppose TANU and ASP in their independence struggles?",
+                  "options": {
+                    "A": "U.T.P.",
+                    "B": "A.N.C.",
+                    "C": "Z.P.P.P.",
+                    "D": "Z.N.P.",
+                    "E": "T.F.L."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "One of the following statements is NOT true about the weakness of colonial education:",
+                  "options": {
+                    "A": "It inculcated collective and self reliance attitudes",
+                    "B": "It encouraged individualistic instincts of mankind",
+                    "C": "It inculcated racism",
+                    "D": "It was given to few people",
+                    "E": "It alienated Africans from their traditions."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "Tanzanians struggled for their independence because they wanted to:",
+                  "options": {
+                    "A": "abandon cooperation with foreigners",
+                    "B": "maintain their culture",
+                    "C": "restore their humanity and dignity",
+                    "D": "perpetuate their traditional rule",
+                    "E": "stop Europeans from coming to Tanzania."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xi",
+                  "sub_question_text": "The League of Nations:",
+                  "options": {
+                    "A": "Collapsed in 1939",
+                    "B": "Failed in its responsibilities",
+                    "C": "Is celebrated on 24th October each year",
+                    "D": "Was in charge of trusteeships",
+                    "E": "Was headed by Salim Ahmed Salim."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xii",
+                  "sub_question_text": "The agency for World Health is the:",
+                  "options": {
+                    "A": "FAO",
+                    "B": "UNESCO",
+                    "C": "UNICEF",
+                    "D": "WHO",
+                    "E": "UNDP"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiii",
+                  "sub_question_text": "Which set of agencies is not administered by the UNO?",
+                  "options": {
+                    "A": "ILO and IMF",
+                    "B": "IBRD and NATO",
+                    "C": "FAO and UNESCO",
+                    "D": "UNDP and UNIDO",
+                    "E": "WHO and UNICEF"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiv",
+                  "sub_question_text": "The first Secretary General of the O.A.U. was:",
+                  "options": {
+                    "A": "Salim Ahmed Salim",
+                    "B": "Diallo Telli",
+                    "C": "Peter Onu",
+                    "D": "Eden Kodjo",
+                    "E": "Dr. N. Azikiwe"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xv",
+                  "sub_question_text": "The Headquarters of the International Labour Organization (ILO) is:",
+                  "options": {
+                    "A": "Vienna",
+                    "B": "Geneva",
+                    "C": "Washington",
+                    "D": "New York",
+                    "E": "London"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvi",
+                  "sub_question_text": "The headquarters of the Organization of African Unity (OAU) is:",
+                  "options": {
+                    "A": "Addis Ababa",
+                    "B": "New York",
+                    "C": "Dar es Salaam",
+                    "D": "Nairobi",
+                    "E": "Accra"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvii",
+                  "sub_question_text": "The current Secretary General of the Commonwealth is:",
+                  "options": {
+                    "A": "Shridath Ramphal",
+                    "B": "Mahmood Abdallah",
+                    "C": "Boutros-Boutros Ghali",
+                    "D": "Chief Anyaoku",
+                    "E": "Chief Abiola"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xviii",
+                  "sub_question_text": "Countries outside Europe which are members of NATO are:",
+                  "options": {
+                    "A": "Canada and United States of America",
+                    "B": "Japan and Canada",
+                    "C": "China and United States of America",
+                    "D": "United States of America and South Africa",
+                    "E": "South Africa and Canada."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xix",
+                  "sub_question_text": "The following group of countries are members of the SADC:",
+                  "options": {
+                    "A": "Tanzania, Malawi, Uganda",
+                    "B": "Kenya, Mozambique, Lesotho",
+                    "C": "Botswana, Mozambique, Zimbabwe",
+                    "D": "Kenya, Rwanda, Zaire",
+                    "E": "Burundi, Tanzania, Malawi"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xx",
+                  "sub_question_text": "The ruling party in South Africa is:",
+                  "options": {
+                    "A": "ANC",
+                    "B": "PAC",
+                    "C": "INKATA",
+                    "D": "NP"
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State whether the following statements are true by writing 'T' or false by writing 'F' against its number in your answer book.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "OAU was formed in Addis Ababa in May 1963"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Nyerere, Obote and late Kenyatta were founders of the East African Community"
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The Berlin conference was held in Berlin in Germany from December 1883 to January 1884."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "In the 1995 General Election all 13 registered Political Parties participated in elections at all levels."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "Mwalimu Julius Nyerere was once the Chairman of OAU"
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "Africans in Zanzibar constituted the lowest class in all aspects of economy and politics during the colonial rule"
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "The Paris Club is one of the most successful regional integration groupings in Europe."
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "With the collapse of apartheid system in South Africa, Tanzania's foreign policy is no longer important."
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "National economic survival plan was Tanzania's locally initiated economic recovery programme in the early 1980s."
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "All the G 7 countries are permanent members of the UNO's Security Council."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and then answer the questions that follow. (20 Marks)\n\nTanganyika and Zanzibar are neighbors in every way. Everyone of you know how close we are geographically. I believe that the distance between Zanzibar and Pemba is greater than the distance between either of these islands and the East African mainland. Similarly, history tells us that at one time Zanzibar and a large part of mainland Tanganyika were ruled by one Government, that of the Sultan of Zanzibar. It was an accident of history that we did not continue to be one country. When the colonialists partitioned the East African countries they agreed that Zanzibar and Pemba island and the coastal strip of Kenya should come under the British, while both the coastal strip and the hinterland of Tanganyika and Zanzibar should be ruled by the Germans. That is how Tanganyika and Zanzibar were separated. After the First World War, when the East African countries came under the British rule, the division was maintained. Independence has given us an opportunity to rectify this.\n\nToday, there is in Africa great enthusiasm for Unity. The people of our continent are anxious to become one people, with one government. This is a very big thing. In no other part of the world is there so great an urge for unity as we find in Africa. But whilst we are rightly proud of this aspiration, this sentiment of unity, we must remember that meaningful unity will not come simply by talking.\n\nActions must demonstrate our determination, and show that a single Government in Africa is not an impossible dream, but is something which can be realized.\n\nCountries which are friends and neighbours, and which at sometime in their history have been united, have a special responsibility. If they fail to unite, their failure will be used to point the finger of scorn at our continent. But if they do unite, and make their unity into a living reality, they will be demonstrating that the hopes of our continent are not vain ones. If two countries can unite, then three can; if they can, then thirty can.\n\nTanganyika and Zanzibar are neighbours geographically, historically, and linguistically; they are neighbours by custom and culture, and by politics. The friendship between the Afro-Shiraz Party and TANU is well known to you all. The friendship between the leaders of these two Parties did not start yesterday. We have all these reasons to unite; on top of it all we have the overall African desire for unity. And we have the Will also.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Suggest a suitable title for the passage."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "According to the author, what factors necessitates the union between Tanganyika and Zanzibar?"
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The author says \"It was an accident of history that Tanganyika and Zanzibar did not continue to be one country\". What accident does he refer to?"
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "What is the importance of the said union to Africa?"
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In your view why do you think Africa has not realised the desire of one Government until today? (Give two reasons)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "Attempt any Three questions from this section. All questions carry equal marks. (This section carries 60 marks).",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "Show the impact of slave trade on the cultural development of Tanzania."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Discuss the significance of TAA in the struggle for independence in Tanganyika."
+        },
+        {
+          "question_number": 5,
+          "question_type": "explanatory",
+          "question_text": "Briefly explain the functions of the following organs in Tanzania.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Permanent Commission of Enquiry"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "National Electoral COmmission"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Parliament of the United Republic"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Revolutionary Council of Zanzibar"
+            }
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "With particular reference to Tanzania discuss the advantages of Freedom of the Press."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Briefly discuss the achievements of the union between Tanganyika and Zanzibar since 1964."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Point out any five principles of the Commonwealth of Nations."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Discuss the importance of small scale industries to a developing economy like Tanzania."
+        }
+      ]
+    }
+  ]
+}

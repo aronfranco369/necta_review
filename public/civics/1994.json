@@ -1,0 +1,261 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Answer all questions in this section. This section carries 40 marks.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Under each of the following sections there are five statements. One of the five statements best explains or completes the sentences labelled (i) to (xi). Identify the best statement and write down its letter.\n\nExample:\n(i) The first stage of development which all societies have passed through is:\nA. Imperialism\nB. Slavery\nC. Communism\nD. Capitalism\nE. Primitive communalism\nAnswer: (i) - E",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The introduction of multipartism in Tanzania on 1st July 1992 aimed at.",
+                  "options": {
+                    "A": "allowing many parties in the country",
+                    "B": "freeing people from oppression and exploitation",
+                    "C": "expanding and strengthening democracy in the country",
+                    "D": "containing the interests of opposition parties",
+                    "E": "impressing foreign donors."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "One of the principles of democracy is:",
+                  "options": {
+                    "A": "leaders to originate from the people",
+                    "B": "people's ability to disobey oppressive laws",
+                    "C": "people's participation in law making through their representatives",
+                    "D": "decision making process by an elected government",
+                    "E": "the right of citizens to refuse responsibilities in their own societies."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The Organisation of African Unity was established by:",
+                  "options": {
+                    "A": "Kwame Nkrumah",
+                    "B": "Thirty Independent African Countries",
+                    "C": "The Security Council",
+                    "D": "The Council of Foreign Ministers of foreing affairs",
+                    "E": "The Group of Non-aligned Countries."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "What is not true about a dependent country like Tanzania?",
+                  "options": {
+                    "A": "No heavy industries",
+                    "B": "Low Production",
+                    "C": "High Population",
+                    "D": "Shortages of social services",
+                    "E": "Political problems."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "Majority rule in South Africa took a long time to achieve. Which is not responsible for this state of affair?",
+                  "options": {
+                    "A": "Disunity among Africans",
+                    "B": "Apartheid was against majority rule",
+                    "C": "Liberation movements lacked enough money to support their struggle.",
+                    "D": "Cowardice of African leaders",
+                    "E": "The Whites' Government killed African leaders"
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "Which of the following factors is not responsible for some people becoming refugees?",
+                  "options": {
+                    "A": "Civil War",
+                    "B": "Political problems",
+                    "C": "Hunger",
+                    "D": "Interstate War",
+                    "E": "Dependent economy."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "Tanzanians struggled for their independence because they wanted to:",
+                  "options": {
+                    "A": "abandon cooperation with foreigners",
+                    "B": "maintain their culture",
+                    "C": "restore their humanity and dignity",
+                    "D": "perpetuate their traditional rule",
+                    "E": "stop Europeans from coming to Tanzania."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "Which is true about the founder members of PAFMESCA?",
+                  "options": {
+                    "A": "Tanganyika and Zanzibar, Kenya, Uganda, Malawi and Zaire",
+                    "B": "Tanganyika and Zanzibar, Kenya, Uganda, Malawi and Zambia",
+                    "C": "Tanganyika and Zanzibar, Kenya, Uganda, Malawi and Zimbabwe",
+                    "D": "Tanganyika and Zanzibar, Kenya, Uganda, Zaire and Zambia",
+                    "E": "Tanganyika and Zanzibar, Kenya, Uganda, Zimbabwe and Zambia."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "Which of the following sets is not true about the membership of SADCC?",
+                  "options": {
+                    "A": "Tanzania, Zambia, Zanzibar, Zimbabwe, Mozambique and Lesotho",
+                    "B": "Tanzania, Zambia, Zimbabwe, Botswana, Lesotho, Angola and Malawi",
+                    "C": "Tanzania, Zambia, Lesotho, Swaziland, Zimbabwe, Zair and Togo",
+                    "D": "Tanzania, Zambia, Zanzibar, Angola, Swaziland, Mozambique",
+                    "E": "Tanzania, Mozambique, Lesotho, Botswana, Malawi and Ghana."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xi",
+                  "sub_question_text": "Which is not a negative effect of colonial education?",
+                  "options": {
+                    "A": "African traditional culture was disrupted",
+                    "B": "Christianity introduced a gap between the converts and non converts",
+                    "C": "Natnionalsits movements born and led by the educated",
+                    "D": "Inferiority complex developed among Africans",
+                    "E": "Detention of African leaders."
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Write the correct letter of the item in List B against the correct number of the item in List A.",
+              "visual_elements": [
+                {
+                  "element_type": "table",
+                  "table_data": [
+                    {
+                      "column_name": "LIST A",
+                      "column_items": {
+                        "(i)": "Nelson Mandela",
+                        "(ii)": "J.K. Nyerere",
+                        "(iii)": "Bakir Muluzi",
+                        "(iv)": "Rwanda",
+                        "(v)": "G7"
+                      }
+                    },
+                    {
+                      "column_name": "LIST B",
+                      "column_items": {
+                        "A": "United Nations Security Council",
+                        "B": "The Group of big Industrial nations in the world",
+                        "C": "Registrar of political parties in Tanzania",
+                        "D": "Sworn in on 10th May 1994 to be President of South Africa",
+                        "E": "President of Malawi",
+                        "F": "European Economic Community",
+                        "G": "There is genocide due to civil war",
+                        "H": "The chairman of the South-South Commission",
+                        "I": "Democratic Elections",
+                        "J": "Fredrick de Klerk."
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer briefly the questions below.\n\nFreedom and development are as completely linked together as are chickens and eggs. Without chickens you get no eggs; and without eggs you soon have no chickens. Similarly, without freedom you get no development, and without development you very soon lose your freedom.\n\nFor what do you mean when we talk of freedom? First, there is national freedom; i.e. the ability of the citizens of Tanzania to determine their own future, and to govern themselves without interference from non-Tanzanians. Second, there is freedom from hunger, disease, and poverty. And third, there is personal freedom for the individual, i.e. his right to live in dignity and equality with all others, his right to freedom of speech, freedom to participate in the making of all decisions which affect his life, and freedom from arbitrary arrest because he happens to annoy someone in authority - and so on. All these things are aspects of freedom and the citizens of Tanzania cannot be said to be truly free until all of them are assured.\n\nYet it is obvious that these things depend on economic and social development. The extent that our country remains poor, and its people illiterate and without understanding or strength, then our national freedom can be endangered by any foreign power which is better equipped. This is not simply a question of military armament - although if these are necessary they have to be paid for out of the wealth of the community. It is a question of consciousness among all people of the nation that they are free men who have something to defend, whether the appropriate means of defence be by force or by more subtle methods.\n\nEqually obvious is the fact that freedom from hunger, sickness, and poverty depends upon an increase in the wealth and knowledge available in the community; for a group of people can only consume and use the wealth they have already produced. And even personal freedom becomes more real if it is buttressed by development.\n\nQUESTIONS:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Write the heading of the passage."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "What do we mean by the concept freedom?"
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "According to the author, when do you think a nation loses its freedom and development?"
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The author says, that it is possible to eradicate hunger, diseases and poverty. How can this be done?"
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "What do you understand by the phrase \"freedom and development are as completely linked together as are chickens and eggs?\""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "There are eight questions in this section. You are required to attempt any THREE questions. This section carries a total of 60 marks.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "To what extent can primitive communalism be compared to socialism?"
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Discuss the main characteristics of the colonial economy in both Tanganyika and Zanzibar."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "The Zanzibar Revolution was an inevitable development given the history of the islands of Zanzibar and Pemba. Discuss."
+        },
+        {
+          "question_number": 6,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "What is democracy?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Distinguish between a democratic government and an autocratic one. Give examples."
+            }
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "The O.A.U. have largely failed to achieve its objectives. Do you agree with this assertion?"
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "The current political and economic liberalization policies are likely to affect the culture of our country negatively. Do you agree? Give reasons."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Discuss the advantages and problems of Regional Economic Cooperation. Give examples to support your points."
+        },
+        {
+          "question_number": 10,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Why are most parastatal enterprises not performing well?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "what should be done to improve their performance?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "A foreigner can be granted Tanzania Citizenship after residing in Tanzania for at least",
+              "options": {
+                "A": "five years",
+                "B": "four years",
+                "C": "three years",
+                "D": "one year",
+                "E": "two years."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "People who run away from their home country for fear of political, racial, religious or ethnic persecution are called",
+              "options": {
+                "A": "orphans",
+                "B": "refugees",
+                "C": "migrants",
+                "D": "dual citizens",
+                "E": "extended family."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Bride price is a socio cultural value which encourages",
+              "options": {
+                "A": "family planning",
+                "B": "female genital mutilation",
+                "C": "polygamy",
+                "D": "early marriage",
+                "E": "extended family."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The union between Tanganyika and Zanzibar was motivated by",
+              "options": {
+                "A": "charismatic leadership of J.K. Nyerere",
+                "B": "the desire to contain neo colonialism",
+                "C": "common historical and cultural background",
+                "D": "uneven economic development",
+                "E": "common constitutional background."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which of the following problem solving skills is most suitable to people living with HIV/AIDS?",
+              "options": {
+                "A": "Critical thinking skills.",
+                "B": "Guidance and counselling skills.",
+                "C": "Effective communication skills.",
+                "D": "Peer resistance skills.",
+                "E": "Creative thinking skills."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The importance of traffic lights is to",
+              "options": {
+                "A": "ensure safety of pedestrians",
+                "B": "ensure safety of the handicapped",
+                "C": "simplify the work of the Traffic Police",
+                "D": "facilitate transportation of bulky goods",
+                "E": "facilitate smooth movement of road users."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The major feature of the 1984 Zanzibar Constitution is that it",
+              "options": {
+                "A": "introduced a Bill of Rights",
+                "B": "created a legislative body called the House of Representatives",
+                "C": "established the COmmission of Human Rights and Good Governance",
+                "D": "enhanced the people’s power at the grassroots level",
+                "E": "consolidated the union between Tanganyika and Zanzibar."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "A systematic effort to identify and understand the role of women and men within a given society is referred to as",
+              "options": {
+                "A": "gender balance",
+                "B": "gender equity",
+                "C": "gender analysis",
+                "D": "gender stereotyping",
+                "E": "gender role"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The Uhuru Torch symbolizes",
+              "options": {
+                "A": "freedom and work",
+                "B": "state power and economic base",
+                "C": "national defence",
+                "D": "freedom and enlightenment",
+                "E": "national development."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which of the following is the best strategy for lessening the effects of globalization in Africa?",
+              "options": {
+                "A": "Increase large scale production of export crops",
+                "B": "Promote human rights and good governance.",
+                "C": "Improvement of infrastructure.",
+                "D": "Consensus with the World financial institutions.",
+                "E": "Promote regional cooperation among African States."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "The root cause of poverty in Tanzania which is out of control.",
+                "ii": "Measured in terms of basic necessities for survival",
+                "iii": "Measured in terms of the gap between the rich and the poor.",
+                "iv": "Linked combination of barriers to economic growth or development.",
+                "v": "The expected number of years of life remaining at a given age.",
+                "vi": "The rate of ill health in a specified community or group.",
+                "vii": "The proportion of deaths to population.",
+                "viii": "Measured in terms of what people buy and how much they spend.",
+                "ix": "Happens when people have a little bit of money but they do not have access to basic necessities.",
+                "x": "The minimum level of income deemed adequate in a given country."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Poverty line",
+                "B": "Life expectancy",
+                "C": "Non income poverty",
+                "D": "Maternal mortality rate",
+                "E": "Morbidity rate",
+                "F": "Population growth rate",
+                "G": "Relative poverty",
+                "H": "Low technology",
+                "I": "Mortality rate",
+                "J": "Poverty cycle",
+                "K": "Income poverty",
+                "L": "External debt burden",
+                "M": "Bad governance",
+                "N": "Absolute poverty",
+                "O": "Mkukuta"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nThe government in 1983 allowed private operators, now famously known as Daladala, to provide public transportation services for the city population. While Usafiri Dar es Salaam (UDA) fleet size has dwindled and now comprises conventional and minibuses, the number of registered Daladala has dramatically increased to 4500 operational in 1997.\n\nDaladala operate in almost all municipalities throughout the country. The fleet is very diverse in both type and capacity but the majority have a passenger capacity ranging from 16-36. In most routes the 36 passenger capacity buses dominates. The majority of Daladala vehicles are imported as reconditioned vehicles or bought second hand from Japan and the Middle East. The routes operated range from less than 3 kilometres to long routes of approximately 30 kilometres, the latter being peri-urban routes. Services are not scheduled and vehicles only leave a rank when they are full. Daladala drivers usually start work at approximately 0430-0500 and finish at 2300-2400. Most Daladala vehicles have been operated for less than 8 years in Dar es Salaam region. However, the average age of Daladala vehicles may be up to or more than 10 years.\n\nDriver's remuneration is generally not fixed but is commission based. Some operators stipulate revenue targets to be achieved by their drivers. Both methods of remunerating the Daladala drivers encourage speeding, overtaking, poor parking and frequent vehicle stoppage to pick or drop passengers on their way to anticipated destinations. Most of the drivers employed in the Daladala business are very young. There are no laid down procedures for driver's recruitment. For instance, a driver discharged by one operator can be reengaged by another operator in a matter of hours without even ascertaining the reasons for dismissal. Consequently, driver turnover is very high. There are no driver training programmes for the majority of drivers.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "State two weaknesses of the recruitment system of Daladala drivers."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Mention two wage systems of Daladala drivers presented in the passage."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "What is your comment on the roadworthiness of Daladala vehicles?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Why is the wage system of Daladala drivers are a threat to Public transport safety?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Suggest two measures to improve Public transport safety in urban areas."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Giving five points, briefly explain the importance of promoting and preserving our national culture."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "List down five pillars of a stable marriage."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Democratic elections are considered essential for enhancing citizen's participation in the political and governance process of their country. In the light of this statement, examine the significance of democratic elections to Tanzania by giving six points."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Examine six weaknesses of the social security schemes in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Show the government efforts in promoting and protecting human rights in Tanzania by giving six points."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "One of the important factors of economic development is good governance. Explain six principles of good governance."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Tanzania formed a Constitution Review Commission in 2012. Analyse six importance of the Constitution of a country."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Elaborate six strategies employed ot address gender imbalances and inequalities in Tanzania."
+        }
+      ]
+    }
+  ]
+}

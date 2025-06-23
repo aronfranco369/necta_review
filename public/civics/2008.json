@@ -1,0 +1,261 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "______ are formulations of rules and behaviour enforced by a special authority.",
+              "options": {
+                "A": "Morals",
+                "B": "Laws",
+                "C": "Norms",
+                "D": "Customs",
+                "E": "Taboos"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Presidential and Parliamentary Democracy are forms of",
+              "options": {
+                "A": "Participatory Democracy",
+                "B": "Liberal Democracy",
+                "C": "Soviet Democracy",
+                "D": "Representative Democracy",
+                "E": "Direct Democracy."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "A father, his wives and children represent family known as",
+              "options": {
+                "A": "extended family",
+                "B": "one parent family",
+                "C": "nuclear family",
+                "D": "compound family",
+                "E": "conjugal family."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "A method that involves the process of looking at the present situation or the groups of people in which the problem rests is known as",
+              "options": {
+                "A": "questionnaire",
+                "B": "mass media",
+                "C": "observation",
+                "D": "scientific experiment",
+                "E": "reading different books."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Problem solving techniques help to",
+              "options": {
+                "A": "save human life",
+                "B": "create human life",
+                "C": "get best possible solution",
+                "D": "promote unity and solidarity",
+                "E": "generate peace and harmony"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "______ are rights which are not included officially in the law of the country and one can not claim them in the court of law.",
+              "options": {
+                "A": "Civil and political rights",
+                "B": "Environmental and development rights",
+                "C": "Moral rights",
+                "D": "Legal rights",
+                "E": "Economic, social and cultural rights"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Before marriage a man and a woman pass through a period called",
+              "options": {
+                "A": "friendship",
+                "B": "sororate marriage",
+                "C": "relationship",
+                "D": "partnership",
+                "E": "courtship"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The yellow traffic light tells the driver to",
+              "options": {
+                "A": "stop the car",
+                "B": "start the car",
+                "C": "pass through",
+                "D": "get ready to go",
+                "E": "switch off the car."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Convention for Elimination of all forms of Discrimination Against Women (CEDAW) was formed in",
+              "options": {
+                "A": "1980",
+                "B": "1970",
+                "C": "1972",
+                "D": "1982",
+                "E": "1990."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which of the following is a feature of globalization?",
+              "options": {
+                "A": "Underdevelopment",
+                "B": "Global warming",
+                "C": "Movement of people",
+                "D": "Poor production",
+                "E": "Technology deterioration."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Gender gap",
+                "ii": "Language",
+                "iii": "Antiquities",
+                "iv": "Myths",
+                "v": "Gender mainstreaming",
+                "vi": "AIDS",
+                "vii": "Folk ways",
+                "viii": "Intellectual culture",
+                "ix": "Cooperation",
+                "x": "Crafts"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Things and ideas widely believed to be true while they are false stories",
+                "B": "No known cure",
+                "C": "Is the product of a kind of education provided to a targeted group of people in the society",
+                "D": "The inequality that existed in job accessibility",
+                "E": "Absence of inequality between men and women in all aspects",
+                "F": "Non-material culture",
+                "G": "True stories and beliefs used to guide the society",
+                "H": "Produced materials for the society",
+                "I": "Important objects that have existed for a very long time",
+                "J": "Ideas about a given gender that are considered ordinary and accepted by most people in a society",
+                "K": "Disease transmitted merely through careless sexual relations",
+                "L": "Material cultural product",
+                "M": "Enforced with great rigor and intense feeling",
+                "N": "Stabilization of the personal relationship between members of the society",
+                "O": "Develops due to same changes and advancements that take place within a particular society",
+                "P": "Safe and permanent place for preserving works of art",
+                "Q": "The practices that govern most of our daily routine and ordinary contacts with other people",
+                "R": "Deals with materials found in the society",
+                "S": "False stories that parents tell their children as oral tradition",
+                "T": "Anti-corruption measures"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and answer the questions that follow.\n\nAbout thirty million people live in Tanzania and only a small number of these are lucky enough to receive secondary education. This causes a great problem, as education can provide people with many advantages. It is often possible for an educated man to become rich and important, and if he does so it is very likely that he will become selfish. He may think to himself, \"I am fully educated, I am clever\". Everybody must admit that this attitude of superiority cannot be accepted. We can not have two nations, the educated on one side and everybody else on the other or even worse, the educated on top of uneducated keeping them down. Such an attitude can not be allowed to exist, and we have to consider the best ways of removing it.\n\nOne of the best ways is to make sure that the students in the schools do the same kind of work as the people do. One advantage of this is that the schools will be producing their own food. But it will also mean that no-one will go through school with selfish ideas that he/she is too well educated to do physical work.\n\nThere are other ways of giving the students close contact with the world outside school. For example, secondary school students can teach adults to read and write. Pupils in schools must realize that there is a world outside school, which does not have the advantages of education, but which is just as important as they are. It is the people who live in this outside world who are paying for the education which students are receiving, so that education is in fact a debt which the students owe them. The debt can only be repaid in the end by the ex-students using their skills and efforts to help the people who did not receive so much education.\n\nThey expect and hope that their lives will be improved by the knowledge and skill of the educated few. Students are certainly lucky to have a chance to get education, but they must remember that their education is not for themselves alone, but for many others, who paid for it.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Write the most suitable title of the passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Identify four (4) means of removing the gap between the educated and the non-educated."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "According to the passage, what is meant by the statement “Education is a debt?”"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "In your own opinion, outline how you will socialize the students with the outside world?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "How should the superiority mentality of the educated few be checked?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "explanatory",
+          "question_text": "Write short notes on the following:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Effects of inheritance of spouses"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The importance of road traffic signs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Outline the traditions and customs of Tanzanians which must be eradicated."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Explain the different steps to be followed in the whole process of problem solving."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Among the members of your society there are some people who do not know their responsibilities. Using knowledge you have learned inform them the responsibilities of good citizens."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Globalization has affected our Tanzanian culture. Show how this process has affected Tanzanian culture."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Different lessons are taught in Tanzanian schools culture being one of them, why is it essential for Tanzania to have lessons on culture in schools?"
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Outline the the effects of Poverty in third world countries like Tanzania."
+        }
+      ]
+    }
+  ]
+}

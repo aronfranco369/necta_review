@@ -1,0 +1,260 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A (20 marks)",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "One of the following is not among the village government standing committees.",
+              "options": {
+                "A": "Political and economic planning",
+                "B": "Social services",
+                "C": "Finance, economic and planning",
+                "D": "Defence and security",
+                "E": "Self reliance."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The road traffic signs are mainly divided into the following categories:",
+              "options": {
+                "A": "Command, precaution and information signs",
+                "B": "Command, permissive and precaution signs",
+                "C": "Permissive, preventive and maintenance signs",
+                "D": "Red, yellow and green",
+                "E": "Command, precautions and traffic lights."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "One of the following is not true about human rights:",
+              "options": {
+                "A": "They are inherent",
+                "B": "The should be recognized, respected, and enforced by the state",
+                "C": "Sometimes are known as natural rights",
+                "D": "People are free to exercise them without any limitations",
+                "E": "They are divided into civil, political, economic, social and cultural rights."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Skills, experience, efficiency, confidentiality, sense of duty and honesty are the",
+              "options": {
+                "A": "sources of Government revenue",
+                "B": "functions of the central Government",
+                "C": "qualities of Civil servants",
+                "D": "functions of the Executive",
+                "E": "filling the special forms.functions of the Legislature."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "FINCA and PRIDE can be categorized as",
+              "options": {
+                "A": "banks",
+                "B": "non profit making organisations",
+                "C": "loan giving institutions",
+                "D": "NGO's",
+                "E": "SACCOS."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "One of the following is not a distinguishing characteristic of the monarchical government:",
+              "options": {
+                "A": "Only King heads the society",
+                "B": "Headed by a King or Queen",
+                "C": "A King or a Queen is not elected but is a ceremonial figure",
+                "D": "King or Queen is not a part of Legislature",
+                "E": "The Prime minister becomes a Chief Executive."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Separation of powers means",
+              "options": {
+                "A": "governing powers are divided among Executive Legislature and Parliament",
+                "B": "completely parting away government organs",
+                "C": "dispensing justice and imposing penalties when the laws are broken",
+                "D": "one organ to control the remaining two",
+                "E": "governing powers are divided among the Executive, Parliament and the Judiciary."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Tradition means",
+              "options": {
+                "A": "everyday practices of a given society which are vulnerable to changes",
+                "B": "norms of conduct or expected behaviours in a society which are unchangeable",
+                "C": "man made things which are displayed or be used or enjoyed and they are unchangeable",
+                "D": "one of the aspects of intellectual culture for example basketry, pottery and furniture",
+                "E": "experiences of the past that are inherited by a society and they are unchangeable."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "In permanent constitution for the United Republic of tanzania was adopted.",
+              "options": {
+                "A": "1977",
+                "B": "1967",
+                "C": "1984",
+                "D": "1964",
+                "E": "1961"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "The speaker of the United Republic of Tanzania is elected from the",
+              "options": {
+                "A": "members of parliament only",
+                "B": "office of the parliament",
+                "C": "lawyers and judges",
+                "D": "any Tanzanian provided he/she qualifies to be a member of parliament",
+                "E": "senior ministers."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "1962",
+                "ii": "Protectionism",
+                "iii": "Mental work",
+                "iv": "Muammar Gadaffi",
+                "v": "1967",
+                "vi": "N.I.C.",
+                "vii": "Dual nationality",
+                "viii": "SACCOS",
+                "ix": "PSRC",
+                "x": "Regional integration"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "It must be denounced at the age of 18th in Tanzania.",
+                "B": "A law used to protect illegal immigrants.",
+                "C": "Compensate its clients.",
+                "D": "Promoted the idea of African union.",
+                "E": "A responsibility of every citizen.",
+                "F": "The National Sports Council was established.",
+                "G": "Privatization exercise in Tanzania.",
+                "H": "Un Secretary General",
+                "I": "A committee protect Human Rights in Tanzania",
+                "J": "Economic policies followed by a country to safeguard its own industries and product from overseas.",
+                "K": "Deals with “planting and harvesting money” to its customers.",
+                "L": "Tanganyika was declared a single party state.",
+                "M": "The first African official to chair the UN agency.",
+                "N": "Ensure availability of foreign exchange to its customers",
+                "O": "Teaching nursing and other professional duties.",
+                "P": "A borrower must be a member.",
+                "Q": "One of the possible solutions for globalization challenges to less developed countries like Tanzania.",
+                "R": "A combination of different tasks to be performed by a group of people.",
+                "S": "Tanganyika adopted the republican constitution.",
+                "T": "One of the principles of Parliamentary system of democracy."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B (20 marks)",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nIn Africa, as was once the case for pre-industrial Europe, many children were born because they are highly-valued economic assets and because kinship system and religious beliefs encouraged families to have many children. Families would continue to have more and more children until desired number of boy-babies had been born. Babies are often felt to be blessings from the gods or the ancestors. In 1984, the average number of children per family was 6.43. This rate has not fallen during the last decade and in some countries it is still rising.\n\nSuch a youthful population needs expensive medical and education services, and many adults are involved in the caring for children and in educating them. In the more urban and industrialized societies, for example, women have more opportunities to join men in the economic world, because there are facilities provided by the state for caring for even young children.\n\nIn the modern world many countries have tried to control the growth of population. Many of the more industrialized societies have been more concerned about the threat of “overpopulation\", and have adopted program of birth control or Planned Parenthood. However, those policies have been fiercely resisted in the Third World. It is unlikely that in Africa, where the traditional valuation of children is so strong that governments would succeed in compelling people to have smaller families. Only a few countries have adopted national population policies, notably Egypt, Ghana, Kenya, Tunisia and Mauritius. A few countries like Nigeria have voluntary agencies that offer advice about family planning. It is very doubtful if this advice (Limited to the main towns and used only by a few educated people) will have any noticeable effect.\n\nThe major obstacles in introducing population policies are social, religious and ideological. Equally serious is the reason that few administrators or political leaders, and very few of the ordinary people, appreciate the long term importance of relating population growth to trends in economic development. In too many African countries, there is no foreseeable way that food and other resources can match the population growth.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Identify the main theme of this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "From the passage, why children are born at a high rate in Africa?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Why the author is a little bit concerned to the effectiveness of the program of birth control?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Why the author seems to be doubtful about the work of charitable agencies in offering the advice about family planning?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "From your own understanding, mention two (2) effects of overpopulation."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline the major short comings of colonial education."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Identify the key functions of the Naitonal Kiswahili Council."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C (60 marks)",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Analyse the importance of financial institutions in economic development."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Examine the major sources of the water pollution in Tanzania and suggest control measures."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "By using the knowledge you have gained in your course about citizenship, outline how a good citizen can participate in political and democratic matters in your society."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Describe on how does the positive relationship may create stability in your society."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Globalisation has both positive and negative impacts.\" Assess how Tanzania can benefit from this phenomenon."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "As a knowledgeable person in life skills, describe systematically the steps you would take to solve social problems in your community."
+        }
+      ]
+    }
+  ]
+}

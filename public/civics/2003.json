@@ -1,0 +1,260 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A (20 marks)",
+      "marks": 20,
+      "instructions": "Answer ALL questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "A social group of people related to each other by blood, marriage or by adoption is called a",
+              "options": {
+                "A": "community",
+                "B": "nation",
+                "C": "family",
+                "D": "clan",
+                "E": "tribe."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The following are international organizations dealing with human rights except the",
+              "options": {
+                "A": "Universal Declaration of Human Rights",
+                "B": "International Confederation of the Red Cross",
+                "C": "Amnesty International",
+                "D": "United Nations High Commission for Refugees",
+                "E": "United Nations Organisation."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Before dividing Zanzibar into administrative regions the President of the United Republic of Tanzania has to consult the",
+              "options": {
+                "A": "Zanzibar constitution",
+                "B": "Union constitution",
+                "C": "Revolutionary Government of Zanzibar",
+                "D": "President of Zanzibar",
+                "E": "The House of Representatives."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "In a democratic state",
+              "options": {
+                "A": "laws are made by the elected president",
+                "B": "the police has the power to punish criminals",
+                "C": "the Head of State is above the law",
+                "D": "all the people are equal before law",
+                "E": "there are no law enforcing organs."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "An economic system in which individuals are free to own means of production is known as",
+              "options": {
+                "A": "liberal economy",
+                "B": "state controlled economy",
+                "C": "centralized economy",
+                "D": "socialist economy",
+                "E": "agrarian economy."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "In arriving at decisions on local development plans local governments use",
+              "options": {
+                "A": "authoritarianism",
+                "B": "representative democracy",
+                "C": "totalitarian democracy",
+                "D": "multiparty democracy",
+                "E": "participatory democracy."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The essence of an independent judiciary in a democratic society is",
+              "options": {
+                "A": "to check abuse of power",
+                "B": "to ensure rule of law",
+                "C": "ensure justice",
+                "D": "suppress crime",
+                "E": "to protect the magistrates."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "In most pre-colonial African societies, formal education was offered to the youth",
+              "options": {
+                "A": "on the wedding day",
+                "B": "after the harvest",
+                "C": "when elders communicated with their ancestors",
+                "D": "during religious ceremonies",
+                "E": "during initiation ceremonies."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which of the following is not true about the objectives of the new East African Community?",
+              "options": {
+                "A": "To promote sustainable development",
+                "B": "To strengthen socio-cultural ties",
+                "C": "To promote federalism",
+                "D": "To enhance participation of private sector and civil societies",
+                "E": "To promote good governance."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the social demerits of globalization in poor countries like Tanzania is",
+              "options": {
+                "A": "increased number of foreign investors",
+                "B": "expanded private sector",
+                "C": "expanded communication network",
+                "D": "accelerated drug abuse",
+                "E": "increased employment in the public sector."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Matrilineal",
+                "ii": "Bail",
+                "iii": "1961",
+                "iv": "NEPAS",
+                "v": "Local Government",
+                "vi": "Westminster Model of Democracy",
+                "vii": "Public Sector Reform Commission",
+                "viii": "Civic Responsibility",
+                "ix": "Museum",
+                "x": "MONUC"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "An institution responsible for the preservation of national traditions, customs and works of art.",
+                "B": "Corruption Prevention Bureau.",
+                "C": "Economic initiative for sustainable development of Africa.",
+                "D": "Children belong to the mother's family.",
+                "E": "Equal economic system.",
+                "F": "UN monitoring group in the Democratic Republic of Congo.",
+                "G": "A situation whereby a citizen is proved guilty before the court of law.",
+                "H": "Independence Constitution.",
+                "I": "Commitment to bring the released person under arrest at the right time and place.",
+                "J": "Law making board.",
+                "K": "An institution which coordinates privatization in Tanzania.",
+                "L": "The national organ responsible for environmental management.",
+                "M": "An institution with authority over a specific political and administrative area.",
+                "N": "A new aid and trade agreement to support development and poverty reduction in ACP countries.",
+                "O": "Duties that every person to a certain country ought to do.",
+                "P": "Ministers are appointed from among the members of parliament.",
+                "Q": "Independence of Tanganyika.",
+                "R": "Crime against a person.",
+                "S": "A President is superior and has executive power.",
+                "T": "Inability to purchase or meet basic needs like food, shelter etc."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B (20 marks)",
+      "marks": 20,
+      "instructions": "Answer ALL questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nThe relation we seek between ourselves and the rest of the world is a relation of equality. It is mainly for that reason that Tanzania has opposed the treaty against the spread of nuclear weapons. We regard it as a most unequal treaty. The treaty asks non-nuclear nations, including potential nuclear states, to denounce the right to make or possess nuclear weapons, but it does not ask the nuclear powers themselves to stop making any more nuclear weapons; it does not ask the nuclear powers to destroy the weapons they already possess.\n\nFurthermore, it does not ask the nuclear powers to pledge that they will neither use nor threaten to use nuclear weapons against states which agree to sign the treaty. Instead, the nuclear powers, on their own, simply declare that they will protect non-nuclear signatories against nuclear attack.\n\nUnder this treaty even if a nation could swear upon the Bible, or the Holy Qur'an, that it wanted to develop nuclear explosives purely for peaceful purposes, it would not be allowed to do so. It must buy such explosives from the nuclear powers. This is the first time in history that a tremendous and far-reaching human discovery is made the monopoly of a few.\n\nQUESTIONS",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Identify the suitable title for this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Why does Tanzania oppose the treaty against the spread of nuclear weapons?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "From the passage outline the weakness of the treaty."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Why is the author puzzled with the result of man's development in science and technology?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "According to the passage, how can non-nuclear powers get and use nuclear technology?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Point out ways of acquiring citizenship in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State five responsibilities of a good citizen."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C (60 marks)",
+      "marks": 60,
+      "instructions": "Answer THREE (3) questions from this section",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Discuss how rapid urbanization is a threat to the environment."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "With reference to Tanzania, comment on the statement that \"African culture is stagnant\"."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Explain the role of local governments in speeding up social, economic and political development of Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "How can civil societies control the abuse of power in government institutions?"
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Despite its success in economic reformation the UNO has failed to maintain world peace.\" Discuss."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Assess the problems which threaten future prosperity of the newly formed African Union."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 15,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The Headmaster/mistress of your school is not satisfied with the academic performance of the school in the Form Four National Examinations. Which of the following type of life skills will you recommend to improve the academic performance of the school?",
+              "options": {
+                "A": "Teamwork",
+                "B": "Negotiation skills",
+                "C": "Empathy",
+                "D": "Forming friendship",
+                "E": "Peer pressure"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Assume you are planning to get married, for about a year now you have developed friendship with a person of the opposite sex whom you think is the right candidate. How can you describe such kind of relationship?",
+              "options": {
+                "A": "Premature marriage",
+                "B": "Wedding",
+                "C": "Honeymoon",
+                "D": "Courtship",
+                "E": "Marital relationship"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Makanyaga is a public servant in one of the government departments who uses public office for personal gains. How can Makanyaga be termed?",
+              "options": {
+                "A": "A corrupt worker",
+                "B": "An intelligent worker",
+                "C": "A smart worker",
+                "D": "A creative worker",
+                "E": "A genius worker"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which of the following indicators would best guide you to determine a country practicing a dictatorial form of government?",
+              "options": {
+                "A": "Citizens electing their preferred political leaders and holding them accountable.",
+                "B": "Citizens enjoying fair and equal treatment before the law.",
+                "C": "Citizens punished for expressing personal views and opinions.",
+                "D": "Citizens exercising freely personal religious beliefs and worship.",
+                "E": "Citizens feeling their human dignity respected and safeguarded."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Before closing the school, the Headmaster called a school assembly and allowed students to air their complaints. Which type of human right was the headmaster fulfilling?",
+              "options": {
+                "A": "Freedom of association",
+                "B": "The right to education",
+                "C": "Moral rights",
+                "D": "Freedom of expression",
+                "E": "Equality before the law"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "What message do Zebra Crossings communicate to vehicle drivers?",
+              "options": {
+                "A": "There may be other vehicles crossing or waiting to cross the road.",
+                "B": "There may be pedestrians crossing or waiting to cross the road.",
+                "C": "To reduce speed because there is a railway crossing the road.",
+                "D": "There may be traffic police monitoring speed limit.",
+                "E": "To reduce speed because there is a nearby game reserve."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following set of cultural practices is a major mode of transmission of HIV/AIDS?",
+              "options": {
+                "A": "Food taboos and wife beating",
+                "B": "Female genital mutilation and food taboos",
+                "C": "Food taboos and early marriages",
+                "D": "Widow inheritance and wife beating",
+                "E": "Female genital mutilation and widow inheritance"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The Member of Parliament for Toroka Uje constituency resigned one year after the general election. What can be done to get another representative?",
+              "options": {
+                "A": "Wait for the next general election",
+                "B": "Calls for by-election",
+                "C": "The President nominates another person",
+                "D": "The National Electoral Commission nominates another person",
+                "E": "Call for general election"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "After researching democratic practices in country X, Mashaka established that citizens in that country stand for election, vote in elections, attend political meetings, join private voluntary organizations and protest against the government. To which principle of democracy does this evidence point?",
+              "options": {
+                "A": "Rule of law",
+                "B": "Separation of power",
+                "C": "Citizen participation",
+                "D": "Free and fair elections",
+                "E": "Respect of human rights"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Mona's husband died and her in laws forced Mona to marry Tulizo, her late husband's young brother. Such a family decision demonstrates",
+              "options": {
+                "A": "gender blindness.",
+                "B": "gender stereotyping.",
+                "C": "gender equality.",
+                "D": "gender mainstreaming.",
+                "E": "gender discrimination."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the explanations in List A with the correct component of Coat of Arms in List B by writing the letter of the corresponding response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Represents national heritage in terms of wildlife.",
+                "ii": "Represents readiness of people to defend the nation.",
+                "iii": "Represents national sovereignty.",
+                "iv": "Symbol of freedom and enlightenment.",
+                "v": "Represents tools used by peasants and farmers"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Axe and hoe",
+                "B": "Peak of Mount Kilimanjaro",
+                "C": "Uhuru torch",
+                "D": "Elephant tusks",
+                "E": "Sea waves",
+                "F": "National flag",
+                "G": "Shield and spear",
+                "H": "A man and woman"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 40,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer questions (a) - (e) that follow.\n\nEducation is the creation, accumulation and transmission of values in a given society. It is designed to guide students in learning culture and molding behaviour on the way to adulthood, and directing them toward their eventual roles in the society. The existence of education is to help learners become useful members of the society. It should also help the learners to develop an appreciation of the cultural heritage of their society and live more satisfying lives.\n\nSchool is an institution designed to impart some of these societal values. However, there are claims that a number of school goers do not attend classes. This makes family institution more important in transmitting values in the society. A study conducted about the impact of truancy among the schools in Tanzania revealed that parents are child's first and perhaps most important teachers. Parents teach their children attitude, habits and values that help to shape their character. Parents remain with their children throughout their lives, but few parents have neither time nor ability to teach their children the things they need to know about life.\n\nTruancy has been labeled as one of the top ten major problems in schools, which negatively affect the future of the young people. Absenteeism is detrimental to student's achievements, promotion, graduation and employment potential. The students' notoriousness can be a result of truancy. Student's notoriousness resulting from truancy is not only confined to smoking, fighting with each other or behaving indecently but also involving in running away from home and mingling with friends of bad influence such as drug abusers. Truancy of students in Tanzania, is not only caused by attendance characteristics alone, but results from other factors like poverty, early child pregnancy, drug abuse, peer groups and lack of seriousness in classroom.\n\nConsequently, education stakeholders together with government and parents should apart from making sure that every school age individual attends school, children should take their learning seriously. There is a need for laws that students who do not attend classes regularly should be punished and their parents held accountable.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest a suitable title for the passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Why education is important in people's life?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "How do parents contribute to poor performance of their children?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Identify two causes of truancy in Tanzania."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Propose two measures that can be used to solve the problem of truancy in schools."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Use five points to signify the effects of poverty in any society."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explore five factors which distinguish a good leader from a bad leader."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Briefly explain, giving five points, why you think the government of Tanzania is conducting a campaign against Female Genital Mutilation (FGM)?"
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "If you are to deliver a talk on the forces driving globalization to your community, which five driving forces will you consider?"
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Suppose you are the Community Development Officer; explain to the community the different measures that the government is taking to minimize maternal death in Tanzania"
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Provide five points to defend the view that the Union of Tanganyika and Zanzibar is beneficial to Tanzanians."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "In five points, identify cultural practices which undermine women in Tanzania."
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 45,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "In five points, analyse the benefits of having effective government for economic development."
+        },
+        {
+          "question_number": 12,
+          "question_type": "normal",
+          "question_text": "As an expert in Civics, use five points to convince your community on the need to preserve and promote Tanzanian culture."
+        },
+        {
+          "question_number": 13,
+          "question_type": "normal",
+          "question_text": "Your village government is experiencing difficulties in making proper decisions concerning various developmental issues in the village. How would you help the village government to improve decision making process? (Give five points)."
+        },
+        {
+          "question_number": 14,
+          "question_type": "normal",
+          "question_text": "You are invited to give a motivational speech to voters in Songambele village. Prepare five key points on the importance of democratic election."
+        }
+      ]
+    }
+  ]
+}

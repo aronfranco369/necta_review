@@ -1,0 +1,256 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The group of people living in a particular area sharing common customs, traditions and race is called a",
+              "options": {
+                "A": "family",
+                "B": "society",
+                "C": "nation",
+                "D": "tribe",
+                "E": "community."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Local governments are important institutions for facilitating",
+              "options": {
+                "A": "indigeneous culture",
+                "B": "representative democracy",
+                "C": "tax collection",
+                "D": "self-reliance",
+                "E": "participatory democracy."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The major defect of indirect rule as introduced by the British colonial rule was that it",
+              "options": {
+                "A": "encouraged tribalism and ethnicity",
+                "B": "stimulated native development",
+                "C": "supported land alienation",
+                "D": "discouraged the spread of Kiswahili",
+                "E": "promoted racialism."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "In tanzania the following institutions are responsible for promoting human rights except",
+              "options": {
+                "A": "TAMWA",
+                "B": "Tanganyika Society of the Lawyers",
+                "C": "TUCTA",
+                "D": "Judiciary",
+                "E": "The constitution."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The United Nations Peace Keeping Commission in the Democratic Republic of Congo is called",
+              "options": {
+                "A": "UNOSOM",
+                "B": "UNIMOG",
+                "C": "ECOMOG",
+                "D": "MONUIC",
+                "E": "K - FOR"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Military institutions formed by the big powers as a result of the cold war were the",
+              "options": {
+                "A": "League of Nations and UNO",
+                "B": "World Bank and IMF",
+                "C": "NATO and WARSAW pact",
+                "D": "Security Council and International Court of Justice.",
+                "E": "Commonwealth and the Non-Alignment Movement."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The term used to explain the struggle against foreign domination is",
+              "options": {
+                "A": "liberation",
+                "B": "democratisation",
+                "C": "nationalism",
+                "D": "nationalisation",
+                "E": "resistance."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "One of the following is not a ministry under the Union Government of Tanzania",
+              "options": {
+                "A": "Security and Defence",
+                "B": "Home Affairs",
+                "C": "Finance",
+                "D": "Science Technology and Higher Education",
+                "E": "Education and Culture."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "One of the following statements is not true about the cultural defects of colonial education",
+              "options": {
+                "A": "It inculcated self-reliance attitudes",
+                "B": "It encouraged individualistic instincts of mankind",
+                "C": "In inculcated racism",
+                "D": "It despised traditional dances",
+                "E": "It segregated women."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One major impact of Structural Adjustment Programmes (SAP) to most African Countries is",
+              "options": {
+                "A": "expansion of free social services",
+                "B": "promotion of African investors",
+                "C": "reduction of the work force",
+                "D": "promotion of rural development projects",
+                "E": "increasing government spending on social services."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "SWAPO",
+                "ii": "Bail",
+                "iii": "Plaintiff",
+                "iv": "1898",
+                "v": "PCB",
+                "vi": "Rule of Law",
+                "vii": "Civil society",
+                "viii": "Amnesty International",
+                "ix": "1965",
+                "x": "First UN Chief from Africa"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "The release by the police or court of a person held in legal custody while awaiting trial or appealing against criminal conviction.",
+                "B": "A draft of a proposed act of parliament.",
+                "C": "The partition of East Africa.",
+                "D": "The ruling party in Namibia",
+                "E": "A person against whom court proceedings are brought.",
+                "F": "A person applying for relief against another person in an action suit, petition.",
+                "G": "Beginning of British rule in Zanzibar",
+                "H": "Mkwawa saved.",
+                "I": "An Anti-Corruption Bureau in Tanzania",
+                "J": "Laws should be enforced equally, fairly and consistently to all.",
+                "K": "Source of government revenues.",
+                "L": "UN's Agency for Human Rights.",
+                "M": "Autonomous associations.",
+                "N": "Boutros Boutros",
+                "O": "A legal of multiparty system in Tanzania"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer both questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "One of the potential consequences of international conflict is the “spill-over” of violence between two or more parties in to the territory or issue fields of third parties. We can imagine that several thousand years ago, the distribution of human population was so sparse that violent conflict between two tribes, rural communities, or city-states had little impact on surrounding areas. Anthropological and historical evidence indicates however, that, even in primitive political system, mediation by third parties was often practiced as a means of preventing involvement of additional parties in the conflict. In ancient China, India, Greece and elsewhere, governments commonly recognized that they had an interest in limiting the violent excesses of warring communities. Some societies coped with the problem by formulating rules of neutrality; others such as the Geeks, developed procedures for mediation and arbitration, whereby an eminent citizen of a non-involved city-state would bring representatives of the warring communities together and bargain with them until some sort of settlement could be fashioned.\n\nEfforts to institutionalise mechanism for interacting third parties into crises and conflicts have been in the European historical setting, sporadic. Prior to the development of the nation-state, when Europe was carried into a patchwork of archives, free cities, city states, aspiring monarchies and semi-independent provinces, mediation services were often available and occasionally involved the pope. By the end of the seventeenth century the state of the European international system had achieved some measure of independence and through the legal doctrines of sovereignty, recognized no higher authority over their internal affairs or external relations. The international law of the period regarded force as a legitimate instrument for achieving or defending state objectives and no sovereignty would admit that a third party had any right to intervene diplomatically in a crisis of war. The only protection against drawing more parties was the specific rights and duties ascribed in central states.\n\nDuring the nineteenth century a number of states concluded treaties that called for arbitration of disputes and almost 300 unimportant international disputes were resolved through ad hoc arbitral proceedings. In the latter part of the century, owing party to the influence of the successful arbitration of a dispute verging on conflict between the United Nations and Great Britain (the Alabama claims case, 1871) a number of private groups began to agitate for creation of permanent international institutions for handling conflicts and disputes. They argued that establishment of a permanent international tribunal armed with enforcement powers and supported by limitations on armaments, would give rise to a new era of peace. These sentiments eventually influenced some governments, and in 1899 and 1907 they reluctantly convinced an international conference at the Hague to discuss plans for such institutions.\n\nQUESTIONS",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Propose the title for this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Mention two ways that the passage is advocating for settling disputes."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "How did the 17th century European sovereign states achieved their foreign goals?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "From your experience mention two conflicts which are currently being mediated in Africa."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Is there any international tribunal formed for settling disputes in Africa? Mention it."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "explanatory",
+          "question_text": "Answer briefly the following questions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Distinguish between state centred economy and free market economy."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "How does participatory democracy differ from representative democracy?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "The rise of Nationalism by 1945 was inevitable. Why?"
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "What are the factors for land degradation in many parts of Tanzania? Show how the problems can be solved."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Outline the structure of the Security Council of the UNO. What problems has it faced in the maintenance of peace and security?"
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Explain the roles of the government in the promotion of economic development in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Discuss the problems that hinder effective African Economic Cooperation."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Examine the merits of family planning in Tanzania."
+        }
+      ]
+    }
+  ]
+}

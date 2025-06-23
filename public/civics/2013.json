@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number in your answer booklet.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Biological differences between men and women is referred to as",
+              "options": {
+                "A": "sex",
+                "B": "gender",
+                "C": "gender analysis",
+                "D": "masculinity",
+                "E": "gender gap"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following is the major driving force of globalization?",
+              "options": {
+                "A": "Free movement of labour in developing nations.",
+                "B": "Increased direct foreign investment in developing nations.",
+                "C": "Revolution in information and communication technology.",
+                "D": "The introduction of multiparty system in many countries.",
+                "E": "Increased freedom of the mass media."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The United Nations adopted the Universal Declaration of Human rights in",
+              "options": {
+                "A": "1945",
+                "B": "1947",
+                "C": "1948",
+                "D": "1966",
+                "E": "1965."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "A culture of preventive care and maintenance of public property should be encouraged in Tanzania because",
+              "options": {
+                "A": "it promotes environmental cleanliness and conservation",
+                "B": "it is an international standard of public property maintenance",
+                "C": "it is a condition attached to donors assistance",
+                "D": "public properties are important cultural heritage",
+                "E": "it can reduce costs of repair and prolong the life span of the property."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The Chief Executive Officer of the city council is the",
+              "options": {
+                "A": "Mayor",
+                "B": "Deputy Mayor",
+                "C": "City Director",
+                "D": "Regional Administrative Secretary",
+                "E": "Regional Commissioner."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "One of the advantages of Saving and Credit Cooperative Societies (SACCOS) over other financial institutions is",
+              "options": {
+                "A": "better terms on their credit facilities and insurance premium",
+                "B": "better terms to savings and credit facilities to their members",
+                "C": "better money transfer services offered",
+                "D": "there is no interest on credit facilities extended to their members",
+                "E": "members are allowed to maintain their savings in foreign currency."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The ability of a person to analyse, evaluate and describe the quality of something, an action or decision is referred to as",
+              "options": {
+                "A": "creative thinking",
+                "B": "decision making",
+                "C": "problem solving",
+                "D": "critical thinking",
+                "E": "self-confidence."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "In order to make a healthy decision on any problem the first important stage is to",
+              "options": {
+                "A": "develop self confidence",
+                "B": "choose the best alternative solution",
+                "C": "seek guidance and counselling from peers",
+                "D": "seek advice from religious leaders",
+                "E": "identify and clearly understand the challenge."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The most important feature of the 1979 Zanzibar Constitution was that it",
+              "options": {
+                "A": "introduced direct elections for the House of Representative",
+                "B": "introduced a Bill of rights",
+                "C": "enhanced the people's power at grassroots",
+                "D": "created a legislative body called the House of Representatives",
+                "E": "consolidated the union between Tanganyika and Zanzibar."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "It is important to preserve our national culture because it",
+              "options": {
+                "A": "is a tourists attraction",
+                "B": "is our historical heritage",
+                "C": "is an expression of national identity and pride",
+                "D": "is an agent of socialization.",
+                "E": "promotes our moral values."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "The government system in which the ultimate political authority is vested in the people.",
+                "ii": "A political system in which a few citizens are elected to make decisions on behalf of others in parliament.",
+                "iii": "Democracy practised in city states of Athens before the birth of Christ.",
+                "iv": "An electoral system best suited for a society which is diverse.",
+                "v": "A voting system whereby some people vote for or against specific issues.",
+                "vi": "The government powers to execute policies without interference from other countries.",
+                "vii": "Equal opportunity for all adult citizens to vote and be voted for.",
+                "viii": "An electoral system whereby a candidate with the most votes, not necessarily majority, is elected.",
+                "ix": "A legally organized group of people whose major intention is to capture the state power.",
+                "x": "A legally organized group of people who influence government decision on certain public policies."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "National sovereignty.",
+                "B": "A government of national unity.",
+                "C": "A political party.",
+                "D": "Multiparty democracy.",
+                "E": "Democracy.",
+                "F": "Direct democracy.",
+                "G": "Representative democracy.",
+                "H": "Universal suffrage.",
+                "I": "Referendum.",
+                "J": "A dictatorship.",
+                "K": "Winners take all.",
+                "L": "Pressure group.",
+                "M": "A bill of rights.",
+                "N": "Secret ballot box.",
+                "O": "Proportional representation."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nInvesting in the education of girls could be one of the investments with the highest returns in Tanzania. There is a widespread perception that better educated women are able to process information and to use goods and services more efficiently. Evidence from many studies demonstrate that in the long run, increased education for women could contribute to improved quality of life and enhances national development through increased economic production, improved hygienic practices, as well as reduced child mortality and better nutritional practices. Educated women are better prepared to provide healthcare, to educate their children and to reduce their fertility to desired levels.\n\nIn Tanzania, children acquire gender role identity as a consequence of the differential treatment, expectations, and reinforcement given to girls and boys by their parents, teachers, and the society. cultural factors have a pervasive influence on the situation of female education. The Tanzanian culture has an inherent gender bias which adversely affects females. These customary practices include early marriages and parental preference for a ‘wife and mother' role for daughters. These strongly shape the aspirations of girls and they may drop out of formal schooling system prematurely, either physically or intellectually.\n\nAmong the strategies taken by the government to ensure that girls were enrolled in primary schools on equal number as boys include the enactment of the Education Act of 1969. The act provided legal backing to ensure that children were not withdrawn from school before completing the primary school cycle. Also important was the introduction of Universal Primary Education in 1974 and the Education Act No. 25 of 1978, which gave the government powers to enforce compulsory enrolment and attendance of girls and boys in schools. Through these efforts the gross enrolment ratio reached 93 percent in the late 1980s.\n\nHowever, the quality of primary education in Tanzania has suffered from underfunding and pupil's development of critical thinking has been undermined by class size and for girls particularly, by a curriculum which perpetuates gender stereotyping.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Why investment in the education of girls can have the highest returns in Tanzania?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Point out two cultural factors which affect the education of a girl child in Tanzania."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "State three ways through which children acquire gender roles in Tanzania."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Outline two challenges facing primary education in Tanzania."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Give two reasons behind increased enrolment of girls and boys in the late 1980s."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline five traditions and customs which affect the reproductive health of women in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Explain the significance of the National Anthem by giving five points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Tanzania is now more of a buyer of goods and services than a seller country. Analyse six strategies which can be employed to speed up industrial development in Tanzania."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Show six efforts made since independence to promote and preserve national culture in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Examine six root causes of improper behaviour among the youth in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "The private sector in Tanzania is growing very fast but facing many challenges. Suggest six measures to address the challenges facing the private sector in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "The struggle against women discrimination and oppression is facing many challenges in Tanzania. Examine four institutions which undermine women in Tanzania."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "HIV/AIDS is a threat to future prosperity of many nations. Elaborate six socio economic impacts of HIV/AIDS to people in Tanzania."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Attempt all questions in this section.\nThis section carries 40 Marks.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Under each of the following items there are five statements. One of the five statements best explains or complete sentences labelled (i) - (xx). Identify the best statements and write down its letter in your answer booklet.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Philosophers of Scientific Socialism were:",
+                  "options": {
+                    "A": "F. Engles, R. Owen, K. Marx",
+                    "B": "V.I. Lenin, K. Marx, J.K. Nyerere",
+                    "C": "V.I. Lenin, F. Engels, K. Marx",
+                    "D": "R. Owen, V.I. Lenin, F. Engles",
+                    "E": "J.K. Nyerere, R. Owen, V.I. Lenin."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Currently the standing committees of the Parliament are:",
+                  "options": {
+                    "A": "ten",
+                    "B": "thirteen",
+                    "C": "twelve",
+                    "D": "seven",
+                    "E": "nine."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The Parliament of the United Republic of Tanzania is Unicameral. This means that it:",
+                  "options": {
+                    "A": "proposes laws",
+                    "B": "has one house of Parliament",
+                    "C": "has two houses of Parliament",
+                    "D": "approves state budget",
+                    "E": "respects the ruling party."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The 1992 Earth Summit was held in:",
+                  "options": {
+                    "A": "Beijing",
+                    "B": "Cairo",
+                    "C": "Rio de Janeiro",
+                    "D": "New York",
+                    "E": "Rome."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The headquarters of the liberation committee of the O.A.U. used to be in:",
+                  "options": {
+                    "A": "Lusaka",
+                    "B": "Addis Ababa",
+                    "C": "Nairobi",
+                    "D": "Harare",
+                    "E": "Dar es Salaam."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "The Afro-Shiraz Party (ASP) was formed on:",
+                  "options": {
+                    "A": "5th February 1957",
+                    "B": "5th April 1957",
+                    "C": "12th January 1964",
+                    "D": "7th July 1954",
+                    "E": "10th December 1973."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "Which of the following parties had the support of the colonial government during the struggle for independence in Tanganyika?",
+                  "options": {
+                    "A": "ANC",
+                    "B": "UTP",
+                    "C": "ASP",
+                    "D": "AMNUT",
+                    "E": "TFL."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The headquarters of the International Court of Justice is:",
+                  "options": {
+                    "A": "Geneva",
+                    "B": "New York",
+                    "C": "Paris",
+                    "D": "The Hague",
+                    "E": "Rome."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "The first United Nations agency to be based in a developing country is:",
+                  "options": {
+                    "A": "WHO",
+                    "B": "UNESCO",
+                    "C": "UNEP",
+                    "D": "UNICEF",
+                    "E": "UNDP."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "The first exploitative mode of production is:",
+                  "options": {
+                    "A": "Primitive - communalism",
+                    "B": "Communism",
+                    "C": "Capitalism",
+                    "D": "Feudalism",
+                    "E": "Slavery."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xi",
+                  "sub_question_text": "Which of the following statements is NOT true about Primitive-communalism?",
+                  "options": {
+                    "A": "Communal ownership of the major means of production",
+                    "B": "Absence of exploitation",
+                    "C": "Existence of classes",
+                    "D": "Low level of development of science and technology",
+                    "E": "Equal distribution of products of labour."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xii",
+                  "sub_question_text": "The first U.N.O. Secretary-General was:",
+                  "options": {
+                    "A": "Trygve Lie",
+                    "B": "U Thant",
+                    "C": "Javier Perez de Cuellar",
+                    "D": "Kurt Waldheim",
+                    "E": "Boutros-Boutros Ghali."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiii",
+                  "sub_question_text": "The Economic Community of Western African States (ECOWAS) was formed on:",
+                  "options": {
+                    "A": "28th May 1975",
+                    "B": "24th April 1975",
+                    "C": "12th January 1964",
+                    "D": "1st April 1976",
+                    "E": "1st April 1977."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiv",
+                  "sub_question_text": "The non-permanent members of the U.N.O. security council are elected for:",
+                  "options": {
+                    "A": "four year term",
+                    "B": "five year term",
+                    "C": "three year term",
+                    "D": "two year term",
+                    "E": "one year term."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xv",
+                  "sub_question_text": "Which of the following statements is NOT true about capitalism?",
+                  "options": {
+                    "A": "There are three stages of development of capitalism?",
+                    "B": "Under capitalism labour power is a commodity",
+                    "C": "Monopoly capitalism is characterised by merger of bank capital with Industrial capital.",
+                    "D": "Major means of production are under the control of capitalists and workers.",
+                    "E": "There are inherent contradictions between labour and capital."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvi",
+                  "sub_question_text": "The chairman of the National Electoral Commission is appointed by the President from amongst:",
+                  "options": {
+                    "A": "Leaders of Political parties",
+                    "B": "Judges of the High Court or Court of Appeal",
+                    "C": "Senior civil servants",
+                    "D": "Members of Parliament",
+                    "E": "Leaders of non-governmental organizations."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvii",
+                  "sub_question_text": "Britain is:",
+                  "options": {
+                    "A": "a Republic",
+                    "B": "Absolute Monarchy",
+                    "C": "a Dictatorship",
+                    "D": "a Dominion",
+                    "E": "a Constitutional Monarchy."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xviii",
+                  "sub_question_text": "A proposal for a new law is called:",
+                  "options": {
+                    "A": "a bill",
+                    "B": "by - law",
+                    "C": "statute",
+                    "D": "Judiciary",
+                    "E": "an appeal."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xix",
+                  "sub_question_text": "The chairman of the South Commission is:",
+                  "options": {
+                    "A": "Salim Ahmed Salim",
+                    "B": "Boutros-Boutros Ghali",
+                    "C": "Julius Nyerere",
+                    "D": "Nelson Mandela",
+                    "E": "Kofi Annan."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xx",
+                  "sub_question_text": "Activities of the United Nations specialized agencies are coordinated by:",
+                  "options": {
+                    "A": "the Economic and social council of UNO",
+                    "B": "the trusteeship council of the UNO",
+                    "C": "the International Court of Justice",
+                    "D": "UNDP",
+                    "E": "Permanent Members of the security council."
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State whether the following statements are true by writing 'T' or false by writing 'F' against its number in your answer book.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Kofi Annan is the first diplomat from Africa to head the UNO."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The transfer of Sultan Seyyid Said's Capital from Oman to Zanzibar marked the beginning of trade contacts between East Africa and the Far East."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The Prime-Minister is the leader of government business in Parliament."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The World Bank is a group of four institutions."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The World Trade Organization (WTO) replaced the General Agreement on Tariffs and Trade (GATT) in 1995."
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "The Attorney-General is an ex-officio member of Parliament in Tanzania."
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "Political Parties are not different from other organizations such as (TFTU)."
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The late Abeid Amani Karume was the first President of Zanzibar after the 1964 revolution."
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "Tanzania introduced Multi-party system in 1992."
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "Pre-colonial education in Tanzania produced well-rounded personalities to fit into society."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and then answer the questions that follow.\n\nFor although political and social stability is necessary to any real national or personal freedom, so too is change in our circumstances. At present our national freedom often exists on paper only, for our country is so poor, and so weak relative to other nations, that we do not play our rightful part in the human community. Decisions on matters which vitally concern us can be and often are made without any reference to us. And this is understandable. Even defending our national integrity against the intervention of foreign powers stains us the utmost. A very great change in our economic well-being is necessary before we can meet these responsibilities of national freedom.\n\nNor is it only in national terms that real freedom is undermined by our poverty. What freedom has our subsistence farmer? He scratches a bare living from the soil provided the rains do not fail, his children work at his side without schooling, medical care, or even good feeding. Certainly he has freedom to vote and to speak as he wishes. But these freedoms are much less real to him than his freedom to be exploited. Only as his poverty is reduced will his existing political freedom become properly meaningful and his right to human dignity become a fact of human dignity.\n\nQuestions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Supply the title to this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Why does our national freedom exist on paper only?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "According to the passage what freedom does a subsistence farmer need?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Mention two problems associated with poverty at national level."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "What is the basis of national freedom?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "This section has EIGHT (8) questions. Attempt any THREE (3) questions. This section carries 60 Marks.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "Describe how the internal forces contributed to the growth of nationalism in Tanzania Mainland after the Second World War."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Explain the advantages of economic liberalization in Tanzania."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Outline the immediate measures undertaken by the Revolutionary Government of Zanzibar in 1964 to bring about equality for all."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Explain the principles of Tanzania's foreign policy."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Describe the structure and functions of the Tanzanian parliament."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "What are the measures that African countries can undertake to liberate themselves from neo-colonialism?"
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "To what extent does structural adjustment programme undermine the advancement of human rights in Africa?"
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Why did colonialists distort African culture?"
+        }
+      ]
+    }
+  ]
+}

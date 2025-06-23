@@ -1,0 +1,292 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 15,
+      "instructions": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number in the answer booklet provided.",
+      "questions": [
+        {
+          "question_type": "multiple_choice",
+          "question_number": 1,
+          "question_text": "Choose the correct answer from the given alternatives.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which component of the nervous system receives impulses from receptors?",
+              "options": {
+                "A": "Response",
+                "B": "Effector",
+                "C": "Relay",
+                "D": "Motor",
+                "E": "Coordinator"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following is the proper method for disposing plastic bottles?",
+              "options": {
+                "A": "Landfill",
+                "B": "Incineration",
+                "C": "Burying",
+                "D": "Recycling",
+                "E": "Pit latrine"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "An individual who is riding a bicycle can waste a lot of water through sweating. Which of the following organs is responsible for the water loss?",
+              "options": {
+                "A": "Stomach",
+                "B": "Kidney",
+                "C": "Skin",
+                "D": "Liver",
+                "E": "Lungs"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "In the cowshed, a red furred cow mates with a white furred bull. In F1 generation all cows were red furred. What does this suggest about fur colour in cow?",
+              "options": {
+                "A": "Incomplete dominance",
+                "B": "Co-dominance",
+                "C": "Multiple allelism",
+                "D": "Complete dominance",
+                "E": "Partial dominance"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which of the following parts allow water to enter into the seed before germination?",
+              "options": {
+                "A": "Testa",
+                "B": "Plumule",
+                "C": "Radicle",
+                "D": "Cotyledon",
+                "E": "Micropyle"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "In natural selection, which types of characteristics are affected?",
+              "options": {
+                "A": "Inherited",
+                "B": "Acquired",
+                "C": "Survived",
+                "D": "Dominant",
+                "E": "Recessive"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which process allows absorption of water and mineral salts from the soil in plants?",
+              "options": {
+                "A": "Diffusion",
+                "B": "Osmosis",
+                "C": "Irritability",
+                "D": "Mass flow",
+                "E": "Regulation"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Why spiders and scorpions are placed in the same class?",
+              "options": {
+                "A": "They have three pairs of legs",
+                "B": "They have a pair of wings",
+                "C": "They have a pair of chelicera",
+                "D": "They have three body parts",
+                "E": "They have two pairs of antennae"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Straightening and bending of the arm involve contraction of the biceps and triceps muscles. Which of the following alternatives describes the state of muscles when human arm is bent?",
+              "options": {
+                "A": "Biceps muscles contract while triceps relax",
+                "B": "Triceps muscles contract while biceps relax",
+                "C": "Both the biceps and triceps muscles relax",
+                "D": "Biceps muscles relax while triceps contract",
+                "E": "Both biceps and triceps muscles contract"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which features are found in both plant and animal cells?",
+              "options": {
+                "A": "Chloroplast, cell wall and cell membrane",
+                "B": "Cell membrane, nucleus and cytoplasm",
+                "C": "Vacuole, cell membrane and cell wall",
+                "D": "Cell wall, chloroplast and vacuole",
+                "E": "Chloroplast, nucleus and cell wall"
+              }
+            }
+          ]
+        },
+        {
+          "question_type": "matching",
+          "question_number": 2,
+          "question_text": "Match the uses of apparatuses in List A with the corresponding apparatuses in List B.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "An apparatus used for heating substance in the laboratory.",
+                "ii": "An apparatus used for storing test tubes so that they do not roll or break.",
+                "iii": "An apparatus used for measuring volume of liquids.",
+                "iv": "An apparatus used to magnify specimens.",
+                "v": "An apparatus used for keeping live aquatic animals in the laboratory."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Bunsen burner",
+                "B": "Aquarium",
+                "C": "Measuring cylinder",
+                "D": "Hand lens",
+                "E": "Spatula",
+                "F": "Test tube rack",
+                "G": "Filter funnel",
+                "H": "Test tube holder"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "instructions": "Answer all questions in this section.",
+      "marks": 60,
+      "questions": [
+        {
+          "question_type": "normal",
+          "question_number": 3,
+          "question_text": "'Animals cannot survive without moving from one place to another.' Justify this statement by giving three points with one example in each."
+        },
+        {
+          "question_type": "explanatory",
+          "question_number": 4,
+          "question_text": "Mr. Shamba got a car accident and was badly injured. During the First Aid process Mr. Sai put on gloves, took a cotton wool and gave him painkillers. What was the use of;",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "gloves?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "cotton wool?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "pain killer?"
+            }
+          ]
+        },
+        {
+          "question_type": "normal",
+          "question_number": 5,
+          "question_text": "How is the human urinary system adapted to perform its roles effectively? Give four points."
+        },
+        {
+          "question_type": "composite",
+          "question_number": 6,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Briefly explain the ways through which communicable diseases are transmitted from one person to another. Give three points."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Why is it healthy advised to boil drinking water? Give a reason."
+            }
+          ]
+        },
+        {
+          "question_type": "explanatory",
+          "question_number": 7,
+          "question_text": "Briefly explain the following terms and give one example for each.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Competition"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Mutualism"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Predation"
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 8,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Differentiate the term hyperglycaemia from hypoglycaemia."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Give four symptoms of a person suffering from diabetes mellitus."
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 9,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Why is it impossible for a locust to die when its head is held under water?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Why do people breathe more when they run fast?"
+            }
+          ]
+        },
+        {
+          "question_type": "normal",
+          "question_number": 10,
+          "question_text": "Briefly explain how the nervous system and the adrenal gland work together to bring about a response when a person is threatened by a lion."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 11,
+          "question_text": "Why is transpiration important to plants? Give three reasons."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 12,
+          "question_text": "A heterozygous normal skinned man married a heterozygous normal skinned woman. They gave birth to three normal skinned children and one albino child. The father complained that the albino child was not his. As a biologist use genetic cross to find out whether the albino child belongs to the father or not."
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "instructions": "Answe r two (2) questions from this section. Ques ti on number 13 is a compulsory.",
+      "marks": 25,
+      "questions": [
+        {
+          "question_type": "normal",
+          "question_number": 13,
+          "question_text": "Explain four family planning methods and indicate one disadvantage of each."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 14,
+          "question_text": "Why is it important for plants to carryout photosynthesis? Explain by giving four reasons."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 15,
+          "question_text": "Many people believe that insects are harmful to man hence they find poisonous chemicals to eradicate them. Giving examples, explain four ways in which insects are useful to man."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer ALL questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "During colonial rule in Tanzania welfare associations were formed by Africans in order to oppose",
+              "options": {
+                "A": "forced labour",
+                "B": "racial segregation",
+                "C": "low wages",
+                "D": "land alienation",
+                "E": "low prices of African crops."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The unchangeable experiences of the past in any society are called",
+              "options": {
+                "A": "cultural heritage",
+                "B": "customs",
+                "C": "traditions",
+                "D": "norms",
+                "E": "beliefs."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "In the Tanzania's legal system, bail may not be granted for serious crimes such as",
+              "options": {
+                "A": "treason",
+                "B": "prostitution",
+                "C": "false pretence",
+                "D": "drug trafficking",
+                "E": "homosexuality."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "One of the following statements is not true about the main features of a market economy:",
+              "options": {
+                "A": "Production is for sale",
+                "B": "Money is used as capital",
+                "C": "Preferences of suppliers and consumers are controlled by the laws of demand and supply",
+                "D": "Production is for profit",
+                "E": "Equal distribution of the products of labour."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In a constitutional monarchy the head of the winning political party during election becomes a",
+              "options": {
+                "A": "president",
+                "B": "prime minister",
+                "C": "king or queen",
+                "D": "head of state",
+                "E": "head of the upper house."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The type of democracy in Tanzania is known as parliamentary democracy because the",
+              "options": {
+                "A": "laws are made by the parliament",
+                "B": "parliament can remove the president",
+                "C": "parliament is elected by the people",
+                "D": "cabinet is appointed from the parliament",
+                "E": "basis of government authority is the parliament."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Tanganyika was separated from the German East Africa after the",
+              "options": {
+                "A": "Berlin conference",
+                "B": "Heligoland Treaty",
+                "C": "Delimitation Treaty",
+                "D": "First World War",
+                "E": "Maji maji war."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The Lome-Conventions embody comprehensive",
+              "options": {
+                "A": "political trade agreements between the EU and African countries",
+                "B": "trade and aid agreements between the EU and the African countries",
+                "C": "political and economic agreements between the EU and ACP countries",
+                "D": "trade and social agreements between the EU and the ACP countries",
+                "E": "socio-political and economic agreements between the EU and the ACP countries."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The major aim of the International Criminal Tribunal for Rwanda is to",
+              "options": {
+                "A": "punish genocide suspects in Rwanda",
+                "B": "help Rwandan refugees",
+                "C": "establish causes for the 1994 genocide in Rwanda",
+                "D": "promote peace and reconciliation in Rwanda",
+                "E": "promote democracy in Rwanda."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the following institutions is not directly responsible for human rights:",
+              "options": {
+                "A": "Magna carta",
+                "B": "Amnesty International",
+                "C": "International Confederation of the Red Cross",
+                "D": "United Nations High Commission for Refugees",
+                "E": "The Security Council of the UNO."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the response beside the item number in list A.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Heligoland Treaty",
+                "ii": "Bicameral legislature",
+                "iii": "Defendant",
+                "iv": "1st September, 1994",
+                "v": "Gender",
+                "vi": "A system of Federalism",
+                "vii": "A bill of rights",
+                "viii": "Direct Democracy",
+                "ix": "Citizen",
+                "x": "Lome convention"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "First Legislative Council in Tanganyika",
+                "B": "A person against whom court proceedings are brought",
+                "C": "The different social roles and opportunities assigned to males and females by a society",
+                "D": "Biological differences between a man and a woman",
+                "E": "Britain and USA",
+                "F": "ACP and European Community",
+                "G": "A list of responsibilities and duties listed in the constitution",
+                "H": "Partition of East Africa",
+                "I": "One must own land",
+                "J": "A list of rights and freedoms that are protected and may be included in the constitution",
+                "K": "A legal member of a state",
+                "L": "The person who institutes criminal proceedings on behalf of the state",
+                "M": "Every participant participates fully in making decisions by uttering “YES” or “NO”",
+                "N": "TPDF",
+                "O": "When both the central and local Governments are supreme regarding certain issues",
+                "P": "Repartition of German colonies by the League of Nations",
+                "Q": "The army mutiny in independent Tanganyika",
+                "R": "Non Alignment Movement",
+                "S": "Parliamentary system in the commonwealth countries",
+                "T": "Union of Tanganyika and Zanzibar."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer both questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nDemocracy is one of those pleasure giving words which every state system seeks to be identified with. Often, however, the concept of democracy conceals the reality of power exercised by some group of persons who try to maintain themselves in power. In this regard, democracy is not just the right to vote in a government or merely secure legal provisions in state constitutions or the right to speech, freedom to associate etc. Democracy is about a whole set of concerns which affords the citizenry the capacity to control their destiny.\n\nSince the 18th C Western Europe and early 20th C Africa and the current Eastern Europe democracy has been advanced by a combination of leaders of revolutions and popular movements. These institutions have fought for the right to be consulted in decision making, have pressed for the removal of barriers to their progress and have demanded for a central place in the governance process.\n\nThe driving force for these movements is the voluntary coming together of men and women for a common purpose to improve the society in which they live by demanding change from their rulers. In the countries of the North, that is Western Europe and North America the vehicles for demanding change and participation in the governance process have for a long time been interest groups that eventually aggregated into political parties which in turn contested for political power. Then as time went by political parties have been one of the major instruments of the citizenry in their desire to effect democracy in their societies.\n\nQuestions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "What is the passage about?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "What is the definition of democracy according to the passage?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "How do interest groups differ from political parties?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Besides political parties name other institutions for effecting democracy."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "In your view how do political parties effect democracy in the societies? (Give two ways only)."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "explanatory",
+          "question_text": "Answer briefly the following questions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Mention five steps taken by Tanzania in promoting human rights in the country."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "“Tanzania is a United Republic.” What do you understand by this contention?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer THREE (3) questions from this section",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Describe the efforts made by the government of Tanzania to empower the women."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Despite the successful periodic elections, Tanzania was not certified as a democratic state until 1992. Why?"
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "In what ways can economic liberalisation promote economic development in Tanzania?"
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Examine the factors that influenced the development of Nationalism in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Highlight the roles of a responsible citizen of Tanzania."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Using concrete examples discuss how the UN helps African states in solving their socio-political problems."
+        }
+      ]
+    }
+  ]
+}

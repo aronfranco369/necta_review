@@ -1,0 +1,262 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 16,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) – (x), choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which one of the following is the official seal and badge of the government of the United Republic of Tanzania?",
+              "options": {
+                "A": "The Uhuru Torch",
+                "B": "The Presidential Standard Flag",
+                "C": "The National Flag",
+                "D": "The Coat of Arms",
+                "E": "The National Currency"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "What is a distinctive future of mandatory road sign?",
+              "options": {
+                "A": "It informs road users what they must not do",
+                "B": "It informs road users what they must do",
+                "C": "It informs road users about dangers ahead",
+                "D": "It provides road users with directives to a location",
+                "E": "It guides vehicle drivers only"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Which of the following are the leading causes for divorce in Tanzania?",
+              "options": {
+                "A": "Lack of love, peace, morals and respect",
+                "B": "Lack of love, money, morals and respect",
+                "C": "Lack of love, shelter, morals and respect",
+                "D": "Lack of love, clothing, morals and respect",
+                "E": "Lack of love, peace, education and respect"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "How do you characterize a situation in which people remain poor throughout their lives despite the struggle to change the situation?",
+              "options": {
+                "A": "Relative poverty",
+                "B": "Income poverty",
+                "C": "Poverty line",
+                "D": "Vicious circle of poverty",
+                "E": "Low per capita income"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "What is the likely political threat posed by the World Bank and the International Monetary Fund (IMF) sponsored economic support to developing countries like Tanzania?",
+              "options": {
+                "A": "Increased flow of direct foreign investment in developing countries",
+                "B": "Increase in the number of opposition political parties in developing countries",
+                "C": "Increased flow of people from industrial countries to developing countries",
+                "D": "The United Nations diminishing influence in developing countries",
+                "E": "The diminishing of state sovereignty of developing countries."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The following statements communicate an important aspect of urban councils in Tanzania except",
+              "options": {
+                "A": "all members of urban councils are elected from the wards within the area.",
+                "B": "urban councils exist in townships, municipals and cities.",
+                "C": "heads of urban councils are called mayors.",
+                "D": "executive directors serve as secretaries of urban councils.",
+                "E": "urban councils work through various committees."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Masumbuko is your classmate who enjoys serving his fellow students in a number of charitable organizations in your school. What type of career is most appropriate for Masumbuko to persue after completing form four?",
+              "options": {
+                "A": "Information technology, medicine and finance",
+                "B": "Teaching, nursing and finance",
+                "C": "Finance, architecture and social work",
+                "D": "Engineering, teaching and social work",
+                "E": "Teaching, medicine and social work"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Suppose your class teacher directed you and your fellow students to prepare songs, poems, drama and dances to grace the fourth coming form four graduation ceremony in your school. How do you characterise the form of art which will grace the graduation ceremony?",
+              "options": {
+                "A": "Sculpturing",
+                "B": "Audio visual art",
+                "C": "Peforming art",
+                "D": "Traditional art",
+                "E": "Sports and games"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which strategy can be employed to prolong the life span of public properties in your school?",
+              "options": {
+                "A": "Increase the amount of caution money",
+                "B": "Institute strict school regulation",
+                "C": "Institute periodic maintenance schedule",
+                "D": "Empower the students government",
+                "E": "Institute stock verification schedule"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Wife inheritance and female genital mutilation are characterized as outdated traditions in Tanzania. What are the justification for this characterization?\n(i) It encourages immoral life style.\n(ii) It exposes the victim to the risks of HIV/AIDS infections.\n(iii) It encourages the demand for huge bride price to prospective suitors.\n(iv) It dehumanizes and inflicts psychological torture to the victims.",
+              "options": {
+                "A": "(i) and (iv)",
+                "B": "(ii) and (iv)",
+                "C": "(iii) and (iv)",
+                "D": "(ii) and (iii)",
+                "E": "(i) and (ii)"
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the description of social skills in List A with the correct skill in List B by writing the letter of the corresponding response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The ability of a person to convey a message to other people according to their mood, age and background.",
+                "ii": "The ability of an individual to withstand negative influence from his/her friends.",
+                "iii": "The ability of one's friends to influence him or her to do something good or bad.",
+                "iv": "The ability of a person to agree on issues without undermining or going against one's principles.",
+                "v": "The ability of a person to understand and feel concerned about other people's problems.",
+                "vi": "The ability of people to collaborate to achieve a common goal."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Creative thinking",
+                "B": "Empathy",
+                "C": "Effective communication",
+                "D": "Team work",
+                "E": "Peer resistance",
+                "F": "Self-awareness",
+                "G": "Negotiation skills",
+                "H": "Peer pressure"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 54,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Read the following passage carefully and answer the questions that follow:\n\nFood vending is considered as part of the informal sector which is a fast growing small scale business especially in producing and distributing services of the cooked food at different times in Tanzania. The term street vended food describes a wide range of ready to eat food and beverages sold and sometimes it is prepared along streets and several other public places which include; lorry stations, parks, schools, construction sites and virtually all location where there is high number of potential customers. It is accessible everywhere, convenient, inexpensive, delicious, authentic, culturally enriching and relatively healthful.\n\nThe food vendor sector is growing not only because people need food but also due to the lack of formal job which influence the growth of the sector. Most unemployed college or school graduates in many African countries fall back to street food vending. The reason being the initial capital is low and is affordable. Food vendors are categorized into two groups based on how they operate their food vending activities. There are food vendors who travel from one place to another on bicycles, motorcycles or tricycles carrying a glass case which contain the food intended for sale. Most of the time the food is prepared much in advance and stored under unfavorable conditions. The second category is stationary food vendors who have stalls which are immovable at a point usually on the road side or under a shop where they prepare or cook food instantly. Every day these vendors store their bulky goods such as tables and benches in their caravan.\n\nIn Tanzania the recognition of the economic value of the informal sector came shortly after the economic hardship in the early 1980's. The most remarkable feature of the informal sector is its diversity and heterogeneity. The sector comprises individuals from all steps of the economic and education ladder. There is a need for the government authorities to provide facilitation to this sector through licensing, allocation of spaces for business premises, financial services, health and quality control, setting rules and regulations and policy management.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Suggest a suitable tittle for the passage."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Why food vending business attracts many jobless college and school graduates in most African countries?"
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "What is the opinion of the author on the quality of street vended food? Give two points."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "What triggered the interest towards the informal sector in Tanzania?"
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "According to the passage, how can the government in Tanzania improve the informal sector? Give two points."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "In four points, briefly explain the distinctive features of developing countries like Tanzania."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "In four points, briefly explain the circumstances that can undermine the protection of individual rights in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "How are limitations of human rights differentiated from human right abuses? Give five points."
+            }
+          ]
+        },
+        {
+          "question_number": 5,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Explain the four distinctive roles of the judiciary in Tanzania."
+            }
+          ]
+        },
+        {
+          "question_number": 8,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "In four points, briefly explain the need for rational decisions in the event of any challenges in your daily life."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Determine five unacceptable students' behaviour liable for termination which should be included in the school codes of conduct."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 30,
+      "instructions": "Answer two (2) questions in this section.",
+      "questions": [
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Identify five negative aspects of socio cultural values in Tanzanian society and for each analyse its impact."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Propose five conditions to be adhered by all stakeholders in a country so as to achieve free and fair election."
+        },
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "Despite the fact that gender inequality is socially constructed, it can be alleviated to achieve inclusive development. In the light of this statement, propose five measures to address gender inequality in Tanzania."
+        }
+      ]
+    }
+  ]
+}

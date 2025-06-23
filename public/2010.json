@@ -1,0 +1,446 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_type": "multiple_choice",
+          "question_number": 1,
+          "question_text": "For each of the items (i) – (x) choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which of the following is common to both plants and animals?",
+              "options": {
+                "A": "Respiration",
+                "B": "Digestion",
+                "C": "An excretory system",
+                "D": "Chloroplasts",
+                "E": "Starch grains"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "A flower which possesses both stamens and carpels is said to be",
+              "options": {
+                "A": "Unisexual",
+                "B": "Hermaphrodite",
+                "C": "Monoecious",
+                "D": "Zygomorphic",
+                "E": "Polymorphic"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Useful substances are retained in the kidney by",
+              "options": {
+                "A": "Filtration",
+                "B": "Osmosis",
+                "C": "Selective reabsorption",
+                "D": "Osmo-regulation",
+                "E": "Diffusion"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The Monera are also referred to as Prokaryotes. This means having:",
+              "options": {
+                "A": "No nucleus",
+                "B": "Membrane bounded organelles",
+                "C": "Simple structures",
+                "D": "Reduced nucleus",
+                "E": "Circular nucleus"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which of the following is a characteristic of wind-pollinated flowers?",
+              "options": {
+                "A": "They have large brightly coloured petals",
+                "B": "They produce a small number of pollen grains",
+                "C": "They have small anthers situated inside the flower",
+                "D": "They do not have nectarines",
+                "E": "They have large, sticky or spiky pollen grains"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Food is moved along the oesophagus by a process known as:",
+              "options": {
+                "A": "Assimilation",
+                "B": "Chewing",
+                "C": "Egestion",
+                "D": "Peristalsis",
+                "E": "Churning"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Reptiles differ from birds because:",
+              "options": {
+                "A": "Reptiles do not lay eggs while birds do",
+                "B": "Reptiles have a backbone while birds do not",
+                "C": "Reptiles have scales while birds do not",
+                "D": "Reptiles are cold blooded while birds are warm blooded",
+                "E": "Reptiles have moist skin while birds have dry skin"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Removal of predators in the ecosystem will result in:",
+              "options": {
+                "A": "Decrease in the number of producers",
+                "B": "Increase in the number of producers",
+                "C": "Decrease in the number of prey",
+                "D": "An increase in the number of decomposers",
+                "E": "No significant change"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "A bean plant can either bear terminal or axial flowers. When a terminal flowered plant (T) is pollinated with an axial flowered plant (t), the offspring produced were 200 terminal flowered and 210 axial flowered. Which of the following represents the genotypes of the parents?",
+              "options": {
+                "A": "TT x Tt",
+                "B": "Tt x Tt",
+                "C": "TT x tt",
+                "D": "Tt x tt",
+                "E": "T x t"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "What does selective breeding mean?",
+              "options": {
+                "A": "Only pure stock should be inbred",
+                "B": "The parents are chosen to produce desired offspring",
+                "C": "The encouragement of out breeding",
+                "D": "The parents are chosen carefully",
+                "E": "The offspring are like parents"
+              }
+            }
+          ]
+        },
+        {
+          "question_type": "matching",
+
+          "question_number": 2,
+          "question_text": "Match the responses in List B with the phrases in List A by writing the letter of the correct response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Useful materials are returned to the blood stream from the glomerular filtrate",
+                "ii": "Gaseous exchange surface of insects",
+                "iii": "Exchange of materials between blood capillaries and cell",
+                "iv": "Deamination of amino acid and formation of urea",
+                "v": "A substance secreted in bloodstream but brings its effect elsewhere",
+                "vi": "Allows movement in three planes",
+                "vii": "The ability of seeds to germinate",
+                "viii": "Plant parts best for planting Irish potato",
+                "ix": "Chromosome occurring in unpaired set as in gametes",
+                "x": "Body covered with a hard exoskeleton"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Diploid",
+                "B": "Lungbooks",
+                "C": "Liver",
+                "D": "Arthropoda",
+                "E": "Seed dormancy",
+                "F": "Stem cutting",
+                "G": "Ultrafiltration",
+                "H": "Ball and socket",
+                "I": "Diffusion",
+                "J": "Hormone",
+                "K": "Neurone",
+                "L": "Seed viability",
+                "M": "Osmosis",
+                "N": "Hinge",
+                "O": "Stem tuber",
+                "P": "Selective reabsorption",
+                "Q": "Tracheoles",
+                "R": "Haploid",
+                "S": "Mollusca",
+                "T": "Kidney"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_type": "composite",
+          "question_number": 3,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "For each of the following processes, state the site of the process, the raw materials, important products and by-products.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Photosynthesis"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Aerobic respiration"
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Give reasons why it is healthier to breathe through the nose than through the mouth."
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 4,
+
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Explain what is meant by the following terms:",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Heterotrophic nutrition"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Autotrophic nutrition"
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The diagram below (Figure 1) shows the external structure of a leaf.",
+              "visual_elements": [
+                {
+                  "element_type": "image",
+
+                  "image_url": "2010_qn4_b",
+                  "alt_text": "Figure 1"
+                }
+              ],
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Name the parts labeled A, B and C."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "What is the function of the part labeled C."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "What features of the external structure show that a leaf is adapted for photosynthesis."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 5,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Some insects are harmful and some are useful to man. Argue for this statement by giving three examples for each."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "In what way are earthworms important to farmers?"
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 6,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Define the term tropism."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "State the biological importance of hydrotropism and phototropism."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "How is accommodation brought about in the human eye?"
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 7,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Explain the functions of the following parts of a compound microscope.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Stage"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Eyepiece"
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Name four (4) human diseases caused by viruses."
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 8,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Maduda on her way to school came across a rattle-snake on the path coming right towards her. In no time she found herself up a tree.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "What gave her the ability to climb the tree so quickly?"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Identify the different processes that went on in her body during this incidence."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 9,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Define the following terms as used in Biology:",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Ecology"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Environment"
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "Community"
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "Ecosystem"
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "State the difference between natural and artificial ecosystems. Give one example for each case."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Explain why food webs are more representative of feeding relationships than food chains."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_type": "composite",
+          "question_number": 10,
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Explain the following:",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Acquired characters are not inherited."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Ecological pyramids taper towards the apex."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "Walls of ventricles are thicker than those of auricles."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "Rate of heart beat increases when one is frightened."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Write down three (3) differences between mitosis and meiosis."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 20,
+      "instructions": "Answer one (1) question from this section.",
+      "questions": [
+        {
+          "question_type": "normal",
+          "question_number": 11,
+          "question_text": "Genetics is a branch of Biology dealing with heredity. How can this field of Biology be applied to everyday life?"
+        },
+        {
+          "question_type": "normal",
+          "question_number": 12,
+          "question_text": "The brain is the largest portion of the nervous system and very important for controlling activities in the body. With the aid of a diagram, describe the functions of the different parts of the human brain. Explain why only humans are said to be intelligent."
+        },
+        {
+          "question_type": "explanatory",
+          "question_number": 13,
+          "question_text": "Write an essay on birth control methods which do the following:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suppress the formation and/or release of gametes."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Prevent the union of gametes in fertilization."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Prevent the implantation of fertilized egg."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

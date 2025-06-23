@@ -1,0 +1,232 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 15,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) – (x), choose the correct answer from among the given alternatives and write its letter besides the item number in the answer booklet(s) provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "What is the formal name for the constituency of elected member of the district council?",
+              "options": {
+                "A": "Village",
+                "B": "Division",
+                "C": "Ward",
+                "D": "Municipal",
+                "E": "District"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The Makonde are famous in Tanzania for their skills in making carvings of various types. How do you characterize such carvings?",
+              "options": {
+                "A": "Tradition",
+                "B": "Performing art",
+                "C": "Arts",
+                "D": "Crafts",
+                "E": "Norms"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Which one of the following characterise a social responsibility of citizens?",
+              "options": {
+                "A": "Citizens paying taxes and duties.",
+                "B": "Citizens participation in electing local and national leaders.",
+                "C": "Citizens protecting the environment.",
+                "D": "Citizens participation in lawful work.",
+                "E": "Citizens contesting for leadership position in the society."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "In your class there are few students who have developed stress due to fear in taking an examination. How will you advise them to cope with examination stress?",
+              "options": {
+                "A": "To take some rest before examination.",
+                "B": "To eat a lot of food before examination.",
+                "C": "To think of different games during examination.",
+                "D": "To make some physical exercise during examination.",
+                "E": "To spend more time in studying before examination."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "How do Members of Parliament fulfill their role of legislation?",
+              "options": {
+                "A": "When they assent bills to become laws",
+                "B": "When they enforce laws",
+                "C": "When they initiate sectorial policies",
+                "D": "When they debate and approve bills",
+                "E": "When they give money to people"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "How do you describe the ancient buildings found in Kaole, Kilwa and Mtwara- Mikindani?",
+              "options": {
+                "A": "Archives",
+                "B": "Antiquities",
+                "C": "Crafts",
+                "D": "Arts",
+                "E": "Museum"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "How are non-banking institutions differentiated from banking institutions?",
+              "options": {
+                "A": "They keep valuable items like gold.",
+                "B": "They provide services like insurance and pension.",
+                "C": "They mobilize funds from formal and private sectors.",
+                "D": "They provide commercial services to the public.",
+                "E": "They mobilize savings and transaction for customers."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "What are the distinguishing features of economic development?",
+              "options": {
+                "A": "Increase in gross national product and improvement of the welfare of the people",
+                "B": "Increase in income per capita and improvement of social services",
+                "C": "Increase in output of economic sectors and improvement of higher education",
+                "D": "Increase in agricultural production and improvement in accessibility to safe water",
+                "E": "Increase in economic growth and improvement of the medical care"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Suppose you are an election observer of the General election in Tanzania. What will guide you in concluding that the election was free and fair?",
+              "options": {
+                "A": "Registered and non-registered voters allowed to cast their votes",
+                "B": "The armed forces supervision of vote tallying",
+                "C": "The registrar of political parties supervision of vote tallying",
+                "D": "The election to be supervised by the judiciary",
+                "E": "The registered voters freely cast their votes through a secret ballot box"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Why the public holiday falling on the 26th of April each year is politically striking to Tanzanians?",
+              "options": {
+                "A": "It marks the independence day of Tanganyika.",
+                "B": "It marks the union between Tanganyika and Zanzibar.",
+                "C": "It marks the overthrow of the Zanzibar sultanate.",
+                "D": "It marks the introduction of the multiparty system in Tanzania.",
+                "E": "It marks the inclusion of the bill of rights in the United Republic constitution."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the explanations in List A with the leadership style in List B by writing the letter of the correct response besides the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "A type of leadership which provides opportunity to every member in the organization to participate in decision making.",
+                "ii": "A type of leadership which denies the people the freedom to participate in decision making.",
+                "iii": "A type of leadership which allow members to have autonomy and self-rule while the leader offers support and guidance when need arise.",
+                "iv": "A type of leadership which influence others through the personality of individual leader, motivate others to move forward and inspire passion.",
+                "v": "A type of leadership which fixes official duties under chain of command, whereby decisions are made by seniors while juniors are left to implement."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Bureaucratic leadership",
+                "B": "Coaching leadership",
+                "C": "Democratic leadership",
+                "D": "Dictatorial leadership",
+                "E": "Innovative leadership",
+                "F": "Lesser-faire leadership",
+                "G": "Charismatic leadership",
+                "H": "Pace setter leadership"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 40,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "Suppose you are a Councillor of Mizengwe ward which happens to have serious water shortage. Propose five sources of revenues for the local government authorities which can be used to address the problem."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "What are the consequences that may result into the failure of parents to fulfill their responsibilities in the families? (Give five points)."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "In five points, briefly analyse the positive impacts of economic liberalization policies to the people of Tanzania."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Briefly, explain five challenges in promoting and preserving cultural values in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Using five points, briefly defend the view that 'work is an engine for human development'."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "By using five points, briefly defend the usefulness of different forms of art to people's daily life in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Explain briefly, the effects of human rights abuses to a country like Tanzania (Give five points)"
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "How would you prove the persistence of poverty in Tanzania? (Give five points)"
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 45,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "A recent report in one of the newspaper indicated a dreadful situation of the road safety in Tanzania. Suppose you are the Minister for Home Affairs, propose five key measures to improve road safety in the country."
+        },
+        {
+          "question_number": 12,
+          "question_type": "normal",
+          "question_text": "Basing on the recently attained middle income country status of Tanzania, assess the role of the formal sector in spearheading the development of the Tanzanian economy by using five points."
+        },
+        {
+          "question_number": 13,
+          "question_type": "normal",
+          "question_text": "For a democracy to thrive in any country, there are pillars of democracy to be observed. In five points, assess the achievements of Tanzania in broadening the scope of democracy."
+        },
+        {
+          "question_number": 14,
+          "question_type": "normal",
+          "question_text": "Early marriages have been identified as a hindrance to development of a girl child potential in our society. Propose five solutions that can be employed to address the problem of early marriages."
+        }
+      ]
+    }
+  ]
+}

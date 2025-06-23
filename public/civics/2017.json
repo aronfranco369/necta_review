@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number in the answer booklet(s) provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The elephant tusk on the coat of arms represent",
+              "options": {
+                "A": "state power",
+                "B": "natural resources",
+                "C": "national prestige",
+                "D": "peoples power",
+                "E": "national freedom"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following is NOT a correct characterization of the informal sector in Tanzania?",
+              "options": {
+                "A": "lack of permanent business premises",
+                "B": "business activities are regulated by taxation laws",
+                "C": "employees lack social security protection",
+                "D": "employees have little job security",
+                "E": "employees' wages are often low."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "A gift that is given to the bride or her parents by the future husband in consideration for marriage is called",
+              "options": {
+                "A": "inheritance",
+                "B": "engagement ring",
+                "C": "dowry",
+                "D": "a wedding present",
+                "E": "a souvenir."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "When local governments enact laws in their areas of authority, the laws are called",
+              "options": {
+                "A": "Standing orders",
+                "B": "Local government order",
+                "C": "Bills",
+                "D": "Manifesto",
+                "E": "By laws."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "A condition whereby individual rights are restricted to safeguard the rights of other people is known as",
+              "options": {
+                "A": "protection of human rights",
+                "B": "execution of the natural justice",
+                "C": "the rule of law",
+                "D": "limitation of human rights",
+                "E": "violation of human rights."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "In the United Republic of Tanzania, the Judiciary is headed by the",
+              "options": {
+                "A": "Chief Justice",
+                "B": "Attorney General",
+                "C": "Director of Public Prosecution",
+                "D": "Prime Minister",
+                "E": "Minister for Legal and Constitutional Affairs."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The first permanent constitution in Tanzania was enacted in",
+              "options": {
+                "A": "1964",
+                "B": "1965",
+                "C": "1984",
+                "D": "1977",
+                "E": "1992."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "An organized body of persons who form an agency of the state is known as",
+              "options": {
+                "A": "Government",
+                "B": "Executive",
+                "C": "Legislative",
+                "D": "The armed force",
+                "E": "Judiciary."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The right to voluntarily belong to any organization is known as",
+              "options": {
+                "A": "freedom of expression",
+                "B": "the right to life",
+                "C": "freedom of association",
+                "D": "freedom of assembly",
+                "E": "right to equality."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which of the following are Commercial Banks in Tanzania?",
+              "options": {
+                "A": "GEPF, NBC and TIB.",
+                "B": "NBC, CRDB and GEPF.",
+                "C": "NMB, SACCOS and NIHF.",
+                "D": "NBC, CRDB and PSPF.",
+                "E": "NBC, NMB and CRDB."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct response in List B by writing the letter of the corresponding response beside the item number in the answer booklet(s) provided.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "A belief shared in a society on what is desirable, correct and good.",
+                "ii": "It is used to represent and identify individuals, society or a country.",
+                "iii": "A set of rules which set standards for the accepted behaviours in a society.",
+                "iv": "Pattern of conduct shared by the people in a given community but always change with time.",
+                "v": "Practices that persisted in a society for a long time and do not change.",
+                "vi": "Abilities of using imagination to express ideas through writing and sculpturing.",
+                "vii": "Physical artifacts such as furniture made by human beings.",
+                "viii": "Simple technology or skill of producing things such as pottery and basketry.",
+                "ix": "Relate to activities that people do after working hours for relaxation and enjoyment.",
+                "x": "A system of communication in speech or writing by using a particular community"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Symbol",
+                "B": "Customs",
+                "C": "Values",
+                "D": "Material culture",
+                "E": "Language",
+                "F": "Recreation",
+                "G": "Arts",
+                "H": "Tradition",
+                "I": "Antiquities",
+                "J": "Myths",
+                "K": "Norms",
+                "L": "Taboos",
+                "M": "Crafts",
+                "N": "Museums",
+                "O": "Archives"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the folllowing passage carefully and answer the questions that follow :\n\nSuicide is one of the critical problems of adolescent today. This disastrous act is committed for different reasons. Some adolescents often feel that death is the only way out of intolerable situations. Those terminally ill and those incapacitated by serious illness or injuries commit suicide to avoid further pain. Yet others commit suicide to draw attention, to teach those who hurt them a lesson and to punish themselves for the shame they might have caused to others.\n\nMost adolescents who commit suicide do so as a reaction to previous distressing events. Such common events include conflicts within the adolescent's families, their failure to live up to the parents' or guardians expectations and the adolescent's failure to develop adequate interpersonal relationships within their families. These events often leads to suicide signals such as threatening to commit suicide or displaying actual tendencies to suicide and serious suicide attempts whereby the adolescent survives or leads to actual suicide.\n\nThe signals of suicide among adolescent include previous attempts, threat to commit suicide, feelings of alienation and loneliness and the presence of mental illness especially depression. Other signals are lack of adequate impulse control, unexpected severe and prolonged stress and negative emotions.\n\n Questions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Provide a suitable title for the passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "What is the attitude of some adolescents towards death?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Mention any two factors from the passage that compel some of the youth to commit suicide."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "List down two suicide signals among the adolescents."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "What is the attitude of the author towards suicide tendencies among the adolescent?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline five merits of making responsible decision."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Briefly explain five importance of work for self-development."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "In six points, differentiate democratic governments from non-democratic governments."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Show how Tanzania can contain the challenges posed by globalization by giving six points."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "To what extent financial institutions in Tanzania can pave the way to economic prosperity of Tanzanians? (Give six points)."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Tanzania is a signatory of the 1948 United Nations Declaration of Human rights. To what extent are human rights protected in Tanzania? (Give six points)."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Examine six root causes of poverty in Tanzania."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Most members in your community are not aware on the causes of high incidences of road accidents. As a knowledgeable community member, briefly explain six causes of road accidents in Tanzania."
+        }
+      ]
+    }
+  ]
+}

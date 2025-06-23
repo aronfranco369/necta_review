@@ -1,0 +1,218 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 16,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_type": "multiple_choice",
+          "question_number": 1,
+          "question_text": "For each of the items (i) – (x), choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which animal symbolically reminds Tanzanians to understand their country by viewing life from different angles?",
+              "options": {
+                "A": "The Lion",
+                "B": "The Elephant",
+                "C": "The Giraffe",
+                "D": "The Leopard",
+                "E": "The Buffalo"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Neema was quoted saying \"At our school there is fair treatment of both girls and boys to make us fulfill our academic goal\". Which concept best explain Neema's observation?",
+              "options": {
+                "A": "Gender equality",
+                "B": "Gender analysis",
+                "C": "Gender stereotype",
+                "D": "Gender blindness",
+                "E": "Gender equity"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Suppose three sovereign countries have surrendered their total independence and autonomy to form one country, what will be the form of a newly formed government?",
+              "options": {
+                "A": "Federal government",
+                "B": "Republic government",
+                "C": "Union government",
+                "D": "Transitional government",
+                "E": "Monarch government"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which term is a best description of a situation where people lack access to education, health services, productive skills, information and political freedom?",
+              "options": {
+                "A": "Income poverty",
+                "B": "Non-material poverty",
+                "C": "Material poverty",
+                "D": "Absolute poverty",
+                "E": "Vicious circle of poverty"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The shape, colour and text of the road signs should give clear message to road users. Which one of the following is the correct interpretation of the road signs?",
+              "options": {
+                "A": "Round, triangle shape and colours give information to the road users",
+                "B": "Triangle shape with thick red borders warns the vehicles or road user",
+                "C": "Octagon, pentagon and cross enforce traffic laws and regulation",
+                "D": "Symbols and signs inform and direct road users on a proper use of roads",
+                "E": "Triangle, pentagon and octagon shape permit road users to act accordingly"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Mr. Mashaka and Mis. Siwema got married in 2015 and managed to bear two children who both passed away in 2019 due to Covid -19. Despite that loss, they still live together peacefully. How would you classify Mr. Mashaka family?",
+              "options": {
+                "A": "Nucleus family",
+                "B": "Child - headed family",
+                "C": "Extended family",
+                "D": "Single parent family",
+                "E": "Couple family"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "How would you arrange the following components to form an effective communication model?\n(i) Message (ii) Feedback (iii) Channel (iv) Receiver (v) Sender",
+              "options": {
+                "A": "(iv), (i), (iii), (v) and (ii)",
+                "B": "(ii), (iv), (i), (v) and (iii)",
+                "C": "(v), (ii), (i), (iv) and (iii)",
+                "D": "(v), (i), (iii), (iv) and (ii)",
+                "E": "(iii), (i), (iv), (ii) and (v)"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Why individual rights are sometimes legitimately limited in most democratic states?",
+              "options": {
+                "A": "To protect private interests of public officials",
+                "B": "To protect state security and rights of others",
+                "C": "To make people aware of their rights",
+                "D": "To promote mob justice and related malpractices",
+                "E": "To help some people enjoy their rights more than others"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Suppose you live in a society which is widely affected by female genital mutilation practices, which measures will you take to address such a challenge?\n(i) The society will be advised against high dowry payment\n(ii) The government to enact strict laws against female genital mutilation practitioners.\n(iii) The society will be educated on the negative effects of female genital mutilation.\n(iv) The girls likely to be victims will be advised to run away from villages.\n(v) Participatory measures will be applied so as to expose and discourage those who mutilate female.\n(vi) Regular medical and psychological treatments will be administered to victims of female genitals mutilation.",
+              "options": {
+                "A": "(i), (ii) and (vi)",
+                "B": "(i), (iii) and (iv)",
+                "C": "(ii), (iv) and (v)",
+                "D": "(iv), (v) and (vi)",
+                "E": "(ii), (iii) and (v)"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Maneno is undecided on his future career following his excellent performance in the recent national Form Four examinations. Which procedure should be the first one to observe in his career choice?",
+              "options": {
+                "A": "Visiting certain organizations to learn about work related activities",
+                "B": "Browsing the Internet and social network such as Facebook and twitter",
+                "C": "Seeking advise from parents and guardians pertaining to a given career",
+                "D": "Finding information on different careers from the community",
+                "E": "Making self-assessment of his talents, interests and goals"
+              }
+            }
+          ]
+        },
+        {
+          "question_type": "matching",
+          "question_number": 2,
+          "question_text": "Match the description of economic integration in List A with the correct form of economic integration in List B by writing the letter of the corresponding response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "A form of economic cooperation whereby tariffs on imported goods among member countries are significantly reduced.",
+                "ii": "A form of economic cooperation whereby member states set common external tariffs to imports from non-member states.",
+                "iii": "A form of economic cooperation whereby services and capital are free to move within member countries.",
+                "iv": "A form of economic cooperation whereby member states have harmonized tax rates, common monetary and fiscal policy.",
+                "v": "A member state economic ability to produce a particular good and services at a lower opportunity cost than its trading partners.",
+                "vi": "An advanced economic cooperation whereby the sovereignty of member states is significantly reduced."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Economies of scale",
+                "B": "Trade complementarity",
+                "C": "Political union",
+                "D": "Free trade",
+                "E": "Economic union",
+                "F": "Common Market",
+                "G": "Custom union",
+                "H": "Comparative advantage"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 54,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_type": "normal",
+          "question_number": 3,
+          "question_text": "In six points, briefly explain civic duties a Tanzanian citizen is expected to perform for his own and national development."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 4,
+          "question_text": "Identify six ways that can help the youth in Tanzania avoid irrational decisions in their daily life."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 5,
+          "question_text": "How would you defend the view that culture plays a significant role in any society? Give six points."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 6,
+          "question_text": "Why most modern societies prefer indirect democracy to other forms of democracy? Give six brief points."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 7,
+          "question_text": "In six points, briefly show the importance of having good student's leadership in your school."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 8,
+          "question_text": "Briefly explain the role of six agents of socialization in promoting and preserving the cultural values in Tanzania."
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 30,
+      "instructions": "Answer two (2) questions in this section.",
+      "questions": [
+        {
+          "question_type": "normal",
+          "question_number": 9,
+          "question_text": "The Tanzania Government is currently implementing a number of strategic development projects that require massive funds. Explain five major areas in which the government can get the fund."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 10,
+          "question_text": "Explain five consequences of neglecting timely repair and maintenance of personal and public properties."
+        },
+        {
+          "question_type": "normal",
+          "question_number": 11,
+          "question_text": "Propose five strategies that should be considered by the Government to ensure the sustainability in provision of clean and safe water to the majority of Tanzanians."
+        }
+      ]
+    }
+  ]
+}

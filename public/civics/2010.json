@@ -1,0 +1,270 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A (20 marks)",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "A social group whereby a man leads the family is known as",
+              "options": {
+                "A": "matrilineal",
+                "B": "matriarchal",
+                "C": "patrilineal",
+                "D": "bilateral",
+                "E": "patriarchal."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "In life skills, the ability of a person to appreciate himself or herself is known as",
+              "options": {
+                "A": "self service",
+                "B": "assertiveness",
+                "C": "self esteem",
+                "D": "self awareness",
+                "E": "coping with emotions."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Gender inequality means",
+              "options": {
+                "A": "inequality in job accessibility between two different sexes",
+                "B": "inequality in education accessibility between girls and boys.",
+                "C": "a certain kind of sex is given priority in all aspects of life",
+                "D": "women empowerment",
+                "E": "a planning that considers both women and men in terms of needs."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Foreigners outside the Commonwealth countries may be granted Tanzanian Citizenship by",
+              "options": {
+                "A": "naturalisation",
+                "B": "vital registration",
+                "C": "presenting their passport",
+                "D": "decent",
+                "E": "filling the special forms."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Peer groups, schools, religion, and mass media is an example of",
+              "options": {
+                "A": "pressure groups",
+                "B": "socialization agents",
+                "C": "civil societies",
+                "D": "community based organizations",
+                "E": "non governmental organizations"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "In road safety the precaution signs",
+              "options": {
+                "A": "Warn the road users to take proper measures against any danger which may occur ahead",
+                "B": "control the speed of passenger vehicles against any danger which may occur ahead",
+                "C": "limit the speed of the big trucks against any danger which may occur ahead",
+                "D": "are drawn on the road surface",
+                "E": "are drawn in the same way as command signs."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Reading, writing, listening and speaking are best known as:",
+              "options": {
+                "A": "Communication model",
+                "B": "Elements of communication as a process",
+                "C": "Basic communication skills",
+                "D": "Non verbal communication",
+                "E": "Modern forms of communication."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Violations of human rights can be caused by the following except",
+              "options": {
+                "A": "negligence of the actors",
+                "B": "ignorance",
+                "C": "corruption",
+                "D": "selfishness",
+                "E": "globalization."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "One of the factors which undermined the legitimacy of a one party system in Africa was",
+              "options": {
+                "A": "ethnicity",
+                "B": "civil wars and religious conflicts",
+                "C": "privatization of the public enterprises",
+                "D": "economic crisis and the collapse of the eastern block",
+                "E": "rise of many political parties."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "In traditional education the source of knowledge was dominated by",
+              "options": {
+                "A": "witch-doctors",
+                "B": "leaders",
+                "C": "rainmakers",
+                "D": "warriors",
+                "E": "elders."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Sovereignty",
+                "ii": "Magna Carta",
+                "iii": "Republic",
+                "iv": "Mob justice",
+                "v": "TAMWA",
+                "vi": "10th December 1948",
+                "vii": "1977",
+                "viii": "Amnesty International",
+                "ix": "Women and Children",
+                "x": "Equality before the law"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Treat women's with breast cancer.",
+                "B": "Gender issues.",
+                "C": "Fight for the rights of both women and children.",
+                "D": "Origin of human rights in England.",
+                "E": "An organization dealing with arm race in the world.",
+                "F": "Universal Declaration for Human Rights.",
+                "G": "Collapse of socialism and self reliance in Tanzania",
+                "H": "A country which is governed by elected representatives of people and President.",
+                "I": "An example of moral rights.",
+                "J": "Formation of the former East African Community.",
+                "K": "Formation of the Human rights Commission.",
+                "L": "The founder of the struggle for human rights in the world.",
+                "M": "A Government which is formed after the union between two countries.",
+                "N": "A state and its supreme powers to control all its individuals and associations within its boundaries.",
+                "O": "Killing of theft suspects.",
+                "P": "Deals with human rights worldwide.",
+                "Q": "The current Constitution for the United Republic of Tanzania was enacted.",
+                "R": "Special group.",
+                "S": "An example of Civil and Political rights.",
+                "T": "Unlimited freedom of an individual to go everywhere."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B (20 marks)",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nThere are people who argue that corruption has no welfare losses because a bribe is simply a transfer. Instead, they believe that bribery is good because it is a way to avoid cumbersome regulations which sometimes prevent people to an easy accessibility to their rights.\n\nExponents of this argument think that bribes are a reward to officials who are badly paid. On the contrary, many studies have shown that corruption and especially corruption in international business is a major impediment to social, political and economic development. Corruption in international business distorts trade and services and the flow of capital undermines creation and functioning of democratic institutions.\n\nBribery undermines goals of many countries to promote democracy. For example, when bribery is used in the election of Members of Parliament, a President and other people's representatives, then such elections are not free and fair. Capable and honesty people are blocked just because corruption can undermine leaders and they cannot buy votes.\n\nCorruption deters investment and hurts the country's ability to attract foreign capital. allocation of capital is distorted and valuable resources are lost. It can lead to unnecessary or inappropriate purchases.\n\nCorruption also weakens global trading system, reduces the benefits of free trade and agreements. Corruption cuts exports because companies that produce better products at better prices often lose out to sellers who win because of bribes they pay, not quality and price of their products. It is estimated that companies offering bribes in US win roughly 80 per cent of foreign contracts.\n\nSome nations encourage bribery by making such payments tax deductible. Germany is one of such countries, even though bribing a domestic official is a crime.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "From the passage you have read, define the word corruption."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "According to the author, what ill-effects does corruption cause?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Provide other meaning of the world cumbersome as it has been used in the passage."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "The author says “Exponents of this argument think that bribes are a reward to officials who are badly paid\". What other causes of corruption do you know apart from this?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "From your own understanding suggest possible solutions which can reduce or eradicate corruption."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Define poverty."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Outline any four (4) indicators of poverty."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "List down any five (5) strategies for poverty alleviation in Tanzania"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C (60 marks)",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "According to J.K. Nyerere, beside other things, good leadership is one of the important conditions to development. Examine the qualities of a good leader."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "With the aid of examples analyse the relationship between poverty and environmental degradation."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Despite all the efforts from the government and other activist, women are still lagging behind in many aspects. Examine the strategies which can be used to liberate women in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Identify and explain the measures taken by African Governments to improve the weaknesses observed in the inherited colonial educational system to suit African culture."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Privatisation is both an asset and disaster to Tanzanians\". Justify this contention with vivid examples."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Account for the main functions of Parliament in Tanzania."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,270 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer ALL questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "One of the defining features of Parliamentary System of democracy is",
+              "options": {
+                "A": "clear separation of powers among the Executive, Legislature and Judiciary",
+                "B": "the Legislature is the source of authority for the Executive",
+                "C": "the Judiciary is not neutral",
+                "D": "Cabinet Ministers are not members of Parliament",
+                "E": "the Executive is not accountable to the Legislature."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "One of the following is not true about factors which weakens national sovereignty:",
+              "options": {
+                "A": "Ethnicity",
+                "B": "Civil wars",
+                "C": "Elections",
+                "D": "Foreign debts",
+                "E": "Dependent economy."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The difference between the British and Moroccan Monarchies is that",
+              "options": {
+                "A": "Britain is lead by a Queen and Morocco is under a President",
+                "B": "Britain is a Federation and Morocco is a Republic",
+                "C": "Britain is a Republic and Morocco is an absolute Monarchy",
+                "D": "Morocco is an absolute Monarchy and Britain is a constitutional Monarchy",
+                "E": "In Britain Kingship is voted for while in Morocco it is inherited."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The government of Tanzania derives all its power and authority from the people through",
+              "options": {
+                "A": "mass rally",
+                "B": "local governments",
+                "C": "election",
+                "D": "taxation",
+                "E": "the President."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "One of the following is not true about essential features of rule of law:",
+              "options": {
+                "A": "All men are equal before law",
+                "B": "Any person is not guilty until proved by court of law",
+                "C": "All people participate in law making process",
+                "D": "Independence of the judiciary",
+                "E": "All people must obey just laws."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The Tanzania Peoples Defence Force (TPDF) was formulated",
+              "options": {
+                "A": "immediately after independence",
+                "B": "after the union of TANU and ASP",
+                "C": "from among the KAR soldiers",
+                "D": "immediately after the union of Tanganyika and Zanzibar",
+                "E": "from among the TANU and ASP youth league."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Among the factors which have contributed to strong national integrity in Tanzania are",
+              "options": {
+                "A": "religion and language",
+                "B": "Kiswahili language and monopartism",
+                "C": "social interaction and multipartism",
+                "D": "National language and multipartism",
+                "E": "Multipartyism and Zanzibar resolution."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Women are considered to be among the underprivileged groups in society because",
+              "options": {
+                "A": "they are born inferior",
+                "B": "they cannot perform the same roles as men",
+                "C": "social division of labour differentiates them from men",
+                "D": "they are not ready to perform the same roles as men",
+                "E": "men do not like women to receive equal opportunities."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Fundamental human rights entitled to every human person for being human are known as",
+              "options": {
+                "A": "Liberties",
+                "B": "Civil rights",
+                "C": "Legal rights",
+                "D": "Moral rights",
+                "E": "Freedom."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the following is not true about nationalism in Tanzania:",
+              "options": {
+                "A": "Nationalism in Zanzibar began after independence of Tanganyika",
+                "B": "TANU brought independence through peaceful means",
+                "C": "Tribalism was not a problem during nationalist struggles",
+                "D": "The British colonial rule favoured minority Arabs in Zanzibar",
+                "E": "Nationalist parties in Tanganyika were not based on race."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the response in list B beside the item number in list A.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "An economic system guided by the laws of supply and demand",
+                "ii": "Consul",
+                "iii": "1965",
+                "iv": "Parastatals",
+                "v": "1961 Belgrade",
+                "vi": "Capital",
+                "vii": "FAO",
+                "viii": "1977",
+                "ix": "10th December 1948",
+                "x": "The Cabinet"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "The UN organ used to deal with war captives",
+                "B": "Structural Adjustment Programme was adopted in Tanzania",
+                "C": "State centred economy",
+                "D": "The Universal Declaration of Human Rights was adopted",
+                "E": "Free market economy",
+                "F": "The Executive branch of the Government",
+                "G": "Permanent Constitution formulated in Tanzania",
+                "H": "Arusha Declaration was denounced",
+                "I": "Property used to produce more wealth",
+                "J": "A foreign representative living in a city to help his countrymen visitors or dwellers",
+                "K": "National Insurance Company and Tanzania Airways Corporation",
+                "L": "Privatised public companies",
+                "M": "A Rome based UN specialized agency",
+                "N": "Non-Alignment Movement",
+                "O": "Tanzania joined the United Nations",
+                "P": "Commonwealth of Nations was established",
+                "Q": "Multipartism was outlawed in Tanzania",
+                "R": "The end of the Second World War",
+                "S": "A headquarter of any multilateral organization",
+                "T": "A person charged with criminal case"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "instructions": "Answer ALL questions in this section.",
+      "marks": 20,
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow:\n\nOften people use scientific knowledge to get a job done or solve a problem. For example, scientific knowledge about how the eye works led to the invention of contact lenses. This use of scientific knowledge to solve a problem is referred to as technology. Sometimes new scientific knowledge is discovered as technology is being developed. For example after the telescope was invented, scientists discovered new planets and found out other things about space that they did not know before.\n\nScientific knowledge and technology has given people in developed nations high standard of living. People live in comfortable homes and travel by car or bus. They have enough food to eat and clothes to wear.\n\nBut science and technology has also caused problems in developed countries and the rest of the world. For example, the car enables people to get around quickly and easily, but it also pollutes our air. Many people are worried about the earth's air, water and soil; and the health of the earth's plants and animals. To protect the health of the earth and all its inhabitants, we must change some of the ways we use science and technology.\n\nOur society is made up of many individuals who must work together. The concerned members of any society take responsibility for looking after our world. Being a responsible citizen starts with thinking about your own actions. You could make wise and good decisions if you have the knowledge to help you make those decisions. As our society depends more and more on science and technology, it becomes everyone's responsibility to understand as much as possible about science and the use of technology around us.\n\nQuestions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest an appropriate title for this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "How have science and technology changed the way of life in developed countries?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "What are the side effects of science and technology according to this passage?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "What suggestion does the author give to deal with problems caused by science and technology?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "How does science relate to technology?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "List five steps taken by Tanzania in protecting the rights of children."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Define multilateral cooperation"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "State two examples of multilateral organisations."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer THREE (3) questions from this section",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "To the underdeveloped economies of Africa foreign investors are inevitable. Discuss."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Elections are important in ensuring popular participation in the governance process. Justify."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "With examples discuss how the call for South-South cooperation has achieved its goals."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "With reference to Tanzania show how the constitution guarantees democracy."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Suggest strategies to eliminate poverty in Tanzanian rural areas."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Why is it necessary for a country to maintain its own culture?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) – (x), choose the correct answer among the given alternatives and write its letter besides the item number in your answer booklet.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which of the following is not a correct characterization of Sovereign State?",
+              "options": {
+                "A": "International recognition.",
+                "B": "Existence of territorial boundaries.",
+                "C": "Supreme powers to control people.",
+                "D": "Economic strength.",
+                "E": "Ability to decide on the welfare of the people."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Separation of powers for the three state organs in Tanzania is important because it",
+              "options": {
+                "A": "guarantees the executive's powers",
+                "B": "prevents the possibility of abuse of powers",
+                "C": "maintains law and order in the country",
+                "D": "consolidates the union between Tanganyika and Zanzibar",
+                "E": "guarantees the autonomy of both union and Zanzibar governments."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Cultural diffusion occurs most rapidly in which of the following societies?",
+              "options": {
+                "A": "Those with frequent contact with other groups.",
+                "B": "Those which encourages extended families.",
+                "C": "Those which are conservative in nature.",
+                "D": "Those with strong traditional social values.",
+                "E": "Those with a strong economic base."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The municipal council can be established when the population is over _____ thousand.",
+              "options": {
+                "A": "fifty",
+                "B": "sixty",
+                "C": "seventy",
+                "D": "eighty",
+                "E": "ninety."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Work is defined as",
+              "options": {
+                "A": "commercial activities",
+                "B": "agricultural activities",
+                "C": "physical or mental activities",
+                "D": "formal or informal activities",
+                "E": "a status of being employed"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "An organ which punish the offenders in Tanzania is known as",
+              "options": {
+                "A": "the police force",
+                "B": "the judiciary",
+                "C": "the prison",
+                "D": "TAKUKURU",
+                "E": "the legislature."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following is a demerit of a single political party system?",
+              "options": {
+                "A": "State control of Civil Societies.",
+                "B": "Common focus on development goals.",
+                "C": "Existence of vibrant mass media.",
+                "D": "National unity and stability.",
+                "E": "Existence of rule of law."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "A red traffic light tells a law-abiding driver to",
+              "options": {
+                "A": "get ready to go",
+                "B": "pass through",
+                "C": "start the car",
+                "D": "switch off the car",
+                "E": "stop the car."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The simple majority representation system which is used in Tanzania is also called",
+              "options": {
+                "A": "the presidential representation",
+                "B": "multi party system",
+                "C": "the first past the post",
+                "D": "proportional representation",
+                "E": "the parliamentary system."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Eating habits, hair and dressing styles collectively falls under",
+              "options": {
+                "A": "traditions",
+                "B": "taboos",
+                "C": "manners",
+                "D": "cultural norms",
+                "E": "styles."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "A member of certain sex is treated brutally because of belonging to that group.",
+                "ii": "Assigning duties according to gender.",
+                "iii": "The principles of justice and fairness.",
+                "iv": "The systemic efforts to identify the roles of men and women.",
+                "v": "Addressing the needs of people according to their gender.",
+                "vi": "Addressing gender issues in all development programmes and policies.",
+                "vii": "The child bearing and rearing tasks for both men and women.",
+                "viii": "Refers to conscious or unconscious way of doing things without considering gender difference.",
+                "ix": "The behaviour and roles played by males and females in the society.",
+                "x": "The biological make up which distinguishes men and women in relation to their reproductive functions."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "gender blind",
+                "B": "gender inequality",
+                "C": "reproductive rules",
+                "D": "gender stereotyping",
+                "E": "gender equity",
+                "F": "gender gap",
+                "G": "gender equality",
+                "H": "gender planning",
+                "I": "gender issues",
+                "J": "gender focus",
+                "K": "gender",
+                "L": "gender mainstreaming",
+                "M": "sex",
+                "N": "gender analysis",
+                "O": "gender oppression"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer the questions that follow:\n\nBroadly speaking, the economy can be seen as operating within public and private sectors. The private sector is that part of the economy that is owned by private individuals and companies while the public sector is government owned.\n\nWhether the national economy should be driven by the state or by private run enterprises in a free market is a matter of principles. The former has been fast losing the battle under recent developments particularly in Tanzania.\n\nPrivate sector enterprises are thought to be more efficient than public enterprises because they have to be profitable to survive competition with other producers. Furthermore, the struggle for survival is a strong incentive for innovation. All these lead to the higher quality products and better services for the consumer.\n\nIn a state run economy with state owned enterprises and no free markets, there is little or no competition. Bankruptcy is not seen as a risk because the national treasury is there to inject capital when there is a crisis. As a result, there is no struggle for survival. The future of the enterprises and the jobs are so secure that there are few external forces that make efficient production necessary.\n\nPublic sector enterprises are accountable and responsible to political authorities. Such arrangement lowers the efficiency of the management of public undertakings and makes them tools in the hands of political establishments.\n\nThe arguments for a strong private sector economy have been gaining support throughout the world, including Tanzania. They have been strongly promoted by the World Bank and capitalist countries. Governments are discouraged to be involved directly in doing business but are, instead, advised to facilitate the existence of a good environment for the private sector. The idea seems to be that, the free market is neutral with regards to the welfare of the people.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest a suitable title for the passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "From the passage, what is the major World Bank concern on national economies?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Identify three factors responsible for ineffectiveness of the public sector."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Give the reason for the following statement by the author, “The former has been fast losing the battle under recent developments, particularly in Tanzania”."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "From the passage, mention three advantages of the private sector."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline five advantages of teamwork."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "List down five conditions for a person to be granted Tanzanian citizenship by registration."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Briefly explain nine key principles of democracy."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Describe six cultural values which encourage bearing of many children in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Examine the benefits of the government to establish nationality of people in the country. Give six points."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Examine any six current problems which hinder the rapid industrial development in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Explain six sources of central government revenue."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Despite the efforts made by the government to build and maintain the roads, the rate of road accidents is still high. By using the knowledge you have gained on road safety education describe six measures which can be used to minimise the problem."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Attempt all questions in this section\nThis section carries 40% of the total marks in this paper.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "composite",
+          "question_text": "Choose the most correct answer and write its number in your answer book.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Before the coming of foreigners in Tanzania our forefathers were largely practicing:",
+              "options": {
+                "i": "African Socialism",
+                "ii": "Primitive communalism",
+                "iii": "Slavery",
+                "iv": "Feudalism",
+                "v": "Capitalism."
+              }
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "We fought for independence in order to:",
+              "options": {
+                "i": "keep out foreigners from our country",
+                "ii": "abolish slavery and feudalism",
+                "iii": "bring about development",
+                "iv": "regain our lost freedom and sovereignty",
+                "v": "maintain our long distance trade."
+              }
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "The following is a true set of political parties which existed during the struggle for independence in Tanganyika.",
+              "options": {
+                "i": "TANU, ANC, TAA, UTP",
+                "ii": "AMNUT, TANU, UTP, TFL",
+                "iii": "UTP, TANU, AMNUT, ANC",
+                "iv": "TANU, ANC, UTP, TACSA",
+                "v": "TFL, UTP, ANC, CCM."
+              }
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "The correct sequence of foreign invasions in Tanzania is as follows:",
+              "options": {
+                "i": "Arabs, Portuguese, Germans, British",
+                "ii": "Germans, Arabs, Portuguese, British",
+                "iii": "Arabs, Germans, Portuguese, British",
+                "iv": "Protuguese, British, Germans, Arabs",
+                "v": "British, Germans, Arabs, Portuguese."
+              }
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Tanzania became a Republic:",
+              "options": {
+                "i": "immediately after independence",
+                "ii": "one year after independence",
+                "iii": "two years after independence",
+                "iv": "after the Union with Zanzibar in 1964",
+                "v": "after the Arusha Declaration."
+              }
+            },
+            {
+              "sub_question_identifier": "f",
+              "sub_question_text": "Tanganyika and Zanzibar united in 1964 in order to:",
+              "options": {
+                "i": "defeat Arabs",
+                "ii": "protect the people of Zanzibar",
+                "iii": "consolidate the historical unity of the two peoples",
+                "iv": "facilitate trade between the two countries",
+                "v": "to fulfil Karume's desire for power."
+              }
+            },
+            {
+              "sub_question_identifier": "g",
+              "sub_question_text": "The three arms of the State authority are:",
+              "options": {
+                "i": "Police, Government, Parliament",
+                "ii": "Parliament, Judiciary, State House",
+                "iii": "Government, Parliament, Executive",
+                "iv": "Executive, Judiciary, Parliament",
+                "v": "Judiciary, Legislature and Parliament."
+              }
+            },
+            {
+              "sub_question_identifier": "h",
+              "sub_question_text": "The following is not a true set of United Nations institutions:",
+              "options": {
+                "i": "UNICEF, UNDP, UNEP, FAO",
+                "ii": "WHO, UNHCR, WFP, UNICEF",
+                "iii": "FAO, UNIP, UNESCO, WHO",
+                "iv": "UNFPA, UNIDO, ILO, FAO",
+                "v": "ILO, WHO, UNESCO, UNFPA."
+              }
+            },
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Currently the government is privatising public enterprises in order to:",
+              "options": {
+                "i": "improve efficiency and productivity",
+                "ii": "build capitalism",
+                "iii": "implement IMF policies",
+                "iv": "raise government revenue",
+                "v": "consolidate her Political goals."
+              }
+            },
+            {
+              "sub_question_identifier": "j",
+              "sub_question_text": "The Secretary General of the OAU is chosen by:",
+              "options": {
+                "i": "The Secretariat of OAU",
+                "ii": "The Council of Ministers of OAU Members",
+                "iii": "The Heads of States of OAU Members",
+                "iv": "A special session of Heads of States",
+                "v": "Technical committee of the OAU."
+              }
+            },
+            {
+              "sub_question_identifier": "B",
+              "sub_question_text": "State whether the following statements are true by writing 'T' or false by writing 'F' against its number in your answer book.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The independence day in Tanzania was preceded by the Republic day."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The headquarters of the Non-aligned Movement are in Belgrade."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The Speaker of Parliament is elected by the Parliament amongst its members."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The Security Council of the United Nations is composed of five permanent members."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "Tanzania became a legally one party state after 1967."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and answer the questions that follow. (20 Marks)\n\nThe role of Trade Unions may also have contributed to the unemployment problems. We must come to grips with a rational income policy which relates increases in wages to gains in productivity if we are to avoid serious problems over inflation or balance of payments. Trade Unions should also be thinking in terms of the national Welfare before meeting with employers over the bargaining table, and should take a more positive role in promoting rational development by improving systems of work incentives and creating greater stability in the labour force. They should also be working to establish workers' housing cooperatives, credit unions and other similar activities which are within their power to initiate. Unless the unions turn their attention to these matters, they may find that their present policies are creating substantial inequities in income distribution. If wages exceed productivity, employers may find it necessary to restrict the expansion of employment. The relationship of the Union Worker vis-a-vis the non- Union Worker may be increasingly difficult to sustain. If wage increases lead to price increases the non-union and the unemployed workers and their families are the first to suffer.\n\nOur incentives for stimulating the expansion of private industry may have also contributed to unemployment. They are patterned after incentive systems in advanced economies; economies in which there is a relative abundance of capital and a shortage of labour. Except for high and middle manpower of which there are some critical shortages, our position here is just the reverse.\n\nRapid population growth has also left its mark on the number unemployed. The government is giving its support to a programme of family planning education and we already have one of the most successful programmes in Africa. We hope that it will become more successful. This is one of the long range solutions to our development needs, however, and can have no impact on the size of the labour force for the next fifteen years.\n\nIt is a fact that rural areas are relatively less attractive places to live in than urban areas. To what extent are Government policies aggravating this situation? Are we placing too much emphasis on providing better urban facilities such as housing, water supplies, power and transportation at the expense of the rural areas? Should more emphasis be placed on farm to market roads, better rural marketing facilities, rural health services, rural schools and so on? If so how much more? These are novel questions. We in my Ministry, are asking them daily. We need your help and ideas in reaching even better solutions than the ones we have so far reached.\n\nQUESTIONS:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Write the title of the above passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "According to the author, which factors have led to unemployment?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Which step is the author talking about as a measure to combat population growth?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Account for the rural-urban migration discussed by the author."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "What proposal does the author make for trade unions in relation to increase in wages and productivity as means to overcome problems of balance of payments?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "Attempt any three questions from this section.\nAll questions carry equal marks.\n(60 marks)",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "Neo-colonialism is colonialism in an independent state. What are the motives of the neo-colonialists?"
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "What are the consequences of colonial invasion on the indigenous culture in Tanzania?"
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Examine the major pillars of Tanzania's Constitution."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Show the impact of colonial economy on the African societies particularly in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Why did the East African Community collapse in 1977?"
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "With examples explain the foreign policy of Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Non-alignment Movement is no longer necessary under the current economic and political changes\". Discuss."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Explain the major problems which hinder effective regional cooperation."
+        }
+      ]
+    }
+  ]
+}

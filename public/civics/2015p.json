@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number in the answer booklet(s).",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which one of the following is not a component of Tanzania's Coat of arms?",
+              "options": {
+                "A": "National flag.",
+                "B": "Sea waves.",
+                "C": "National currency.",
+                "D": "Shield and spear.",
+                "E": "Elephant's tusks."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "A type of family which consists of a husband, wife and other relatives is known as",
+              "options": {
+                "A": "nuclear family",
+                "B": "adoptive family",
+                "C": "single parent family",
+                "D": "extended family",
+                "E": "couple family."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Patterns of behavior in the society that do not change from time to time are called",
+              "options": {
+                "A": "traditions",
+                "B": "customs",
+                "C": "language",
+                "D": "ethics",
+                "E": "taboos."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The local government urban authorities consists of",
+              "options": {
+                "A": "Ward, Town and Municipal councils",
+                "B": "Town, Municipal and City Councils",
+                "C": "District, Municipal and City councils",
+                "D": "Village governments, Ward governments and District councils",
+                "E": "Village councils, Town council and City councils."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "One of the defining feature of the absolute Monarchy is",
+              "options": {
+                "A": "existence of a single party system",
+                "B": "the fusion of the cabinet and the legislature",
+                "C": "separation of powers of the Executive and the Legislature",
+                "D": "the King or Queen is the ceremonial Head of the state",
+                "E": "the sources of all political authority is in one supreme ruler."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "A situation whereby people have a little amount of money but they lack access to good schooling or safe water is known as",
+              "options": {
+                "A": "income poverty",
+                "B": "non income poverty",
+                "C": "absolute poverty",
+                "D": "relative poverty",
+                "E": "poverty reduction."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which among the following financial institution is responsible for controlling inflation in Tanzania?",
+              "options": {
+                "A": "The Bank of Tanzania.",
+                "B": "International Monetary Fund.",
+                "C": "Bureau de change.",
+                "D": "National Bank of Commerce.",
+                "E": "SACCOS."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The ability of an individual to understand his or her feelings, emotions, strengths and weakness is known as",
+              "options": {
+                "A": "leadership skills",
+                "B": "assertive skills",
+                "C": "self-awareness skills",
+                "D": "relationship skills",
+                "E": "decision making skills."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "A society's failure to realise different roles played by males and females is referred to as",
+              "options": {
+                "A": "gender roles",
+                "B": "gender equality",
+                "C": "gender balance",
+                "D": "gender blind",
+                "E": "gender equity."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Education plays an important role in the production process because it",
+              "options": {
+                "A": "provides universal primary education to the children",
+                "B": "increases the physical efforts of the people",
+                "C": "converts mental efforts into intellectual efforts",
+                "D": "minimizes the use of mental efforts in production",
+                "E": "improves the efficiency of human labour."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct response in List B by writing the letter of the corresponding response beside the item number in the answer booklet(s).",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "A form of union government whereby member states preserve their full independence and sovereignty.",
+                "ii": "A form of government whereby power is shared between a national government and state governments.",
+                "iii": "A form of government where the source of all political authority is to be found in a supreme ruler.",
+                "iv": "A form of government where the head of the state is also the head of the government.",
+                "v": "A form of government where the authority of the King or Queen is nominal.",
+                "vi": "Basic condition of the rule of law.",
+                "vii": "An essential element of the state.",
+                "viii": "Prevents abuse of power of the three major organs of government.",
+                "ix": "The allocation of a higher power to the basic law than to the immediate wishes of a ruler.",
+                "x": "A former British colony which regards the British Monarchy as its head of state."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Secular state",
+                "B": "Constitutional Monarchy",
+                "C": "Trust territory",
+                "D": "Transitional government",
+                "E": "Confederation government",
+                "F": "Republic government",
+                "G": "Independence of the Judiciary",
+                "H": "A dominion",
+                "I": "Constitutionalism",
+                "J": "Principles of separation of powers",
+                "K": "Government",
+                "L": "Federal government",
+                "M": "Government of national unity",
+                "N": "Non-secular state",
+                "O": "Absolute Monarchy"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer the questions that follow.\n\nDrugs vary widely in terms of the effects they have on users. The most dangerous one are those that are addictive. Addictive drugs produce a biological or psychological dependence in the user and their withdrawal leads to a thirst or desire for the drugs that in some cases may be nearly irresistible.\n\nAddictions may be biologically based. In this case the body becomes so accustomed to functioning in the presence of a drug that it cannot function in its absence. Also addictions may be psychological in which case people believe they need the drug in order to respond to the existing stress of daily living.\n\nFurthermore, the easy availability of some illegal drugs and the pressures of peers all play a role in the decision to use them. In some cases, the motives are simply the thrill of trying something new and perhaps bending the law. Regardless of the forces that lead a person to begin to use drugs, drug addiction is among the most difficult of all behaviors to modify, even with extensive treatment.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "What is the most suitable title for the passage?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Describe biological and psychological addictions as discussed in the passage."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "What is the attitude of the author toward drug addiction?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "According to the passage, why addictive drugs are biologically and psychologically the most dangerous ones?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "According to the passage, account for the root causes of drug abuse. (Give two points)"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Point out five indicators of social development."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Briefly explain five merits of democratic elections to a country like Tanzania."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Describe the significance of culture to Tanzania by giving six points."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Examine six problems hindering the development of the industrial sector in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Suggest six strategies for addressing gender inequality in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Elaborate six advantages of problem solving skills."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "In six points, explain the importance of work to people's development in Tanzania."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Analyse six obstacles to poverty alleviation efforts in Tanzania."
+        }
+      ]
+    }
+  ]
+}

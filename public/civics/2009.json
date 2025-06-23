@@ -1,0 +1,260 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "One of the followings is not among the factors affecting national sovereignty.",
+              "options": {
+                "A": "civil wars",
+                "B": "poverty",
+                "C": "national calamities",
+                "D": "conflicts",
+                "E": "pressure groups."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The following are the responsibility of the President of Tanzania as prescribed by the constitution except",
+              "options": {
+                "A": "head of State",
+                "B": "head of the ruling political party",
+                "C": "head of government affairs",
+                "D": "commander in chief of armed forces",
+                "E": "coping with emotions.head of Public service."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "External sources of government revenue which are non-payable include",
+              "options": {
+                "A": "domestic loan borrowing",
+                "B": "loan from World Bank",
+                "C": "loan from central government",
+                "D": "grants from donor countries",
+                "E": "money from IMF."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The organ of the state which interprets the laws is",
+              "options": {
+                "A": "Legislative",
+                "B": "Executive",
+                "C": "Parliament",
+                "D": "Judiciary",
+                "E": "Cabinet."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "A type of dictatorship where a few persons form and control the government is called",
+              "options": {
+                "A": "aristocracy",
+                "B": "authoritarian",
+                "C": "totalitarian",
+                "D": "fascism",
+                "E": "monarchy."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "One condition for a person to get naturalization in Tanzania is to",
+              "options": {
+                "A": "have lived in Tanzania for the period not less than six months",
+                "B": "show and ensure that he or she would be a suitable citizen of Tanzania",
+                "C": "produce evidence of permission from his/her country of origin",
+                "D": "pay tax to the government",
+                "E": "be familiar with our culture."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following is not among the national symbols?",
+              "options": {
+                "A": "the national flag",
+                "B": "the coat of arms",
+                "C": "the high court of Tanzania",
+                "D": "Uhuru torch",
+                "E": "the national festivals and constitution."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "One of the following is not true about the characteristics of culture",
+              "options": {
+                "A": "static",
+                "B": "adaptive",
+                "C": "learned",
+                "D": "symbolic",
+                "E": "dynamic."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "According to the Constitution of United Republic of Tanzania the parliament consists of two parts which are the",
+              "options": {
+                "A": "Cabinet and shadow cabinet",
+                "B": "President and the National Assembly",
+                "C": "Union Parliament and House of Representatives in Zanzibar",
+                "D": "members of Parliament from opposition parties and those from ruling party",
+                "E": "members of Parliament and the Ministers."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "A true definition of the term general election is",
+              "options": {
+                "A": "Parliamentary and Presidential elections held country wide",
+                "B": "an election whereby each registered political party must nominate a candidate",
+                "C": "an election whereby each party nominates candidates",
+                "D": "elections held when a member of Parliament dies",
+                "E": "an election which allows private candidates to participate."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in list A with the correct responses in list B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Questionnaire",
+                "ii": "Team work",
+                "iii": "Self worth",
+                "iv": "Confidence",
+                "v": "Unlawful sex",
+                "vi": "Socialization",
+                "vii": "Assertiveness",
+                "viii": "Self-awareness",
+                "ix": "Work",
+                "x": "Guidance and Counselling"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Initiating mediation.",
+                "B": "Knowledge on everything.",
+                "C": "Used to solve problems with physiological effects",
+                "D": "Implies working together and being a part of the activity.",
+                "E": "Confidentiality in problem solving.",
+                "F": "Pure behaviour life.",
+                "G": "Pregnancy.",
+                "H": "Socialism as an ideology.",
+                "I": "One of the social cultural values.",
+                "J": "knowing and understanding one self's potential, feelings, emotions, strengths and weaknesses.",
+                "K": "Assets that the counsellor needs for effective guidance and counselling.",
+                "L": "Method of collecting information about a problem.",
+                "M": "Feeling of confidence in oneself that she/he is a good and useful person.",
+                "N": "Improper behaviour.",
+                "O": "Legal physical or mental activity directed at producing something.",
+                "P": "Self-centredness",
+                "Q": "A belief in one self's ability to do something and be successful.",
+                "R": "Allows a person to stand up for his/her rights while respecting the rights of others.",
+                "S": "Used to solve problems with psychological effects.",
+                "T": "Knowledge and ability that one acquires to work and cope with other people and environment."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nIt is indisputable that agriculture is the backbone of Tanzania's economy and the hub of the country's economic growth.\n\nIt employs roughly around 80 per cent of the population, contributing over 45 per cent of the Gross Domestic Product (GDP), which generates over 40 per cent of the export earnings. Yet, it has been enjoying very little attention from the authorities. The agricultural sector is still underdeveloped, peasant-based and productivity is low resulting in extreme poverty.\n\nTanzania has more than 44 million hectares of arable land, and a large amount of water resources and a wide variety of agro-ecological zones and climates. But less than 30 per cent of it is being used for production.\n\nFor the past two decades, agricultural GDP has grown at a low average rate of 3.3 % per annum falling far short of the needed growth of about 10 per cent. As a result, no investor has ever shown interest in investing in the sector since the liberalisation policy was put in force 20 years ago.\n\nThe existing poor infrastructure has magnificently been attributed as a contributing factor to that state of affairs. The Land Act of 1999 has also reported to be giving a hand to the problem that has made investors shy away from the sector.\n\nEssential social services like water and electricity which are key components in agricultural production are still far from being realised, making it difficult for anyone with a good amount of money to invest in agriculture.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest a suitable title for this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "According to the passage why is agriculture said to be the backbone of Tanzania?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "What should be done in order to attract investors in agriculture?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "From the passage identify the agricultural potentiality of the country."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "On your own views, what can be done to improve the agricultural sector?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Briefly explain how you would advise your community on the measures to be taken to avoid road accidents."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Write a concise explanation on the importance of courtship."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Among the financial institutions, the bank sector is growing very fast. Assess the strength and weaknesses of banks in provision of financial services in the country."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Analyse the importance of industries to the least developing countries like Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "\"Some of traditions and customs in our culture may lead to the spread of HIV/AIDS.\" Justify this statement."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "For any election to be democratic it must be free and fair. Identify and explain the main conditions for free and fair election."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Taking Tanzania as an example account for the increased poverty and backwardness to many sub-Saharan countries."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "By using the knowledge you have obtained in Civics assess the benefits of being identified as a citizen of a particular country."
+        }
+      ]
+    }
+  ]
+}

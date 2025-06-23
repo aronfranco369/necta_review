@@ -1,0 +1,362 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Attempt all questions in this section. This section carries 40 marks.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Choose the best statement out of the five statements to complete or explain sentences labelled (i) - (xx). Write down its letter in your answer book.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Slavery is distinguished from feudal mode of production in that:",
+                  "options": {
+                    "A": "slavery was a universal mode of production",
+                    "B": "it entertained exploitation of man by man",
+                    "C": "slaves paid only labour rent to their masters",
+                    "D": "slavery discouraged private ownership",
+                    "E": "under slavery, slaves were owned as properties."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "One of the problems which faced nationalist struggles in Tanzania was:",
+                  "options": {
+                    "A": "weak political parties",
+                    "B": "existence of few civil servants",
+                    "C": "racism, racialism and religious differences",
+                    "D": "poor weapons",
+                    "E": "introduction of multi-party system."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The parties which opposed the Afro-Shiraz party in the struggle for independence in Zanzibar were:",
+                  "options": {
+                    "A": "ZNP and AMNUT",
+                    "B": "ZPPP and ZNP",
+                    "C": "ZNP and Shiraz Association",
+                    "D": "AMNUT and UTP",
+                    "E": "UTP and ANC."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "Tanzania nationalized land in 1962 in order to:",
+                  "options": {
+                    "A": "enable the majority of the people to participate in the economy",
+                    "B": "remove exploitation",
+                    "C": "remove land alienation",
+                    "D": "attract many people to support nationalist struggles",
+                    "E": "avoid ethnic conflicts"
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The public instrument which shows the distribution of public power and its limits is the",
+                  "options": {
+                    "A": "Judiciary",
+                    "B": "Political party",
+                    "C": "Parliament",
+                    "D": "Constitution",
+                    "E": "Mass Media"
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "Multi-party system is important to democracy because it",
+                  "options": {
+                    "A": "enables elections to take place periodically",
+                    "B": "stimulates development",
+                    "C": "provides electors with a wide range of choice during elections",
+                    "D": "reduces tribalism",
+                    "E": "controls foreign influence."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "Which of the following statements is NOT true about the OAU?",
+                  "options": {
+                    "A": "OAU was formed in May 1963 by 30 independent African states",
+                    "B": "South Africa was expelled from OAU in 1961",
+                    "C": "The Assembly of Heads of State and Government meets at least once annually",
+                    "D": "The stability of OAU is currently threatened by many political conflicts",
+                    "E": "The Decolonization committee of the OAU has been dissolved."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The UNO was founded as the successor to the League of Nations:",
+                  "options": {
+                    "A": "on 24th October, 1945",
+                    "B": "after World War I",
+                    "C": "on 25th May, 1963",
+                    "D": "after the Bandung Conference",
+                    "E": "after the 1944 Brettonwoods Conference"
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "The IMF is the UNO's agency dealing with:",
+                  "options": {
+                    "A": "provision of long term development loans",
+                    "B": "provision of short term financial loans",
+                    "C": "economic liberalization",
+                    "D": "introduction of multi-party democracy in Africa",
+                    "E": "Structural Adjustment Programmes."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "The Tanzanian Minister of Science, Technology and Higher Education is:",
+                  "options": {
+                    "A": "Dr. Pius Ng'wandu",
+                    "B": "Mr. Julius Malecela",
+                    "C": "Mr. William Jonathan",
+                    "D": "Mr. Matheo Qares",
+                    "E": "Mr. John Kusila"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xi",
+                  "sub_question_text": "The Prime Minister of Britain is:",
+                  "options": {
+                    "A": "Mrs. Margaret Thatcher",
+                    "B": "Mr. Tony Blair",
+                    "C": "Mr. John Richardson",
+                    "D": "Mr. Mcleod Hutchingson",
+                    "E": "Mr. John Major"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xii",
+                  "sub_question_text": "The first British Governor of Tanganyika was:",
+                  "options": {
+                    "A": "Horace Byatt",
+                    "B": "Richard Turnbull",
+                    "C": "David Cameroon",
+                    "D": "John Davis",
+                    "E": "Dereck Bryceson"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiii",
+                  "sub_question_text": "African Association and Shiraz Association merged to form the Afro Shiraz party in:",
+                  "options": {
+                    "A": "1957",
+                    "B": "1958",
+                    "C": "1959",
+                    "D": "1956",
+                    "E": "1955"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiv",
+                  "sub_question_text": "Colonialism was motivated by:",
+                  "options": {
+                    "A": "mainly economic considerations",
+                    "B": "political ambitions of colonial powers",
+                    "C": "economic, political and social motives of the colonial powers",
+                    "D": "the need for markets",
+                    "E": "the need for cheap labour."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xv",
+                  "sub_question_text": "The newly elected President of Liberia is:",
+                  "options": {
+                    "A": "Tony Blair",
+                    "B": "Charles Taylor",
+                    "C": "Prince Johnson",
+                    "D": "Danford Afikgbo",
+                    "E": "Samuel Doe."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvi",
+                  "sub_question_text": "The Registrar of Political parties in Tanzania is:",
+                  "options": {
+                    "A": "Judge John Samata",
+                    "B": "Judge Liundi",
+                    "C": "Judge Mark Bomani",
+                    "D": "Judge Mustafa",
+                    "E": "Judge Augustino Ramadhani."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvii",
+                  "sub_question_text": "A polling station is a place where:",
+                  "options": {
+                    "A": "people swim",
+                    "B": "people erect poles",
+                    "C": "voting takes place",
+                    "D": "there is a bus stand",
+                    "E": "people go for a picnic."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xviii",
+                  "sub_question_text": "Tanzania became a multi-party state by an act of parliament in:",
+                  "options": {
+                    "A": "October 1st, 1995",
+                    "B": "July 1st, 1992",
+                    "C": "June 30th, 1977",
+                    "D": "June 30th, 1992",
+                    "E": "December 20th, 1962."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xix",
+                  "sub_question_text": "The Judiciary is the branch of government:",
+                  "options": {
+                    "A": "which makes laws",
+                    "B": "prosecutes criminals",
+                    "C": "interprets laws and punishes those who break the law",
+                    "D": "implements decisions",
+                    "E": "amends laws."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xx",
+                  "sub_question_text": "A bill sent to the National Assembly shall only become a law if:",
+                  "options": {
+                    "A": "the cabinet minister presents it before the parliament for the second reading",
+                    "B": "it is approved by the National Assembly and assented by the President",
+                    "C": "it is endorsed by the parliament",
+                    "D": "a parliamentary standing committee finalises discussion on it",
+                    "E": "it is endorsed by the Prime Minister."
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Match the items from List B with those provided in List A. Write the letter of the item from List B against the number in List A.",
+              "visual_elements": [
+                {
+                  "element_type": "table",
+                  "table_data": [
+                    {
+                      "column_name": "LIST A",
+                      "column_items": {
+                        "i": "COMESA",
+                        "ii": "Laurent Kabila",
+                        "iii": "Julius K. Nyerere",
+                        "iv": "Arusha",
+                        "v": "TAMOFA",
+                        "vi": "NAM",
+                        "vii": "Amnesty International",
+                        "viii": "1944",
+                        "ix": "Dr. Milton Obote",
+                        "x": "Sadako Ogata"
+                      }
+                    },
+                    {
+                      "column_name": "LIST B",
+                      "column_items": {
+                        "A": "The British Commonwealth",
+                        "B": "The Bandung Conference",
+                        "C": "Bilateral Co-operation",
+                        "D": "UNHCR",
+                        "E": "IMF and World Bank",
+                        "F": "Lusaka",
+                        "G": "The Common man's Charter",
+                        "H": "International Court for Rwanda",
+                        "I": "Burundi Conflict",
+                        "J": "Zaire",
+                        "K": "UNO",
+                        "L": "Human Rights",
+                        "M": "Democratic Republic of Congo",
+                        "N": "Geneva"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and then answer the questions that follow.\n\nTechnology choice is a social and economic question, not a purely \"technical\" one. Just because something is technically feasible in the U.S.A., does not make it economically viable, socially desirable or sustainable in Tanzania. In the West, for decades, engineers and designers have been looking for capital - intensive technological 'solutions' because in their economic and social contest, labour is relatively expensive and mechanisation/computerisation is relatively cheap.\n\nIn most developing countries, however, the reverse is true: labour is plentiful and relatively cheap. Population growth and mass under-employment are among the major challenges to be faced. At the same time, imported capital - intensive technologies are relatively expensive, if not ruinous in gobbling up precious foreign exchange.\n\nIn particular, capital-intensive, high technology interventions can have a huge but often unpredictable impact on the lives of thousands of people. The construction of a major new road, for example, may bring heavy plant labour gangs and large influx of cash wages, in the short term, to an area which previously relied on subsistence agriculture. In the longer term, improved transport may mean that local farmers start to produce crops for cash, or may lead to rural depopulation.\n\nAll of this may form part of somebody's idea of progress; but many of these developments will be unpredictable or unstable and most of them will take place without the involvement of local people in the planning process.\n\nFor these reasons, there is an interest in most developing countries in technical approaches, which minimise the use of imported materials and techniques, and which maximise the use of locally available materials, skills and labour (even if design and production 'improvements' of an intermediate kind are required.\n\nQUESTIONS",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Write the title of the above passage."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "According to the author, capital intensive technology is appropriate in the economic and social context of the developed countries. Why?"
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Give two reasons why capital intensive technology is not appropriate to a country like Tanzania."
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "In your opinion, what is capital intensive technology?"
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "What proposal does the author make for developing countries in relation to technical approaches?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "This section has eight questions. Attempt any THREE (3) questions. This section carries 60 marks.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "The Maji-Maji war of resistance was unavoidable. Discuss."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Describe the main problems which hinder the flow of foreign investments in Tanzania."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "To what extent is Tanzania a democratic state?"
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Explain the causes of the 1964 Zanzibar Revolution."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Name and describe any FIVE principles of the O.A.U. To what extent have member states implemented them?"
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Examine FIVE functions of the Security Council of the United Nations Organization (UNO)."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Show the extent to which the Commonwealth is common."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Discuss the reasons which made Tanzania mainland receive independence earlier than neighbouring countries."
+        }
+      ]
+    }
+  ]
+}

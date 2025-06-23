@@ -1,0 +1,270 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A (20 marks)",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The main reason for establishing local governments in Tanzania is to",
+              "options": {
+                "A": "pass by-laws for the benefit of elected members",
+                "B": "split the local community from the central government",
+                "C": "develop the cities and towns",
+                "D": "influence checks and balances among state organs",
+                "E": "promote and give room to democracy."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The state of emergency in the United Republic of Tanzania is declared by",
+              "options": {
+                "A": "the Prime Minister",
+                "B": "the President",
+                "C": "Judges",
+                "D": "the Attorney General",
+                "E": "Chief Justice."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The necessity of having public holidays is to",
+              "options": {
+                "A": "give people time to rest",
+                "B": "enable government officials to visit regions",
+                "C": "enhance solidarity, cooperation and unity",
+                "D": "remind people about the struggle for independence",
+                "E": "assist in promoting economic activities."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The Constitutional amendments of 2000 led to the following except:",
+              "options": {
+                "A": "Establishment of the office of registrar of political parties.",
+                "B": "Increased number of women seats from 15% to 30%.",
+                "C": "Empowered the President to nominate up to 10 members of Parliament.",
+                "D": "Declaration of President through simple majority votes.",
+                "E": "Establishment of Human Rights and Good Governance Commission."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Before a Minister is appointed by the President to head a Ministry, he/she must be",
+              "options": {
+                "A": "a Board Member of any firm recognized by the Government",
+                "B": "a member of any registered Political Party",
+                "C": "a graduate from any recognized institution",
+                "D": "appointed or elected Member of Parliament",
+                "E": "only an elected Member of Parliament."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Work can be divided into two types such as",
+              "options": {
+                "A": "temporary and permanent",
+                "B": "clean and dirty",
+                "C": "mental and physical",
+                "D": "manual and machines",
+                "E": "simple and difficult."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The condition whereby state officials discharge their duties according to the laws of the land is known as",
+              "options": {
+                "A": "parliamentary supremacy",
+                "B": "mental justice",
+                "C": "transparency",
+                "D": "rule of law",
+                "E": "party supremacy."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Which of the following is not a factor for the people to become refugees?",
+              "options": {
+                "A": "Political problems.",
+                "B": "Dependent economy.",
+                "C": "Hunger.",
+                "D": "Ideological problems.",
+                "E": "Genocide."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The Mayor in a Municipal Council is elected from among",
+              "options": {
+                "A": "elected councillors",
+                "B": "party officials represented in the municipality",
+                "C": "Members of Parliament present in the municipality",
+                "D": "ward executive officers",
+                "E": "lack of political influence.directors in the region."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "The King or the Queen, under Constitutional Monarch, is required to reign but not to govern. This means that the King or Queen",
+              "options": {
+                "A": "has the final say in the Parliament",
+                "B": "has the supreme authority in decision making",
+                "C": "is not elected by the legislature",
+                "D": "is required by the monarch to form the government after election",
+                "E": "heads the State but does not have Executive powers."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Universal suffrage",
+                "ii": "Coup d'etat",
+                "iii": "Citizenship",
+                "iv": "The French Revolution",
+                "v": "The court of arms",
+                "vi": "Moral rights",
+                "vii": "Primary elections",
+                "viii": "Electorate",
+                "ix": "Legitimate",
+                "x": "Bill"
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "a person who belongs to a certain country.",
+                "B": "a government badge.",
+                "C": "killing theft suspects.",
+                "D": "possess a great chance of winning the election.",
+                "E": "interim constitution.",
+                "F": "according to the laws or established standards.",
+                "G": "a form of court systems.",
+                "H": "facilitates learning about the society.illegal and violent change of the government.",
+                "I": "enable the political parties to get the best candidate.",
+                "J": "human rights abuse.ability of the police force to maintain laws in the society.",
+                "K": "ability of a police force to calm the situation.",
+                "L": "recognized by the society through consciousness.",
+                "M": "the famous station along the central railway line.",
+                "N": "a proposal for a new law.",
+                "O": "freedom and equal opportunity for all adult citizens to vote or be voted for.",
+                "P": "government expenditure tabled in the parliament.",
+                "Q": "belonging to particular country with the rights and duties that goes with such status.",
+                "R": "the rights for the few.",
+                "S": "culminated the struggles for human rights.",
+                "T": "people entitled to vote."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B (20 marks)",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer the questions that follow.\n\nIn developing countries, about 80 percent of women live and work in rural areas. In Africa women produce more than 70 percent of the food for home consumption. men tend to produce for the market. Available data indicate that the time spent by women on farms tends to exceed that of men in many parts of rural Africa. In Tanzania women work for 16 hours a day compared to about 8 hours spent by men working. This indicates that women in Tanzania are involved in agricultural activities throughout the farming season. men seem to be concerned in the initial land preparation activities, thereafter involvement decreases considerably leaving the rest of the work to women.\n\nWomen in Tanzania are the main productive forces to rural communities. most of their daily activities are related to agricultural production, domestic chores and reproduction, They have almost total responsibility for subsistence farming as well as cash crops production. they do all this work using very poor farming implements like the hand hoe, which is unsustainable and almost cannot enable them to cultivate large farms.\n\nAlthough women are the main producers, it is mostly men in the village who take part in agricultural education where they learn new techniques particularly on how to utilize the new tools and equipments that are provided by the government through development programmes.\n\nWomen need assistance in the form of extension services, training facilities, credit and improved technology that would make agriculture more successful and less labour intensive.\n\nIt is important to challenge the myths and misconceptions which continue to portray men as thinkers, decision makers, directors and leading politicians, while at the same time they promote the concept of women as home makers preservers of traditions and cultures and submissive human beings. This is what gender sensitive men and women do to ensure equality and development.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest a suitable title for the passage and give a rationale for your suggestion."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Why the author claims that women contribute more than men in the production for home consumptions? Provide two reasons."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "From the passage, how can equal opportunities for men and women be fostered? Give two points"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "What does the author mean when he/she says that “men tend to produce for the market?”"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "What is the role of gender sensitive men and women?"
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "According to the author, what are the main tasks for women in rural areas? Give two tasks."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "State five differences between local government and central government."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five main causes of environmental degradation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C (60 marks)",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "You have studies about life skills in your course. Elaborate to your community six benefits of life skills education."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "\"The government of Tanzania like any other government in the world spends money for its population.\" In the light of this statement, explain six main areas where the central government of Tanzania spends its money."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Identify and explain six benefits of reproductive health education."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Describe six indicators of social development."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Briefly describe nine factors which have promoted the national unity in Tanzania since independence in 1961."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Analyse the six characteristics of a free market economy."
+        }
+      ]
+    }
+  ]
+}

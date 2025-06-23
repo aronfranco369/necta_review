@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "A school authority which discourages female students to opt for technical subjects is likely to be influenced by",
+              "options": {
+                "A": "gender discrimination",
+                "B": "gender stereotyping",
+                "C": "gender analysis",
+                "D": "gender",
+                "E": "gender balance"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The experiences of the past which are inherited by the society and are unchangeable are called",
+              "options": {
+                "A": "traditions",
+                "B": "norms",
+                "C": "customs",
+                "D": "ethics",
+                "E": "moral values."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The leader of government business in the Parliament of the United Republic of Tanzania is the",
+              "options": {
+                "A": "Attorney General",
+                "B": "Speaker",
+                "C": "Prime Minister",
+                "D": "Chief Justice",
+                "E": "President of the United Republic."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which of the following is not a function of the Commission for Human Rights and Good Governance in Tanzania?",
+              "options": {
+                "A": "Promote the protection and preservation of human rights.",
+                "B": "Receive the allegations and complaints of violation of human rights.",
+                "C": "Visit prisons with the view of assessing conditions of prisoners.",
+                "D": "Institute legal proceedings to public officials accused of corruption.",
+                "E": "Cooperate with agencies of the United Nation in the areas of human rights."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The national motto of the United Republic of Tanzania inscribed on the coat of arms is",
+              "options": {
+                "A": "freedom and unity",
+                "B": "freedom and work",
+                "C": "ujamaa and self-reliance",
+                "D": "people and development",
+                "E": "education for self-reliance."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "A custom of having more than one wife is known as",
+              "options": {
+                "A": "courtship",
+                "B": "cohabitation",
+                "C": "engagement",
+                "D": "polygamy",
+                "E": "extended family"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following organ is responsible for planning and coordinating village activities?",
+              "options": {
+                "A": "Village Assembly.",
+                "B": "Village Committees.",
+                "C": "Ward Committee.",
+                "D": "Ward development committee.",
+                "E": "Village Council."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The important feature of the Constitutional Monarchy is",
+              "options": {
+                "A": "the Prime Minister is the ceremonial Head of the State",
+                "B": "the King or Queen is the ceremonial Head of the State",
+                "C": "ministers are not members of the Legislature",
+                "D": "the King or Queen have executive powers",
+                "E": "there is no separation of powers of the three government organs."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Bus accidents in Tanzania are caused by both human and external factors. The external factors include",
+              "options": {
+                "A": "excessive speed",
+                "B": "overtaking errors",
+                "C": "parking errors",
+                "D": "reckless driving",
+                "E": "poor road condition."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which of the following is not a core function of Commercial Banks in Tanzania?",
+              "options": {
+                "A": "Receive deposit from people.",
+                "B": "Advance loans to people.",
+                "C": "Provides insurance services to clients.",
+                "D": "Agents of money transfer.",
+                "E": "Provides business advice to clients."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Zanzibar Constitution introduced a bill of rights and made the House of Representatives more representative.",
+                "ii": "Eighth Constitutional amendment introduced the multi-party system in Tanzania.",
+                "iii": "The Interim constitution of the United Republic of Tanzania was replaced by a permanent one.",
+                "iv": "The Tanganyika independence constitution enacted.",
+                "v": "The Constitutional amendment provided for a Presidential candidate with the highest but not the majority of valid votes to get elected.",
+                "vi": "The Tanganyika Republican Constitution enacted.",
+                "vii": "One party state Constitution enacted.",
+                "viii": "The Zanzibar independence constitution enacted.",
+                "ix": "Zanzibar Constitution introduced House of Representatives and election for the first time.",
+                "x": "The interim union of Zanzibar and Tanganyika Constitution enacted."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "1961",
+                "B": "1962",
+                "C": "1963",
+                "D": "1964",
+                "E": "1965",
+                "F": "1966",
+                "G": "1967",
+                "H": "1971",
+                "I": "1974",
+                "J": "1977",
+                "K": "1978",
+                "L": "1979",
+                "M": "1984",
+                "N": "1992",
+                "O": "2000"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nNatural resources can be classified as non-renewable and renewable. Non-renewable or exhaustible resources such as fossil fuels, copper, and gold exist in fixed amount in various places in the earth crust. They can be used completely or economically depleted to the point where it costs too much to get what is left, when 80 percent of its total estimated supply has been removed and used.\n\nA renewable resource is one that can theoretically last forever, because it is replaced through natural process. Examples are trees in the forest, grasses in grasslands, wild animals, fresh surface water in lakes and rivers, fresh air and fertile soils. The earth most valuable resources, is its diversity of potentially renewable forms of life. But over use can convert renewable resources to non-renewable by using them faster than they can be replenished.\n\nSome non-renewable resources can be recycled or reused to extend supplies. Iron, aluminium, glass, for example, can be collected, remelted, reprocessed and made into new products. Also to avoid excessive use of resources, recycling of papers products needlessly burned or thrown away, reduce timber needs for the paper industry. Domestic refuse can be used to generate power particularly for local districts heating and lighting schemes, though care must be taken when incinerating to avoid air pollution problems.\n\nOther non-renewable resources, such as fossil fuels (coal, oil and natural gas), cannot be recycled or reused. When burned, the high quality useful energy in these fuels is converted to low quality waste heat and exhausted gases that pollute the atmosphere.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "From the passage, identify two resources which can be replaced through the natural process."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State three merits of recycling non-renewable resources."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "List down three environmental problems associated with burning of fossil fuels."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "Explain the condition under which renewable resources cannot be renewed."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Suggest two measures to promote sustainable use of natural resources."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline the consequences of improper behaviour among the youth in Tanzania by giving at least five points."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Briefly explain the importance of family stability by giving five points."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Tanzania is credited for promoting and broadening the scope of democracy. Give six points to show the validity of this statement."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Identify and explain six traditions and customs which influence the subordination and exploitation of women in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "The concept of globalization is sometimes misunderstood. Provide a broader view by examining six aspects of globalization."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "The industrial sector plays a key role in the economy of any country. Give six points to illustrate the importance of small scale industries to people's development in the rural areas in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Despite the government efforts, the war against poverty in Tanzania is yet to be won. Analyse nine root causes of poverty in Tanzania."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Elaborate six interpersonal skills which will enable you to cope with life after completion of secondary school education."
+        }
+      ]
+    }
+  ]
+}

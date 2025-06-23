@@ -1,0 +1,192 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Examination Paper Schema",
+  "description": "A schema for structuring academic examination papers.",
+  "type": "object",
+  "properties": {
+    "sections": {
+      "type": "array",
+      "items": { "$ref": "#/definitions/section" }
+    }
+  },
+  "required": ["sections"],
+
+  "definitions": {
+    "section": {
+      "type": "object",
+      "properties": {
+        "section_name": { "type": "string" },
+        "marks": { "type": "integer" },
+        "instructions": { "type": "string" },
+        "questions": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/question" }
+        }
+      },
+      "required": ["section_name", "marks", "instructions", "questions"]
+    },
+
+    "question": {
+      "type": "object",
+      "properties": {
+        "question_number": { "type": "integer" },
+        "question_type": {
+          "type": "string",
+          "enum": [
+            "multiple_choice",
+            "matching",
+            "explanatory",
+            "composite",
+            "normal"
+          ]
+        }
+      },
+      "required": ["question_number", "question_type"],
+      "oneOf": [
+        { "$ref": "#/definitions/explanatoryQuestion" },
+        { "$ref": "#/definitions/compositeQuestion" },
+        { "$ref": "#/definitions/matchingQuestion" },
+        { "$ref": "#/definitions/multipleChoiceQuestion" },
+        { "$ref": "#/definitions/normalQuestion" }
+      ]
+    },
+
+    "explanatoryQuestion": {
+      "properties": {
+        "question_type": { "const": "explanatory" },
+        "question_text": { "type": "string" },
+        "sub_questions": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/subQuestion" }
+        },
+        "visual_elements": { "$ref": "#/definitions/visualElementsArray" }
+      },
+      "required": ["question_type", "question_text", "sub_questions"]
+    },
+
+    "compositeQuestion": {
+      "properties": {
+        "question_type": { "const": "composite" },
+        "sub_questions": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/subQuestion" }
+        },
+        "visual_elements": { "$ref": "#/definitions/visualElementsArray" }
+      },
+      "required": ["question_type", "sub_questions"],
+      "not": { "required": ["question_text"] }
+    },
+
+    "matchingQuestion": {
+      "properties": {
+        "question_type": { "const": "matching" },
+        "question_text": { "type": "string" },
+        "columns": {
+          "type": "array",
+          "minItems": 2,
+          "maxItems": 2,
+          "items": {
+            "type": "object",
+            "properties": {
+              "column_name": { "type": "string" },
+              "column_items": {
+                "type": "object",
+                "patternProperties": { "^.*$": { "type": "string" } }
+              }
+            },
+            "required": ["column_name", "column_items"]
+          }
+        },
+        "visual_elements": { "$ref": "#/definitions/visualElementsArray" }
+      },
+      "required": ["question_type", "question_text", "columns"]
+    },
+
+    "multipleChoiceQuestion": {
+      "properties": {
+        "question_type": { "const": "multiple_choice" },
+        "question_text": { "type": "string" },
+        "sub_questions": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/subQuestion" }
+        }
+      },
+      "required": ["question_type", "question_text", "sub_questions"]
+    },
+
+    "normalQuestion": {
+      "properties": {
+        "question_type": { "const": "normal" },
+        "question_text": { "type": "string" },
+        "visual_elements": { "$ref": "#/definitions/visualElementsArray" }
+      },
+      "required": ["question_type", "question_text"],
+      "not": {
+        "anyOf": [
+          { "required": ["sub_questions"] },
+          { "required": ["columns"] }
+        ]
+      }
+    },
+
+    "subQuestion": {
+      "type": "object",
+      "properties": {
+        "sub_question_identifier": { "type": "string" },
+        "sub_question_text": { "type": "string" },
+        "options": {
+          "type": "object",
+          "patternProperties": { "^[A-Z]$": { "type": "string" } }
+        },
+        "visual_elements": { "$ref": "#/definitions/visualElementsArray" },
+        "sub_questions": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/subQuestion" }
+        }
+      },
+      "required": ["sub_question_identifier", "sub_question_text"]
+    },
+
+    "visualElementsArray": {
+      "type": "array",
+      "items": {
+        "oneOf": [
+          { "$ref": "#/definitions/imageElement" },
+          { "$ref": "#/definitions/tableElement" }
+        ]
+      }
+    },
+
+    "imageElement": {
+      "type": "object",
+      "properties": {
+        "element_type": { "const": "image" },
+        "alt_text": { "type": "string" },
+        "image_url": { "type": "string" }
+      },
+      "required": ["element_type", "alt_text", "image_url"]
+    },
+
+    "tableElement": {
+      "type": "object",
+      "properties": {
+        "element_type": { "const": "table" },
+        "table_data": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "column_name": { "type": "string" },
+              "column_items": {
+                "type": "object",
+                "patternProperties": { "^.*$": { "type": "string" } }
+              }
+            },
+            "required": ["column_name", "column_items"]
+          }
+        }
+      },
+      "required": ["element_type", "table_data"]
+    }
+  }
+}

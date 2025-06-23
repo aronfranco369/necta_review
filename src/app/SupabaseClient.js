@@ -1,0 +1,27 @@
+import { createClient } from "@supabase/supabase-js";
+
+// Replace with your Supabase project details
+// Replace with your Supabase project details
+const supabaseUrl = "https://yuvsajkgycpsscxhlkkm.supabase.co";
+const supabaseKey =
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inl1dnNhamtneWNwc3NjeGhsa2ttIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTA2NjQyMzksImV4cCI6MjA2NjI0MDIzOX0.xK9hVnyNPCPCE8tHGhhMSItI8YRTmvBvx26LCIaVvk4";
+
+const supabase = createClient(supabaseUrl, supabaseKey);
+
+// Function to fetch JSON file from Supabase storage
+// filePath should be like: "civics/2000.json" or "history/2001.json"
+export async function fetchExamFromSupabase(filePath) {
+  try {
+    const { data, error } = await supabase.storage
+      .from("csee") // Your bucket name
+      .download(filePath);
+
+    if (error) throw error;
+
+    // Convert blob to JSON
+    const text = await data.text();
+    return JSON.parse(text);
+  } catch (error) {
+    throw new Error(`Failed to fetch from Supabase: ${error.message}`);
+  }
+}

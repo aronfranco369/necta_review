@@ -1,0 +1,342 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Attempt all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Under each of the following items there are five statements. One of the five statements best explains or completes statements labelled (i) to (xx). Identify the best statement and write down its letter in your answer booklet.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Productive forces and relations of production together form a:",
+                  "options": {
+                    "A": "primitive mode of production",
+                    "B": "mode of production",
+                    "C": "social relationship",
+                    "D": "means of production"
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The socio-economic formation in which man's survival depended on the ready products of nature is:",
+                  "options": {
+                    "A": "Slavery",
+                    "B": "Primitive Communalism",
+                    "C": "Communism",
+                    "D": "Feudalism"
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The King or the Queen, under a constitutional monarchy, is required to reign but not to govern. This means that the Queen or King",
+                  "options": {
+                    "A": "heads the state but does not have executive powers",
+                    "B": "has the supreme authority in decision making",
+                    "C": "is not elected by the legislature",
+                    "D": "is required by the monarch to form the government after election"
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "A Constituency is:",
+                  "options": {
+                    "A": "constitution amendment",
+                    "B": "voting area sending one member to the National Assembly",
+                    "C": "an elected member of the National Assembly",
+                    "D": "parliamentary meeting"
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The Chief Justice",
+                  "options": {
+                    "A": "heads the judiciary",
+                    "B": "is a famous chief in England who held the first civics seminar out of Europe",
+                    "C": "is the chairman of the National Electoral Commission",
+                    "D": "is Attorney General."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "The Parliament of Britain is bicameral. This means that it",
+                  "options": {
+                    "A": "has two houses of Parliament",
+                    "B": "has two speakers of the National Assembly",
+                    "C": "has two parliamentary sessions",
+                    "D": "represents its citizens effectively."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "In 1977, TANU and Afro Shiraz Party merged to form the:",
+                  "options": {
+                    "A": "United Republic of Tanzania",
+                    "B": "Chama cha Mapinduzi",
+                    "C": "Ministry of Foreign Affairs",
+                    "D": "coalition government."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The secretariat for reviving the old economic ties of the defunct East African Community was set up in:",
+                  "options": {
+                    "A": "1996",
+                    "B": "1992",
+                    "C": "1993",
+                    "D": "1995"
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "The following is NOT true about the techniques of liberation:",
+                  "options": {
+                    "A": "Independent churches",
+                    "B": "Social and Welfare Associations",
+                    "C": "Liberation by Warfare",
+                    "D": "Mediation."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "African countries are faced with the problem of refugees, which is a result of:",
+                  "options": {
+                    "A": "civil wars",
+                    "B": "armed struggle against foreigners",
+                    "C": "multi party politics",
+                    "D": "poor leadership."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xi",
+                  "sub_question_text": "After the Second World War, a new international organization for maintaining peace in the world was formed. This was:",
+                  "options": {
+                    "A": "The League of Nations",
+                    "B": "The United Nations Organization",
+                    "C": "The International Court of Justice",
+                    "D": "The Amnesty International"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xii",
+                  "sub_question_text": "The non-permanent members of the UNO security council are elected after every",
+                  "options": {
+                    "A": "five years",
+                    "B": "four years",
+                    "C": "three years",
+                    "D": "two years"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiii",
+                  "sub_question_text": "Since its formation to present the UNO has been headed by:",
+                  "options": {
+                    "A": "five diplomats",
+                    "B": "six diplomats",
+                    "C": "eight diplomats",
+                    "D": "seven diplomats"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiv",
+                  "sub_question_text": "The first O.A.U. Secretary General was Diallo Telli from:",
+                  "options": {
+                    "A": "Cameroon",
+                    "B": "Guinea",
+                    "C": "Nigeria",
+                    "D": "Niger"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xv",
+                  "sub_question_text": "In 1994, a new economic policy of liberalization was introduced under the banner of the Zanzibar Declaration. The aim of this policy is:",
+                  "options": {
+                    "A": "to revisit some economic aspects of the Arusha Declaration",
+                    "B": "to promote economic development in Zanzibar",
+                    "C": "to promote the economic and political relationship betweenTanzania mainland and Zanzibar",
+                    "D": "to consolidate the union between Tanzania and her neighbouring countries"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvi",
+                  "sub_question_text": "Which of the following is NOT true about the motives of Neo-colonialism?",
+                  "options": {
+                    "A": "To perpetuate dependence in an independent state",
+                    "B": "To continue explaining the third world countries",
+                    "C": "To adjust the economic development of the third world countries",
+                    "D": "To extend the capitalist influence on third world countries."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvii",
+                  "sub_question_text": "The following is NOT a negative effect of colonial education:",
+                  "options": {
+                    "A": "Nationalis Movements born and led by the educated",
+                    "B": "Disruption of traditional culture",
+                    "C": "Social and economic disparities among the African societies",
+                    "D": "Creation of an inferiority complex among Africans."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xviii",
+                  "sub_question_text": "An official order for a territory to be taken under the control or protection of a certain country is called:",
+                  "options": {
+                    "A": "revolution",
+                    "B": "coup d'état",
+                    "C": "sanction",
+                    "D": "mandate."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xix",
+                  "sub_question_text": "COMESA is an economic co-operation which was established on:",
+                  "options": {
+                    "A": "12th November 1993",
+                    "B": "6th November 1993",
+                    "C": "12th November 1960",
+                    "D": "6th November 1960"
+                  }
+                },
+                {
+                  "sub_question_identifier": "xx",
+                  "sub_question_text": "Tanzania became a Republic:",
+                  "options": {
+                    "A": "immediately after independence",
+                    "B": "only a year after independence",
+                    "C": "two years after independence",
+                    "D": "after Union with Zanzibar in 1964"
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State whether the following statements are true by writing T or false by writing F against its number in your answer booklet.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "One of the reasons for reinstating local governments is to promote democracy."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Democratic elections are unlimited."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "There are two types of constitution which are flexible and non-flexible."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The interim constitution was formed soon after the merging of TANU and Afro Shiraz Party in 1964."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The Union Electoral Commission is chaired by a judge of the High Court."
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "Every person has the right to choose where to live so long as in so doing, one does interfere with other people's rights."
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "The judiciary is a branch which consists of elected and appointed law makers e.g. judges and magistrate."
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The objective of according independence to the judiciary is to make sure that it dispenses justice to the people without fear or pressure from the other two branches."
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "The office of a Minister or Deputy Minister shall become vacant when he is elected for the post of a speaker."
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "The election of the Speaker is held at any time during the first meeting of a New Parliament."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow:\n\nIf the purpose of development is the greater freedom and well-being of the people, it cannot result from force. For the proverb tells the truth in this matter: You can drive a donkey to water, but you can not make it drink. By order, or even by slavery, you can build pyramids and magnificent roads, you can achieve expanded acreages of cultivation and increase the quantity of goods produced in your factories. All these things and many more can be achieved through the use of force; but none of them results in the development of people. Force and deceitful promises can, in fact only achieve short term material goals. They cannot bring strength to a nation or a community and they cannot provide a basis for the freedom of the people or security for any individuals or group of persons.\n\nThere is only one way in which you can cause people to undertake their own development. That is by education and leadership. Through these means - and no other - people can be helped to understand both their own needs, and the things which they can do to satisfy these needs. This is the kind of leadership which any ruling party and Government officials should be giving the people; this is the way in which we can bring development to Tanzania. Although we must give this leadership, the decisions must come from the people themselves, and they themselves must carry out the programmes they have decided upon.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest the title of the passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "According to the passage, who are to be blamed if at all, no development will be achieved in Tanzania?"
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "The writer is strongly discouraging striking, pressurizing people for development. Which alternative is he suggesting?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "How is development achieved?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "According to the passage, what is the basis of the proverb that \"You can drive a donkey to water, but you cannot make it drink\"."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "Account for the current problems that hinder the rapid economic growth in Tanzania."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "What are the merits and demerits of multiparty politics in Tanzania?"
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Point out the main features of a centralized economy."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Discuss the problems facing agriculture in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Explain the meaning and advantages of a written constitution."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Account for the problems which hinder the growth of the tourist sector in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Why peasant production was predominant in Uganda than in Kenya and Tanzania during colonial period?"
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "What are the demands of the third world countries in the North - South dialogue as far as the demand for a New International Economic Order is concerned?"
+        }
+      ]
+    }
+  ]
+}

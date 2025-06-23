@@ -1,0 +1,255 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer among the given alternatives and write its letter beside the item number in the answer booklet(s) provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which of the following are inscribed on the Coat of arms of Tanzania?",
+              "options": {
+                "A": "giraffe and hammer.",
+                "B": "flag and giraffe.",
+                "C": "hoe and hammer.",
+                "D": "forest and trees.",
+                "E": "trees and hoe."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Before marriage men and women develop friendship, this period of friendship is called",
+              "options": {
+                "A": "courtship",
+                "B": "infidelity",
+                "C": "early marriage",
+                "D": "initiation period",
+                "E": "kitchen party."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The assigning of roles, tasks and responsibilities to a particular gender on the basis of fixed biases is called",
+              "options": {
+                "A": "gender analysis",
+                "B": "gender bias",
+                "C": "gender mainstreaming",
+                "D": "gender blind",
+                "E": "gender stereotyping."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Inadequate provision of food, shelter, clothing and access to clean water is an indication of",
+              "options": {
+                "A": "poverty circle",
+                "B": "absolute poverty",
+                "C": "relative poverty",
+                "D": "income poverty",
+                "E": "poverty line."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The rural authority of the local government consists of",
+              "options": {
+                "A": "ward, town and municipal councils",
+                "B": "town, municipal and city councils",
+                "C": "district, municipal and city councils",
+                "D": "village governments, ward governments and district councils",
+                "E": "village councils, town councils and city councils."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Amnesty International is an international agency which promotes",
+              "options": {
+                "A": "environmental conservation",
+                "B": "gender balance",
+                "C": "awareness on human rights abuse",
+                "D": "globalization",
+                "E": "conflict settlement in developing countries."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The majority rule in Zanzibar was achieved on",
+              "options": {
+                "A": "12th December 1962",
+                "B": "26th April 1964",
+                "C": "9th December 1963",
+                "D": "12th Aprill 1965",
+                "E": "12th January 1964."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "A voting area electing a representative to the National Assembly is called",
+              "options": {
+                "A": "municipal council",
+                "B": "a constituency",
+                "C": "proportional representation",
+                "D": "universal suffrage",
+                "E": "a polling station."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The ability of a person to convey ideas, feelings, thoughts to be known to others is known as",
+              "options": {
+                "A": "negotiation skills",
+                "B": "empathy",
+                "C": "peer pressure",
+                "D": "effective communication skills",
+                "E": "friendship formation."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Social development refers to",
+              "options": {
+                "A": "improvement of peoples welfare in the society",
+                "B": "improvement in relations among the people",
+                "C": "improved women welfare in the society",
+                "D": "high literacy rate in the society",
+                "E": "peace and harmony in the society."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct response in List B by writing the letter of the corresponding response beside the item number in the answer booklet(s) provided.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "Feeling compassion to other people's problem.",
+                "ii": "Ability to think and come up with new idea and ways of doing things.",
+                "iii": "Appreciation of one's self-confidence for self-appearance, abilities and success.",
+                "iv": "Ability of a person to analyse, evaluate and describe the quality of something, an action or decision.",
+                "v": "Collecting opinions or information on stated problem verbally.",
+                "vi": "Ability of a person to respond confidently to any situation.",
+                "vii": "The ability to make the best choice out of many available options.",
+                "viii": "Ability and knowledge to deal competently in a positive way with other people in life.",
+                "ix": "Psychological treatment to people with emotional or mental suffering.",
+                "x": "Discussing and looking for solution to a problem with the help of others."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "Self-exploration",
+                "B": "Social skills",
+                "C": "Guidance and counselling",
+                "D": "Self-esteem",
+                "E": "Empathy",
+                "F": "Creative thinking skills",
+                "G": "Assertiveness",
+                "H": "Mediation",
+                "I": "Interview",
+                "J": "Decision making skills",
+                "K": "Criteria",
+                "L": "Sympathy",
+                "M": "Negotiation skills",
+                "N": "Critical thinking skills",
+                "O": "Problem solving skills"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage carefully and answer the questions that follow.\n\nHistorically the question of human rights has been constantly attracting International attention. In different places all over the word Tanzania included, human rights are being violated at different levels ranging from the central government itself, local government, public institutions such as court and police, society and even at the level of the family and religion to mention few. Due to ignorance caused by lack of information and poverty, the victims of human rights do not know that they are violating them.\n\nTo combat the problem of violating human rights in Tanzania appropriate measures need to be taken. The first alternative is the on-going improvement of human rights education to the entire public. All citizens should be educated on human rights. Authorities such as police, people's militia, executives, members of the parliament, councillors, teachers, employers and parents should know human rights.\n\nThe second steps is to know where to go when human rights are violated. In most cases violations occur to individuals. The court system and the police are the major organs that protect human rights. However, these organs may not help if human rights education is not provided. There is a need to form local human rights groups which will serve well even when an individual alone cannot get his/her rights. Such groups can be formed by students, women, workers, villagers or professionals, disabled, retired employers etc.\n\nThese groups will serve as regulators when any person or group is denied his/her rights. They will have a strong and common voice against any violation. This behaviour will enable even law enforcers such as police, tax officers, magistrates and judges to be careful when doing their duties. This will ensure and enhance the commitment of lawyers and judges to interpret the laws accordingly.\n\n Questions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Suggest the suitable title for the passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "According to the passage, name two violators of human rights in our society."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "In the contest of this passage, outline two strategies that can be used to protect human rights in Tanzania."
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "In your views, what do you think is the role of the judiciary in protecting human rights in Tanzania? Give two points."
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "Point out two negative effects of human rights abuse."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Outline five roles of Commercial Banks in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Briefly explain five elements of culture."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "The multiparty system is more democratic than a single party system. In the light of this statement examine six merits of multiparty democracy to a country like Tanzania."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Show how a responsible Tanzanian citizen can contribute to the welfare and prosperity of the country by giving six points."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Proponents of globalization argue that globalization is a catalyst of development while the opponents contend that it is a new form of neo-colonialism to developing countries. Discuss six demerits of globalization to a country like Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Road accidents in Tanzania have now reached unacceptable proportions. Suggest six measures to alleviate road accidents in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"High standard of life and work are inseparable\". In the light of this statement examine the importance of work to human development by giving six points."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Discuss the importance of the culture of preventive care and maintenance of individual and public property by giving six points."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 40,
+      "instructions": "Answer ALL questions in this section.\nThis section carries 40% of the total marks.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Under each of the following items there are five statements. One of the five statements best explains or completes sentences labelled (i) - (xx). Identify the best statement and write down its letter in your answer booklet.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The Commander in Chief of Tanzania's armed forces is:",
+                  "options": {
+                    "A": "The Prime Minister",
+                    "B": "The Minister for Defence and National Service",
+                    "C": "General Robert Mboma",
+                    "D": "The President of the United Republic of Tanzania.",
+                    "E": "The Inspector General of the Police."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The 1961 independence constitution of Tanganyika was based on:",
+                  "options": {
+                    "A": "Presidential system",
+                    "B": "Westminster Model",
+                    "C": "Federal system",
+                    "D": "Dictatorship",
+                    "E": "Constitutional Monarchy."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The Tanzania Peoples Defence Forces (TPDF) came into being:",
+                  "options": {
+                    "A": "immediately after independence",
+                    "B": "after the Arusha declaration",
+                    "C": "in 1963",
+                    "D": "in 1964",
+                    "E": "in 1965."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "Constitutional Monarchy is a political system in which the Monarchy:",
+                  "options": {
+                    "A": "has executive powers",
+                    "B": "is both the head of state and head of government",
+                    "C": "is the head of government",
+                    "D": "is not bound by any law",
+                    "E": "is a ceremonial head of state."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "One of the essential features of the Rule of Law is that:",
+                  "options": {
+                    "A": "the police have power to detain suspects without charges",
+                    "B": "the people have power to take the law into their own hands",
+                    "C": "the President has absolute powers",
+                    "D": "there exists independence of the judiciary",
+                    "E": "the parliament has power to appoint judicial officials."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "In a democracy changes of the state's leadership is made through:",
+                  "options": {
+                    "A": "resignation",
+                    "B": "revolution",
+                    "C": "general election",
+                    "D": "deposition",
+                    "E": "heritage."
+                  }
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "Which of the following statements is NOT true about the functions of the National Electoral Commission?",
+                  "options": {
+                    "A": "To register voters",
+                    "B": "To announce the date of election",
+                    "C": "To register new political parties",
+                    "D": "To supervise election of the President and Members of Parliament",
+                    "E": "To supervise the election of local government councillors."
+                  }
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The Zanzibar revolution occured on:",
+                  "options": {
+                    "A": "12th January 1964",
+                    "B": "10th December 1963",
+                    "C": "26th April 1964",
+                    "D": "9th December 1962",
+                    "E": "5th February 1967."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "In the absence of the Speaker and Deputy Speaker meetings of the Parliament are chaired by:",
+                  "options": {
+                    "A": "the Prime-Minister",
+                    "B": "two members of Parliament elected from among the chairpersons of the standing committees of the Parliament.",
+                    "C": "the Chief Justice",
+                    "D": "the clerk of the National Assembly",
+                    "E": "the Minister for legal and constitutional affairs."
+                  }
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "Sultan Seyyid Said shifted his capital from Oman to Zanzibar in:",
+                  "options": {
+                    "A": "1840",
+                    "B": "1886",
+                    "C": "1890",
+                    "D": "1885",
+                    "E": "1884."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xi",
+                  "sub_question_text": "Karl Marx and Fredrick Engels were philosophers of:",
+                  "options": {
+                    "A": "African Socialism",
+                    "B": "Scientific Socialism",
+                    "C": "Utopian Socialism",
+                    "D": "Fabian Socialism",
+                    "E": "Primitive Communalism."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xii",
+                  "sub_question_text": "The following political parties constitute official opposition in the Tanzanian Parliament.",
+                  "options": {
+                    "A": "CUF and NCCR",
+                    "B": "CUF and UDP",
+                    "C": "CUF and CHADEMA",
+                    "D": "CHADEMA and NCCR",
+                    "E": "CHADEMA and UDP."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiii",
+                  "sub_question_text": "The colonial government in Tanganyika preferred migrant labour because it was:",
+                  "options": {
+                    "A": "cheap, skilled and safe",
+                    "B": "skilled",
+                    "C": "cheap and safe",
+                    "D": "civilized",
+                    "E": "skilled and hard working."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xiv",
+                  "sub_question_text": "Which of the following statements is true about the slave mode of production?",
+                  "options": {
+                    "A": "Slaves paid rent for using land belonging to the slavemaster",
+                    "B": "Slaves appropriated the product of their labour",
+                    "C": "Slaves were free to sell their labour to a slavemaster who paid well.",
+                    "D": "Slaves belonged to their master in just the same way as cattle.",
+                    "E": "there was no division of labour."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xv",
+                  "sub_question_text": "SILABU was:",
+                  "options": {
+                    "A": "a trade Union during the colonial period in Tanganyika",
+                    "B": "a Cooperative Union during the colonial period in Tanganyika",
+                    "C": "a political party during the struggle for independence in Zanzibar.",
+                    "D": "a Bank established during the colonial period",
+                    "E": "an organization for recruiting labour during the colonial period."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvi",
+                  "sub_question_text": "The Maji Maji resistance was different from other initial anti-colonial struggles because:",
+                  "options": {
+                    "A": "it had an ideology",
+                    "B": "it was a popular uprising against the establishment of a colonial economy.",
+                    "C": "the peasants used water into which medicine has been added",
+                    "D": "it was led by local chiefs who wanted to protect their political and economic interests.",
+                    "E": "of the strong leadership of Kinjikitile."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xvii",
+                  "sub_question_text": "The current Secretary General of the UNO is:",
+                  "options": {
+                    "A": "Boutros - Boutros Ghali",
+                    "B": "Salim Ahmad Salim",
+                    "C": "Chief Anyaoku",
+                    "D": "Kofi Annan",
+                    "E": "Diallo Telli."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xviii",
+                  "sub_question_text": "The Chief Justice in Tanzania is appointed by the:",
+                  "options": {
+                    "A": "Parliament",
+                    "B": "Attorney General",
+                    "C": "President",
+                    "D": "Prime Minister",
+                    "E": "Minister for legal and constitutional affairs."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xix",
+                  "sub_question_text": "Capitalism passed through the following stages in its development:",
+                  "options": {
+                    "A": "Mercantile capitalism, industrial capitalism and Monopoly capitalism.",
+                    "B": "Primitive communalism, slavery and Feudalism",
+                    "C": "Mercantile capitalism, Socialism and Monopoly Capitalism",
+                    "D": "Monopoly capitalism, communism and industrial capitalism",
+                    "E": "Industrial capitalism, Monopoly capitalism and Colonialism."
+                  }
+                },
+                {
+                  "sub_question_identifier": "xx",
+                  "sub_question_text": "Colonialists established infrastructures such as railways and roads in order to:",
+                  "options": {
+                    "A": "enable local people visit their relatives",
+                    "B": "facilitate exploitation",
+                    "C": "spread civilization in Africa",
+                    "D": "enable missionaries spread the word of God",
+                    "E": "promote trade among African people."
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State whether the following statements are true by writing 'T' or false by writing 'F' against its number in your answer book.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The 1886 Anglo-German agreement is sometimes known as the Heligoland Treaty."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The Attorney-General may attend Cabinet meetings by virtue of his position."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The Secretary-General of the OAU is elected by the council of Ministers."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The Lome convention is a trade and aid agreement between the European Union and African countries."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The Speaker is the leader of government business in Parliament."
+                },
+                {
+                  "sub_question_identifier": "vi",
+                  "sub_question_text": "The IMF and World Bank are sometimes referred to as the Bretton Woods institutions."
+                },
+                {
+                  "sub_question_identifier": "vii",
+                  "sub_question_text": "One aspect of the pre-colonial education in some African Societies was the initiation ceremony."
+                },
+                {
+                  "sub_question_identifier": "viii",
+                  "sub_question_text": "The Prime Minister is the chairman of the Parliamentary Committee for security and defence by virtue of his position."
+                },
+                {
+                  "sub_question_identifier": "ix",
+                  "sub_question_text": "There is a relationship between human rights and democracy."
+                },
+                {
+                  "sub_question_identifier": "x",
+                  "sub_question_text": "One of the tactics used to establish colonial rule in Africa was diplomacy."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and answer the questions that follow.\n\nUnderstanding the effects of pesticides used in Agriculture on the environment is crucial in ensuring that there is environmental conservation.\n\nPesticides can be in the form of powder, liquid or gas. These protect plants or the environment from being attacked by pests. Ignorance on the effects of pesticides can cause great harm to the environment and there is a danger of upsetting the delicate ecosystem.\n\nIt is thus vital to promote environmental awareness and publicize effective conservation measures.\n\nArmed with little knowledge many people have been misusing and mishandling pesticides, thus endangering the environment, man, animals, and plants. The common effects have been in the form of explosions, contamination of water sources and plants which are later consumed by humans and animals. Contamination of the ecosystem has consequently led to the imbalance in the relationship between animals and plants.\n\nThe factors often cited by experts which have led to the misuse and mishandling of pesticides include illiteracy, negligence, poor documentation and information systems, poor disposal techniques and lack of technical know-how, ignorance, the absence of an appropriate guiding policy and insufficient extension services.\n\nQUESTIONS:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Write the title of this passage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Is the author totally against the use of pesticides? Explain."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "According to the author in what forms can the effects of pesticides be seen?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "What is an ecosystem?"
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "What suggestions would you give in order to avoid the misuse and mishandling of pesticides?"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 60,
+      "instructions": "Attempt any THREE (3) questions from this section.\nAll questions carry equal marks. (This section carries 60 marks).",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "normal",
+          "question_text": "Assess the role of Civics as a discipline of study in shaping the character of youth."
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Discuss the meaning and importance of a national constitution."
+        },
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Multi-party government is more democratic than mono-party government. Discuss."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Account for the current problems facing Co-operative Unions in Tanzania."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Show the merits of liberalization of financial institutions in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Discuss the role of the press in enhancing the practice of Democracy."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Briefly discuss the Methods and techniques used by the Europeans to establish colonial culture in Tanzania."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Describe the features of colonial education."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i - x), choose the correct answer among the given alternatives and write its letter beside the item number in your answer booklet.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The non biological roles performed by men and women in a society are called",
+              "options": {
+                "A": "gender roles",
+                "B": "cultural roles",
+                "C": "femininity roles",
+                "D": "parental roles",
+                "E": "marital roles."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following is the organ which oversees the day to day activities and makes decisions on matters concerning the village?",
+              "options": {
+                "A": "Village government.",
+                "B": "Village assembly.",
+                "C": "Village council.",
+                "D": "Village social council.",
+                "E": "Village development committee."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The right of people to belong to an organization is called freedom of",
+              "options": {
+                "A": "expression",
+                "B": "association",
+                "C": "property",
+                "D": "press",
+                "E": "movement."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which of the following is not the source of national income in Tanzania?",
+              "options": {
+                "A": "development levy.",
+                "B": "income tax.",
+                "C": "profits from parastatals",
+                "D": "licence fees.",
+                "E": "grants or aids."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In many societies traditional folk tales and songs continue to have importance mainly because they",
+              "options": {
+                "A": "encourage contacts with other societies",
+                "B": "inculcate family values",
+                "C": "are used in wedding ceremonies",
+                "D": "help to maintain cultural identity",
+                "E": "attract tourists."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Tanzania has included the life skills education in its curriculum because it",
+              "options": {
+                "A": "helps people to cope with urban life easily",
+                "B": "increases productivity and comfortability of life",
+                "C": "reduces the sense of personal esteem",
+                "D": "helps people to become wealthy",
+                "E": "helps people to obey their cultural values."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The legal instrument which gives powers and responsibilities to leaders of a country is",
+              "options": {
+                "A": "parliament",
+                "B": "executive",
+                "C": "constitution",
+                "D": "ruling party",
+                "E": "judiciary."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The major drawbacks to industrial prosperity in Tanzania include",
+              "options": {
+                "A": "unskilled labour, weak technological base and poor infrastructure",
+                "B": "lack of arable land, weak technological base and poor infrastructure",
+                "C": "shortage of raw materials, weak technological base and poor infrastructure",
+                "D": "high mortality rate, weak technological base and poor infrastructure",
+                "E": "lack of capital, weak technological base and poor infrastructure."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The type of electoral system in Tanzania is known as the",
+              "options": {
+                "A": "proportional system",
+                "B": "combined system",
+                "C": "complex majority system",
+                "D": "simple majority system",
+                "E": "parallel system."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "A social group of people living together with their own government, language, traditions and history is called",
+              "options": {
+                "A": "nation",
+                "B": "community",
+                "C": "family",
+                "D": "government",
+                "E": "constituency."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number.",
+          "columns": [
+            {
+              "column_name": "LIST A",
+              "column_items": {
+                "i": "The third generation of human rights.",
+                "ii": "The good example of civil rights.",
+                "iii": "Legally binding for signatories.",
+                "iv": "The second generation of human rights.",
+                "v": "Violation of the freedom to press.",
+                "vi": "Related to the rights of conduct and social relations.",
+                "vii": "The first generation of human rights.",
+                "viii": "Not legally binding for signatories.",
+                "ix": "A health environment is human rights.",
+                "x": "The great charter of freedom that was issued in England."
+              }
+            },
+            {
+              "column_name": "LIST B",
+              "column_items": {
+                "A": "The African charter",
+                "B": "Declaration",
+                "C": "Ratification",
+                "D": "Magna carta",
+                "E": "Stockholm declaration",
+                "F": "A fair trial",
+                "G": "Civil and political rights",
+                "H": "Economic, cultural and social rights",
+                "I": "Individual rights",
+                "J": "French declaration",
+                "K": "Moral rights",
+                "L": "Defamation",
+                "M": "Collective rights",
+                "N": "Persecution",
+                "O": "Convention"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Read the following passage and then answer the questions that follow.\n\nMembers of international community interact in various ways. The most common is through different international organizations. These organizations are in three main categories namely; global, regional and sub regional. This form of interaction may be for various purposes like political, economic and even sports.\n\nAt the political level, the most important organization since the Second World War is the United Nations Organization (UNO). It was established in 1945 with the main purpose of maintaining the world peace and security.\n\nThe main organs of the UNO are the General Assembly in which each member of the UNO is invited on equal terms. On the other hand, the Security Council has segregation with the five permanent members having the greater rights than others. These members hold Veto power which means that any one of them can block any decision in the Council. The permanent members are joined by other ten members who hold the position for two years. they are chosen on the basis of geographical location and other qualifications.\n\nNotwithstanding, the fact that the UNO represents the highest aspirations of the world's peoples for a world free of war, hunger, repression and suffering; there are very strong criticism of UNO performance. Some analysts have felt that UNO has been too passive in the pursuit of peace in the world particularly over the two decades. Cases like Rwanda, Burundi, Somalia and Palestine and Israel are illustrative.\n\nOn the African continent, the most important institution is the African Union (AU). This is a new organization established in 2002 transformed from currently non-operational Organization of African Unity (OAU). The OAU had a long history. It was established in 1963 by heads of states and governments of independent African Countries. Its main preoccupation was Liberation of African States and consolidation of independent African States. In the post liberation era on the continent, the African Union is expected to address economic and other problems facing Africa.\n\nQuestions",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "From the passage you have read, is the United Nations a democratic organization? Give reason for your answer."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "From your own understanding, list five permanent members of UNO which have Veto power."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "From the passage, what are the major achievements of OAU?"
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "From your own knowledge, mention the city in which the headquarters of UNO is located."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Apart from its basic duty which is to maintain the world peace and security, mention other three important functions of UNO according to this passage?"
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "From your own understanding, mention any three sub regional organizations found in Africa (Write them in a short and long form)."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "What do you understand by the term \"early marriages?\" Briefly explain four effects of early marriage."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Briefly explain the main five functions of the Central Bank of Tanzania (B.O.T)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section. Each question carries 20 marks.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "\"Most countries in the World hold general elections, but the challenge remains on the extent to which a particular election is free and fair.\" In the light of this quotation, examine six conditions for free and fair election."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Give six points to elaborate the importance of studying Civics."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "The informal sector is one of the fast growing sectors in economy. Explain six major problems facing the informal sector in Tanzania."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "\"The debate on the merits and demerits of globalization sometimes generate more questions than answers.\" In the light of this quotation, show six socio-economic demerits of globalization in Tanzania."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Describe nine elements of proper behaviour in a society."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Identify and explain six factors required for economic development."
+        }
+      ]
+    }
+  ]
+}
