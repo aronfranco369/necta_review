@@ -1,0 +1,326 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number in your answer booklet.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Cultural practices through which historical information can be obtained include",
+              "options": {
+                "A": "archaeology, museum and archives",
+                "B": "museums, archives and religion",
+                "C": "archaeology, funerals and riddles",
+                "D": "superstitions, religion and riddles",
+                "E": "oral tradition, museums and archives."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following is the famous local museum in Tanzania?",
+              "options": {
+                "A": "Olduvai Gorge",
+                "B": "Bagamoyo",
+                "C": "Kilwa",
+                "D": "Kondoa",
+                "E": "Kalenga."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "In the process of evolution, a true man had appeared by about",
+              "options": {
+                "A": "500 years ago",
+                "B": "5,000 years ago",
+                "C": "50,000 years ago",
+                "D": "500,000 years ago",
+                "E": "5,000,000 years ago."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The most crucial changes in the evolution of man were",
+              "options": {
+                "A": "bi-pedalism and development of the brain",
+                "B": "domestication of crops and animals",
+                "C": "division of labour and expansion of agriculture",
+                "D": "establishment of settlements and domestication of crops",
+                "E": "discovery of stone tools and fire."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The period which man was able to make chopping and pebble tools is known as",
+              "options": {
+                "A": "Late Stone Age",
+                "B": "Old Stone Age",
+                "C": "Middle Stone Age",
+                "D": "Iron Age",
+                "E": "Industrial age."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Cultural practices through which historical information can be obtained include",
+              "options": {
+                "A": "Katanga",
+                "B": "Tanga",
+                "C": "Bunyoro",
+                "D": "Uvinza",
+                "E": "Meroe."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "When was an International Organization comprising of independent states from all over the world formed?",
+              "options": {
+                "A": "Towards the end of the abolition of slave trade.",
+                "B": "Towards the beginning of the First World War.",
+                "C": "During the establishment of colonialism.",
+                "D": "Towards the end of the Second World War.",
+                "E": "During the Berlin Conference of 1884-1885."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Why the rulers of small Ngoni groups were able to defeat and consolidate their power to most of the East African societies?",
+              "options": {
+                "A": "Their female subjects were married by defeated tribes.",
+                "B": "Their male subjects were agents of colonialism.",
+                "C": "Their army used more magic power than weapons.",
+                "D": "Their army had poor weapons like guns.",
+                "E": "War captives were spared and recruited into Ngoni armies."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Why the knowledge of iron-working was kept secret in some societies during pre-colonial period?",
+              "options": {
+                "A": "They wanted to develop division of labour.",
+                "B": "Iron had the immediate use value to some societies.",
+                "C": "They wanted to maintain monopoly of the blacksmiths.",
+                "D": "They had plans of using it in making ornaments.",
+                "E": "It enabled men to play a middleman's role in salt and gold."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "What is the most supreme organ of the United Nations Organization?",
+              "options": {
+                "A": "Trusteeship Council",
+                "B": "Secretariat",
+                "C": "Security Council",
+                "D": "General Assembly",
+                "E": "International Court of Justice."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the stems in List A with the correct responses in List B by writing the letter of the response beside the item number in your answer booklet.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The first Portuguese merchant-explorer to round the Cape of Good Hope in 1498.",
+                "ii": "Famous British explorer in West Africa.",
+                "iii": "The feudal relation which developed between the Tutsi and Hutu.",
+                "iv": "The new economic strategy for Tanzania in 1967.",
+                "v": "Resolved the conflict on the use of Congo and Niger rivers.",
+                "vi": "The first exploitative mode of production.",
+                "vii": "The first exploitative mode of production.",
+                "viii": "The survival of colonial system despite the formal attainment of political independence.",
+                "ix": "A country that gained independence in 1990.",
+                "x": "A Mau Mau leader."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Ubugabire",
+                "B": "Colonialism",
+                "C": "Namibia",
+                "D": "Anglo- Germany treaty of 1890",
+                "E": "Mungo Park",
+                "F": "South Africa",
+                "G": "William Mackinnon",
+                "H": "Communalism",
+                "I": "Neo-colonialism",
+                "J": "Nyarubanja",
+                "K": "General China",
+                "L": "Zimbabwe",
+                "M": "Assimilation policy",
+                "N": "Arusha Declaration",
+                "O": "Capitalist conference of 1884-1885",
+                "P": "Feudalism",
+                "Q": "Indirect rule system",
+                "R": "Cecil Rhodes",
+                "S": "Vasco Da Gama",
+                "T": "Slavery"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of East Africa and locate the following:",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The headquarters of East African Community."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The capital city of a country whose president was overthrown in a coup in 1971."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The East African great slave market which was closed in 1873."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The headquarters of the Portuguese rule."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The region in Tanganyika which was the best reservoir of labour during the colonial period."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five effects of colonial education in East Africa."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by writing number 1 to 5 beside the item number in your answer booklet.\n\n(i) In December 1963, the British handed political power to the Arab minority.\n\n(ii) It was soon followed by the union between Tanganyika and Zanzibar forming the United Republic of Tanzania.\n\n(iii) The 1964 Zanzibar revolution was the second attempt made to bring about real political independence.\n\n(iv) This event was an important step towards the achievement of East African Unity.\n\n(v) The revolution was intended to transfer power to the majority."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The items i-v consists of four sentences which form a complete historical meaning. One of the sentences is missing. Identify the missing sentence from the sentences given after each set of items (A - E) and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. In the 13th century, Ghana crumbled.\n2. Its position was taken by several smaller states.\n3. Among these was the former kingdom of Kangaba.\n4. ____________________",
+                  "options": {
+                    "A": "Kangaba grew up to become the empire of Songhai.",
+                    "B": "Kangaba was led by Askia Mohamed.",
+                    "C": "Kangaba grew up to become the empire of Mali.",
+                    "D": "Kangaba was led by Osei Tutu.",
+                    "E": "Kangaba disengaged from the grip of the Forest states."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. There were few communal societies in East Africa by 1850.\n2. ____________________\n3. These people still lived in shifting groups of hunters and gatherers.\n4. They had few external interactions and maintained their mode of production.",
+                  "options": {
+                    "A": "These include the Hadzabe of Tanzania and Tindiga of Uganda.",
+                    "B": "These include the Hadzabe of Uganda and Teuso of Kenya.",
+                    "C": "These include the Teuso and Dorobo of Kenya.",
+                    "D": "These include the Tindinga of Kenya and Dorobo of Tanzania.",
+                    "E": "These include the Teuso of Uganda and Dorobo of Kenya."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. Post-colonial efforts to develop the commercial sector were greatly influenced by the colonial legacy.\n2. In Kenya, private ownership was greatly consolidated after independence.\n3. ____________________\n4. In Tanzania, various efforts have been made to place the commercial sector in the hands of the people.",
+                  "options": {
+                    "A": "In Uganda, Milton Obote launched a Common Man's Charter in 1976.",
+                    "B": "Private enterprises were confiscated from the Arabs in Uganda.",
+                    "C": "In Uganda, Idd Amin repatriated most of the Asian traders and placed their commercial enterprises in the hands of his military clique.",
+                    "D": "Portuguese wholesale traders controlled the commercial sector in Uganda.",
+                    "E": "Commercial institutions were closed in Uganda due to bankruptcies."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Indirect rule enabled the colonial government to solve the problem of the shortage of white personnel.\n2. The few white officials could not by themselves administer large and populous colonies without the assistance of local agents.\n3. ____________________\n4. It also promoted divisions along ethnic lines which kept the colonial subjects divided and easy to rule.",
+                  "options": {
+                    "A": "It made the French colonial administrators act only as supervisors.",
+                    "B": "It was a useful system during the struggle for independence.",
+                    "C": "It was initiated by Fredrick Lugard in northern Angola.",
+                    "D": "It allowed the Africans to register as French citizens.",
+                    "E": "It enabled the colonial state to collect tribute and taxes."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. After the 1886 agreement, responsibility for administering Kenya was entrusted to the British Consul in Zanzibar.\n2. However, in 1888 this responsibility was transferred to William Mackinnon's East African Company.\n3. In the same year, the company received a royal charter.\n4. ____________________",
+                  "options": {
+                    "A": "It was named British East African Protectorate.",
+                    "B": "It was renamed the Imperial British East African Company.",
+                    "C": "It was called the Royal Niger Company.",
+                    "D": "It became known as German East African Company.",
+                    "E": "It was known as Rhodes' British Company."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain six effects of the pre-colonial contacts between the people of Africa and Asia."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Elaborate six reasons which made the Boers to escape to escape the Southern African Cape between 1830 and 1850."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Analyse six methods that were used by the imperialists in imposing colonial rule in Africa."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "How were the East African colonies affected by the First World War? Give six points to support your answer."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Examine six factors which enabled Tanganyika to attain her independence earlier than Kenya."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "\"Migrant labourers were very useful to the capitalists during colonial economy in Africa.\" Substantiate this statement by giving six points."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,304 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "One of the effects regarding the coming of Europeans to West Africa was",
+              "options": {
+                "A": "the introduction of iron technology",
+                "B": "establishment of heavy industries",
+                "C": "the growth of western Sudanic states",
+                "D": "the distortion of the Trans-Saharan Trade",
+                "E": "the decline of tribal wars."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The following are functions of the clan heads except",
+              "options": {
+                "A": "allocating land for agriculture",
+                "B": "choosing spouses for the young men",
+                "C": "settling conflicts",
+                "D": "presiding over religious ceremonies",
+                "E": "ruling a number of villages."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The prominent groups of people in iron working in Africa included the",
+              "options": {
+                "A": "Venda people of Northern Africa and Mashona of Zimbabwe",
+                "B": "Mashona of Zambia and Mang'anja of Malawi",
+                "C": "Nubians of Sudan and the Venda of Northern Transvaal",
+                "D": "Nubians of Kongo and the Mashona of Zimbabwe",
+                "E": "Ibo and Yoruba in West Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "One of the notable United Nations failure in its objectives is its inability to",
+              "options": {
+                "A": "control food shortage",
+                "B": "eradicate colonial rule",
+                "C": "establish tribunes for war criminals",
+                "D": "prevent big powers from violating its principles",
+                "E": "control poverty in Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The Boers who trekked away from the cape colony in the late 1830s were known as the",
+              "options": {
+                "A": "Voortrekkers",
+                "B": "Isandlahwana",
+                "C": "Afrikaners Bond",
+                "D": "Uitlanders",
+                "E": "Khoisan"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Written records as a source of history are more preferred to oral traditions because of the following reason.",
+              "options": {
+                "A": "Written records do not require space",
+                "B": "Oral traditions can be exaggerated and it is difficult to reproduce the same contents",
+                "C": "Oral traditions are expressed in centuries",
+                "D": "Written records do not require language as a medium of communication",
+                "E": "Oral traditions are controlled by leaders of a given society."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Karl Peters signed a number of treaties with African chiefs on the coastal hinterland of Tanganyika because he wanted to",
+              "options": {
+                "A": "please chancellor Bismark of Germany",
+                "B": "establish the unity among African chiefdoms",
+                "C": "accomplish colonial economic motives of the German East Africa Company",
+                "D": "accomplish the signing of the Heligoland Treaty",
+                "E": "recruit the chief of Msowero to become member of the German East African Company."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The demise of the Portuguese in East African Coast could be explained as",
+              "options": {
+                "A": "the Portuguese rivals overpowered them",
+                "B": "the Portuguese did not have enough soldiers and administrators to control their empire",
+                "C": "Portuguese soldiers were corrupt and brutal",
+                "D": "the Portuguese control of the Indian Ocean trade and gold in Mwenemutapa's empire was less profitable",
+                "E": "Portugal had already industrialised."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which major problem faced independent Africa in political aspects after independence?",
+              "options": {
+                "A": "Low income to the majority",
+                "B": "Experts without white collar job",
+                "C": "The balance of ministers from former colonial masters",
+                "D": "Size of independent states",
+                "E": "Imbalance in power sharing"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Indirect Rule was predominant in the following regions",
+              "options": {
+                "A": "South Africa, Namibia and Zimbabwe",
+                "B": "Uganda, Nigeria and Tanganyika",
+                "C": "Uganda, Kenya and Zanzibar",
+                "D": "Zimbabwe, Kenya and Congo",
+                "E": "Cameroon, Namibia and Tanganyika"
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the stems in List A with the correct responses in List B by writing the letter of the response beside the item number.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "Vasco da Gama",
+                "ii": "Kinjeketile Ngwale",
+                "iii": "Karl Peters",
+                "iv": "Samori Toure",
+                "v": "Jomo Kenyatta",
+                "vi": "The Nana and Herero resistance",
+                "vii": "Famous long distance traders in East Africa",
+                "viii": "The Kwavi",
+                "ix": "The assassination of Patrice Lumumba",
+                "x": "The Buganda Agreement of 1900"
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Imperialist plan against progressive and revolutionary leadership in independent Africa.",
+                "B": "Facilitated indirect rule in Uganda.",
+                "C": "Alienation of land and cattle by German settlers.",
+                "D": "Triggered by low wages.",
+                "E": "Led to collapse of Central African Caravan trade.",
+                "F": "Nyamwezi.",
+                "G": "Primarily agricultural section of the Masai.",
+                "H": "Growth of coastal city states.",
+                "I": "Weakness of the OAU.",
+                "J": "Resisted Germany colonial rule in Kenya.",
+                "K": "Mandinka Empire.",
+                "L": "The founder of KANU.",
+                "M": "Organized forces against Italian invasion.",
+                "N": "An African king traditionally known as Mari-Jata.",
+                "O": "Linked Africa to Portuguese mercantilism.",
+                "P": "Founded Oyo Empire.",
+                "Q": "A German imperial agent in East Africa.",
+                "R": "Contributed to the rise of nationalism in Zimbabwe.",
+                "S": "Organized Maji Maji war against the British.",
+                "T": "Used ideology to organize people against Germany rule."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch of East Africa and mark the following important railway stations in colonial economy: Kampala to Kasese, Mombasa to Kisumu, Mombasa to Kampala, Dar es Salaam to Mpanda and Tanga to Moshi."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five (5) roles of the constructed means of transport during colonial period."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by using number 1 to 5 to write beside the item number.\n\n(i) The further they pushed into the interior the more the African societies were affected by this violence.\n\n(ii) They killed, enslaved and robbed Africans of their land and cattle.\n\n(iii) The African societies in the Mfecane area were already affected by two forces coming from European expansionism of the time.\n\n(iv) Their contact with Africans was constantly violent.\n\n(v) First their was the penetration of white colonialists northwards from the cape as farmers and cattle herders."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "In each item (i-v) there are four sentences which form a complete historical meaning. One sentence is missing. Identify the missing sentence from the sentences given below each item and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. Just like their neighbours Uganda and Tanganyika, the Kenyans resisted the imposition of colonial rule.\n2. Here also some local rulers collaborated with the imperialists while others adopted armed action against the enemy.\n3. ____________________\n4. The Mazrui Arabs had earlier disputed the sovereignity of the Sultan of Zanzibar over their territory.\n5. In fact, they had hoped that after the departure of Imperial British East African Company in 1893 they might regain their independence.",
+                  "options": {
+                    "A": "The next major resistance was staged by Chagga in northern Tanganyika.",
+                    "B": "The Mazrui dynasty and their supporters along the coast of Kenya led the first armed uprising against British occupation.",
+                    "C": "The Luyia of the Kavirondo collaborated with British and Germans in South.",
+                    "D": "The people finally resolved to get rid of this oppression and exploitation in July 1905.",
+                    "E": "The Masai were not attacked by several natural disasters especially cholera, small pox and rinderpest during the time of resistance."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. The art of making iron was one of the most important discoveries for man's social and economic development.\n2. The people who involved themselves in iron industry were called blacksmiths who learned how to identify rocks containing iron ore.\n3. ____________________\n4. In many societies for example, women were not allowed to go near furnaces while iron processing was in progress.\n5. African iron smiths were found among the Venda, Mashona, Mang'anja and people around Kalambo falls.",
+                  "options": {
+                    "A": "In the early period the knowledge of iron working was known to every one in a society.",
+                    "B": "In the early period, the knowledge of iron working was known by men only.",
+                    "C": "In the early period the knowledge of iron working was kept secret in order to maintain the monopoly of black smiths.",
+                    "D": "In the early period the knowledge of iron working was confined to African chiefs and their sons.",
+                    "E": "In the early period the knowledge of iron working was also practiced by the Queens."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. Clan organization was formed by several related families which were early permanent agricultural societies\n2. ____________________\n3. Clan organization developed both in Matrilineal and Patrilineal societies.\n4. In Matrilineal societies the clan heritage was based on the mother e.g. the Makonde, Yao and Makua\n5. In Patrilineal societies the clan heritage was based on father e.g. the Hehe, Bena and Haya.",
+                  "options": {
+                    "A": "The people in the clan organization were governed by grandfathers and mothers.",
+                    "B": "The people in the clan organization were governed by clan heads.",
+                    "C": "The people in clan organization were governed by chiefs.",
+                    "D": "The people in clan organization were governed by the king.",
+                    "E": "The people in clan organization were governed by all elder people in the clan."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. The UN secretariat headquarters is in New York.\n2. It administers peace keeping operations in many countries which are in wars.\n3. It implements the decisions of the General Assembly.\n4. It mediates international disputes.\n5. ____________________",
+                  "options": {
+                    "A": "It fixes sanctions on the aggressive states.",
+                    "B": "It takes military actions against aggressors.",
+                    "C": "It recommends the admission of new members.",
+                    "D": "It draws annual budget of the UN.",
+                    "E": "It formulates plans for the establishment of a system to regulate armament."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. Peasant agriculture was cultivation of crops by Africans around their homestead.\n2. ____________________\n3. In East Africa this form of production mainly took place in Uganda.\n4. The peasants produced coffee and cotton then sold it to the colonialist at low price.\n5. In Tanganyika there was a form of peasant agriculture in Buhaya, Kilimanjaro, Tukuyu and Usukuma after 1926.",
+                  "options": {
+                    "A": "In East Africa Lord Delamere started opening plantations in Uganda in 1903.",
+                    "B": "Peasants also grew tea, tobacco, pyrethrum, and rubber using machines and modern ways.",
+                    "C": "It was production of cash crops in big farms.",
+                    "D": "There were larger estates which were created through land alienation.",
+                    "E": "They depended on family labour which used traditional tools like hoes, axes and knives."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Account for the rise and fall of Oyo Empire in the 19th century."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Examine the reasons for the development of the Trans-Saharan Trade and the effects it brought in the Western Sudanic region."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "With examples from East or West Africa, show how company rule helped to create European colonization in Africa."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Briefly analyse the pattern of colonial infrastructure in mainland Tanzania and show how it facilitated exploitation of the country."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Account for the Ethiopia's successful resistance against colonialism."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Explain the strengths and weaknesses of the United Nations Organisation in African major issues."
+        }
+      ]
+    }
+  ]
+}

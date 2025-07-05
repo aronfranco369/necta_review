@@ -1,0 +1,304 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "One of the advantages of the study of history is:",
+              "options": {
+                "A": "to understand why man is a living creature.",
+                "B": "to understand the changes in relations between man and environment.",
+                "C": "to understand the beginning and the end of the world.",
+                "D": "to learn to be tolerant to environmental issues.",
+                "E": "to understand how the environment struggles against man."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "During the 1840s the East African coastal trade was dominated by:",
+              "options": {
+                "A": "Mazrui Arabs",
+                "B": "Oman Arabs",
+                "C": "British traders",
+                "D": "German traders",
+                "E": "Indian traders."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "From 1948, the coordination of all matters of common interest to Tanganyika, Kenya and Uganda were placed under the:",
+              "options": {
+                "A": "East Africa Governors Conference.",
+                "B": "East Africa Coordination Committee.",
+                "C": "East Africa Common Services.",
+                "D": "East Africa High Commission.",
+                "E": "East Africa Common Market."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Asante was one of the Forest states which resisted against the:",
+              "options": {
+                "A": "French",
+                "B": "Germans",
+                "C": "Belgians",
+                "D": "Dutch",
+                "E": "British."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "One of the features of monopoly capitalism was:",
+              "options": {
+                "A": "the emergence of financial capital.",
+                "B": "the emergence of new small capitalists.",
+                "C": "a tremendous decline of commercial activities.",
+                "D": "primitive accumulation of capital.",
+                "E": "export of raw materials."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The Hamerton treaty (1845) was about:",
+              "options": {
+                "A": "allowing Sultan of Zanzibar to buy slaves outside East Africa.",
+                "B": "forbidding Sultan of Zanzibar to export slaves outside East Africa.",
+                "C": "allowing Sultan of Zanzibar to sell slaves in Arabia.",
+                "D": "abolishing slave trade and slavery in all British colonies.",
+                "E": "closing all slave markets along the coast of East Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following is the best method of fossil dating for objects which have stayed for several millions of years?",
+              "options": {
+                "A": "Palaeontology.",
+                "B": "Potassium Organ method.",
+                "C": "Archaeology.",
+                "D": "Carbon 14 Test.",
+                "E": "Calcium carbonate."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The Unilateral Declaration of Independence (UDI) is the term used to denote:",
+              "options": {
+                "A": "independence given illegally by British to settlers in Rhodesia.",
+                "B": "the white settlers in Rhodesia declaring their independence.",
+                "C": "British refusing to give independence to settlers in Rhodesia.",
+                "D": "Settlers in Rhodesia acquiring independence from Britain by force.",
+                "E": "Settlers' rejection in Rhodesia to be given self-rule by the British."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "One of the major problems that hindered the attainment of unity in Uganda immediately after independence was:",
+              "options": {
+                "A": "religious conflicts.",
+                "B": "dictatorship of Idd Amin.",
+                "C": "civil wars.",
+                "D": "racial segregation.",
+                "E": "tribalism."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "In which organ of UNO is the power of Veto effective?",
+              "options": {
+                "A": "International Court of Justice.",
+                "B": "Economic and Social Council.",
+                "C": "Security Council.",
+                "D": "Secretariat.",
+                "E": "General Assembly."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the stems in List A with the correct responses in List B by writing the letter of the response beside the item number.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The famous long distance traders in Southern and Central Africa.",
+                "ii": "The name given to the capital of Kongo Kingdom by the Portuguese.",
+                "iii": "A title of the ruler of Lunda Empire.",
+                "iv": "A founder of Ndebele Empire.",
+                "v": "Resolves international disputes and organizes international conferences.",
+                "vi": "An ideology which emphasized the importance of man as the centre of all government activities.",
+                "vii": "Emphasized cooperation between the colonized and the colonizer.",
+                "viii": "The traditional legislature.",
+                "ix": "Decentralized state in East Africa.",
+                "x": "An example of early iron site in East Africa."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Ujiji",
+                "B": "General Assembly",
+                "C": "Servant and master law",
+                "D": "Direct rule",
+                "E": "Association",
+                "F": "The Venda",
+                "G": "Mzilikazi",
+                "H": "San Salvador",
+                "I": "Kabaka",
+                "J": "Mwata Yamvo",
+                "K": "Security Council",
+                "L": "Humanism",
+                "M": "Buganda",
+                "N": "Nzinga Nkuwu",
+                "O": "Ugweno",
+                "P": "Mbanza",
+                "Q": "The Nyamwezi",
+                "R": "Secretariat",
+                "S": "Lukiko",
+                "T": "Assimilation"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of Africa to show colonial possessions in 1914 and use letters A, B, C, D, and E to locate:\n\n(i) A country which resisted colonial rule successfully in 1896.\n(ii) German East Africa.\n(iii) A Portuguese colony of Angola.\n(iv) A British colony which regained her independence in 1957.\n(v) The biggest Belgian colony in Africa."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five significances of Berlin Conference."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by writing number 1 to 5 beside the item number.\n\n(i) African nationalist politics in South Africa started with the formation of the South Africa Native National Congress (SANNC) in 1912.\n\n(ii) African National Congress (ANC) led by Nelson Mandela established its armed wing known as \"Umkhonto we Sizwe\" (Spear of the Nation) which immediately embarked upon military operations within South Africa.\n\n(iii) In 1949 the Youth League launched its “Programme of Action” which aimed at attainment of freedom from white domination.\n\n(iv) The imposition of capitalist relations of production in South Africa, unlike other parts of the continent, is underlined by racism. This made nationalist struggles in South Africa to be more complicated and long.\n\n(v) In 1964, Nelson Mandela was arrested and sent to jail. Later in 1990 he was released and the majority rule was obtained in 1994."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The items (i-v) consist of four sentences which form a complete historical meaning. One of the sentences (A - E) is incorrect. Identify the incorrect sentence and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. Colonial education aimed at imparting capitalist ideology to the recipients.\n2. Its content was designed to produce the colonial relations of production.\n3. It provided only limited skills and emphasised obedience to the recipients.\n4. ____________________",
+                  "options": {
+                    "A": "It trained sons of chiefs so as to reproduce a royal European leadership.",
+                    "B": "It had series of examinations which were set abroad. Nobody could go to another stage without passing the examination.",
+                    "C": "It was based on racial segregations.",
+                    "D": "It had more males enrolled than females.",
+                    "E": "It aimed at serving the colonial state rather than indigenous people."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. One of the factors for the rise of African Nationalism was that USA reinforced her 'Open Door Policy' and supported decolonization processes in Africa.\n2. Pan-Africanism in its 1945 Manchester Congress also demanded blacks' autonomy.\n3. ____________________\n4. The independence of Asian countries such as India and Pakistan fuelled the process of decolonization in Africa.",
+                  "options": {
+                    "A": "USSR supported decolonization processes in Africa because of ideological reasons.",
+                    "B": "UNO was against decolonization and it strived for equality and human dignity.",
+                    "C": "Some Africans learnt from the World Wars how to participate in struggles.",
+                    "D": "The African elites became politically conscious and formed political parties.",
+                    "E": "Colonial intensive exploitation motivated African hatred and negative attitude against colonialism."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. Colonial economy in East Africa involved three systems of agriculture which were settler, peasant and plantation.\n2. Peasant cash crop system was the backbone of the colonial production in Uganda.\n3. The introduction of peasant economy in uganda was due to the fear of resistance from the peasants.\n4. ____________________",
+                  "options": {
+                    "A": "Some areas were thought unfit for white settlement in Uganda.",
+                    "B": "Governors such as Harry johnson preferred peasant agriculture.",
+                    "C": "Unlike other systems, peasant agriculture was cheap.",
+                    "D": "It was easy to open up larger agricultural farms in Uganda.",
+                    "E": "Kabaka disliked settlers to occupy the peasants' land."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Slave trade in Africa was stimulated by the external economic forces to meet the demands of West European capitalism.\n2. In West and East Africa the activities of capturing and selling slaves involved African chiefs, Arab and Swahili traders.\n3. ____________________\n4. In 19th century, the slave trade was abolished.",
+                  "options": {
+                    "A": "Development of industrial capitalism in Western Europe in the 19th century made slave trade useless.",
+                    "B": "Due to massive shipment of slaves, there was a scarcity of slaves in African continent by the 19th century.",
+                    "C": "Humanitarians argued against slave trade and slavery.",
+                    "D": "Due to American independence in 1776, European merchants could no longer transport slaves to America.",
+                    "E": "French Revolution contributed to its abolition."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. Tanganyika achieved her independence in 1961.\n2. Since independence she has been trying to solve her social, economic and political problems by initiating various policies and strategies.\n3. Establishment of education for Self Reliance was one of the ways of solving her economic problems.\n4. ____________________",
+                  "options": {
+                    "A": "Nationalization of land in 1962 aimed at eliminating feudal systems to enable the majority to access land.",
+                    "B": "Building of infrastructures such as the Tanzania-Zambia railway had the purpose of facilitating smooth transportation in the country.",
+                    "C": "The formation of East Africa Community in 1960s aimed at increasing economic cooperation among East African countries.",
+                    "D": "Adaptation of one Party system in 1990s was a strategy of solving political problems by promoting the national unity within a country.",
+                    "E": "Arusha Declaration in 1967 aimed at building of the socialist nation free from exploitation."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain six prerequisites for state formation in pre-colonial Africa."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Identify six factors which determined the variation of agricultural systems during the colonial period."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Elaborate six consequences of Ngoni migration into East Africa in the 19th century."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Analyse six problems facing African countries that originated from their colonial heritage."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "With concrete examples from various parts of Africa, assess eight factors that determined the forms of decolonization in Africa."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Analyse four causes and four effects of the Second World War on Africa."
+        }
+      ]
+    }
+  ]
+}

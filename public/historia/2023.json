@@ -1,0 +1,251 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 16,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Tanzania is expected to conduct the next general election in 2025. In which millennium will this general election be conducted?",
+              "options": {
+                "A": "20th millennium",
+                "B": "21st millennium",
+                "C": "2nd millennium",
+                "D": "25th millennium",
+                "E": "3rd millennium"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Why did the British introduce indirect rule in their African colonies?",
+              "options": {
+                "A": "To educate Africans about human rights",
+                "B": "To stop the aggressiveness of the Germans",
+                "C": "To reduce administrative costs",
+                "D": "To encourage the Africans to accept the rule of law",
+                "E": "To maximize industrial development in the British colonies"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "In which period was man a scavenger?",
+              "options": {
+                "A": "Late Stone Age",
+                "B": "Early Stone Age",
+                "C": "Middle Stone Age",
+                "D": "New Stone Age",
+                "E": "Iron Age"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which of the following statements best describe Meroe, Engaruka and Ugweno?",
+              "options": {
+                "A": "Centralized states in Africa",
+                "B": "Chiefdoms that resisted the intrusion of colonialism in Africa",
+                "C": "Early salt mining centres in Africa",
+                "D": "Major iron centres in Africa",
+                "E": "Historical sites where the fossils of the ancestors of man have been found"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which one of the following comprises the Bantu communities of East Africa?",
+              "options": {
+                "A": "Kikuyu, Kamba, Somali and Luo'",
+                "B": "Kikuyu, Kamba, Baganda and Nyamwezi",
+                "C": "Baganda, Luo, Kalenjin and Banyoro",
+                "D": "Baganda, Basoga, Banyoro and Luo'",
+                "E": "Nyamwezi, Makonde, Chagga and Maasai"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The following were the weaknesses of one-party system except:",
+              "options": {
+                "A": "It encouraged authoritarianism",
+                "B": "It lacked checks and balances on government",
+                "C": "It discouraged alternative opinions",
+                "D": "It operated without opposition parties",
+                "E": "It promoted national unity by minimizing conflicts"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "What was the responsibility of the young boys among the Maasai who aged between 8 and 18 years old?",
+              "options": {
+                "A": "To travel far with the herd in search of pasture and water",
+                "B": "To raid neighboring herds in order to increase the size of their herds",
+                "C": "To protect livestock against enemies and wild animals",
+                "D": "To settle all disputes emerging in the pastoral society",
+                "E": "To graze and milked cattle"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Which of the following led to the rise of Nazism in Germany?",
+              "options": {
+                "A": "Franco-Prussian war",
+                "B": "Heligoland treaty",
+                "C": "Cold war",
+                "D": "Versailles treaty",
+                "E": "Second World War"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Why did the Portuguese rule in East Africa decline?",
+              "options": {
+                "A": "Attacks from the Zimba warriors",
+                "B": "Scramble and partition of East Africa",
+                "C": "Emergence of the Second World War",
+                "D": "Effects of the Great Economic Depression",
+                "E": "Abolition of slave trade along the coast of East Africa"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which statements are true on the characteristics of communalism?\n(i) Nobody benefited at the expense of the other.\n(ii) There was specialization.\n(iii) The society was highly stratified.\n(iv) Nobody was given special privileges because of their lineage or wealth.",
+              "options": {
+                "A": "(i) and (ii)",
+                "B": "(i) and (iii)",
+                "C": "(i) and (iv)",
+                "D": "(ii) and (iii)",
+                "E": "(iii) and (iv)"
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the historical explanations in List A with the corresponding cities in List B by writing the letter of the correct response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The city that was not captured by the German army due to strong resistance and freezing temperature during the Second World War.",
+                "ii": "The city in which the United States of America destroyed by an atomic bomb during the Second World War.",
+                "iii": "The city that became the headquarters of the United Nations Organization after the Second World War.",
+                "iv": "A military base whose attack forced the United States of America to support Britain and USSR in fighting against the Germans in 1941.",
+                "v": "The town in which the terms to punish Germany for causing the First World War were created.",
+                "vi": "The headquarters of the League of Nations."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "New York",
+                "B": "Geneva",
+                "C": "Washington",
+                "D": "Moscow",
+                "E": "Versailles",
+                "F": "Pearl Harbor",
+                "G": "Nagasaki",
+                "H": "Warsaw",
+                "I": "Paris"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 54,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Briefly, answer the following questions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Why was there a rise of African nationalism after the return of ex-soldiers from the Second World War?"
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "How did the educated Africans facilitate decolonization in Africa?"
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Why did the Union of Soviet Socialist Republic (USSR) support African decolonization after the Second World War? Give two reasons."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Arrange the following statements in a chronological order by writing number 1 to 6 beside the item number in the answer booklet(s) provided.\n\n(i) The outcome of these meetings was the formation of an international organization comprising of independent states from all over the world.\n\n(ii) The organization is made up of the organs like the Security Council whose five permanent members have veto powers.\n\n(iii) A series of meetings were held between the Allied Powers which had defeated fascism in Germany, Italy and Japan.\n\n(iv) Some African countries have also demanded that some African countries also acquire this veto power in order to level the status of the international relations.\n\n(v) The weaknesses of the League of Nations facilitated the outbreak of the Second World War.\n\n(vi) The outbreak of the Second World War convinced the world that an organization stronger than the League of Nations was needed."
+        },
+        {
+          "question_number": 5,
+          "question_type": "explanatory",
+          "question_text": "Draw a sketch map of Africa and locate the following by using roman numbers:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "An East African country that specialized in sisal production during the colonial period."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "A British colony that specialized in copper production during colonial economy."
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "A Sultan's spheres of influence that specialized in cloves."
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "A British colony whose eastern region was curved out to become the west highlands of Kenya."
+            }
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Briefly, explain three impacts of the civil wars that have been taking place in Somalia and the Democratic Republic of Congo."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "In three points, briefly distinguish passive resistance from active resistance."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Briefly, explain three objectives of establishing colonial economy in Africa."
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 30,
+      "instructions": "Answer two (2) questions from this section.",
+      "questions": [
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Why the Portuguese delayed the independence of their African colonies? Explain by giving six points."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Analyse six factors for military coups in the early independent African countries."
+        },
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "Analyze six challenges which face the African Union."
+        }
+      ]
+    }
+  ]
+}

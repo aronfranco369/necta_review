@@ -1,0 +1,299 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The following statement does not give the definition of history:",
+              "options": {
+                "A": "A record of past human activities.",
+                "B": "A record of human mastery of environment through technology.",
+                "C": "A record of relationships which man developed in social and political organizations against systems of exploitation in the course of struggle for living.",
+                "D": "A record of past events in relation to present and future.",
+                "E": "A record of great and influential people in a given society who engineered the development of nationalism and political awareness."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following shows stages of man's evolution in the correct order?",
+              "options": {
+                "A": "Homosapiens, Homohabilis, Homoerectus.",
+                "B": "Homobahilis, Homoerectus, Homosapiens.",
+                "C": "Homoerectus, Homosapiens, Homohabilis.",
+                "D": "Homohabilis, Homosapiens, Homoerectus.",
+                "E": "Homosapiens, Homoerectus, Homohabilis."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "One of the following is not true about the Kongo state.",
+              "options": {
+                "A": "The Kongo state was a product of Iron Age and the revolution in agriculture.",
+                "B": "The kingdom disintegrated once the Mani Kongo lost control over the Nzimbu trade.",
+                "C": "The arrival of the Portuguese contributed greatly to the prosperity of Kongo.",
+                "D": "Kongo had no standing army, instead they had a strong belief in spiritual and magical power of the Mani Kongo.",
+                "E": "The state was very famous in Central Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "To what extent did the introduction of clove plantations in Zanzibar by the Oman Sultanate bring greater impact to the local masses?",
+              "options": {
+                "A": "Africans lost business.",
+                "B": "There was enmity between Africans and Arabs.",
+                "C": "Coconut production was adversely affected.",
+                "D": "Africans were turned into serfs and tenants.",
+                "E": "Arabs and Indians lost business."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Why did the Khoikhoi resist the settlement of the Dutch at the Cape right from 1652?",
+              "options": {
+                "A": "Dutch killed the Khoikhoi in the process of capturing slaves.",
+                "B": "Khoikhoi hated the white people.",
+                "C": "Khoikhoi got military support from the british soldiers.",
+                "D": "Dutch alienated land and turned the Khoikhoi into squatters and slaves.",
+                "E": "Khoikhoi obtained military support from Shaka."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Which of these is not a problem facing the United Nations Organisation?",
+              "options": {
+                "A": "Apartheid in South Africa.",
+                "B": "Difference between East and West.",
+                "C": "The Veto Nations putting their interest first.",
+                "D": "The economic division of the world into two the North and the South.",
+                "E": "Civil wars."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following was true on French policy of administration in Africa?",
+              "options": {
+                "A": "African colonies were to be independent.",
+                "B": "African colonies were to remain with their local ruling institution and African culture had to be valued.",
+                "C": "There were to be separate administrative laws for the African and Europeans.",
+                "D": "The administration of communes was to be under African whose loyalty was to France.",
+                "E": "African colonies were regarded as an overseas commune of France."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The principle of effective occupation that was established during imperialist Berlin conference was intended to",
+              "options": {
+                "A": "put a stop to a process of scramble for colonies in Africa.",
+                "B": "ensure that claims of colonial occupation by colonizing powers were backed by concrete steps.",
+                "C": "enable the drawing of boundaries for the colonies to minimize conflicts among the powers.",
+                "D": "ensure peaceful settlement of the rivalries among the imperialist powers.",
+                "E": "ensure that all capitalist countries had equal number of colonies."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The use of ideology as an instrument to mobilise the oppressed economically is evident in one of the following historical events in Africa.",
+              "options": {
+                "A": "The Great Boer Trek.",
+                "B": "The Maji Maji war of 1905 - 1907.",
+                "C": "The Dar es Salaam Dock workers strike of 1948.",
+                "D": "The fall of Bisandungu in Mandinka Empire in the 19th century.",
+                "E": "Mkwawa war against the Bena and Sangu."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the following organs does not belong to the East African Community.",
+              "options": {
+                "A": "East African Development",
+                "B": "East African Court of Justice.",
+                "C": "International Court of Tribunal for Rwanda.",
+                "D": "East African Parliament.",
+                "E": "Defence and security of East Africa."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "The time chart below shows dates in Column I and events in Column II. Match the dates in Column I with the events in Column II by writing the letter of the correct event beside the item number.",
+          "columns": [
+            {
+              "column_name": "Column I",
+              "column_items": {
+                "i": "1975",
+                "ii": "1822",
+                "iii": "1830 - 1850",
+                "iv": "1845",
+                "v": "1888",
+                "vi": "1897",
+                "vii": "1898",
+                "viii": "1899",
+                "ix": "1910",
+                "x": "1922"
+              }
+            },
+            {
+              "column_name": "Column II",
+              "column_items": {
+                "A": "Mfecane Wars.",
+                "B": "Anglo-Boer War.",
+                "C": "T.T.A.C.S.A. was formed.",
+                "D": "Boer Trek.",
+                "E": "Charles Rudd Concession.",
+                "F": "Moffat-Lobengula Treaty.",
+                "G": "Royal Niger Company conqured Northern Nigeria.",
+                "H": "British arrival at the Cape.",
+                "I": "Chimurenga war.",
+                "J": "Union Act in South Africa.",
+                "K": "Death of Mtwa Mkwawa, the Hehe chief.",
+                "L": "Death of Zwangendaba in Ufipa.",
+                "M": "Zanzibar slave market was closed.",
+                "N": "Outbreak of Mau Mau War.",
+                "O": "Death of David Livingstone.",
+                "P": "Establishment of Oman Sultanate in East Africa.",
+                "Q": "The Berlin Conference.",
+                "R": "The League of Nations was formed.",
+                "S": "Beginning of Apartheid system in South Africa.",
+                "T": "Beginning of British rule in Zanzibar."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of Interlacustrine region and locate the following Kingdoms: Busoga, Bunyoro, Buzinza, Buhaya and Karagwe."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Name forms of feudal system found in East Africa before the onset of colonialism."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "In each item (i-v) there are four sentences which form a complete historical meaning. One of the sentence is missing. Identify the missing sentence from the sentences given below each item and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. History is a record of human activities.\n2. These activities enable man to obtain his needs from nature.\n3. Man's basic needs consist of food, clothing and shelter.\n4. ____________________",
+                  "options": {
+                    "A": "Hence the actions man takes upon nature have one major role to change natural objects into condition where they can satisfy human needs.",
+                    "B": "Man found that there was no need to struggle against nature.",
+                    "C": "Nature was so accommodative to human being.",
+                    "D": "Development could only be brought if man preserved nature."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. In East Africa the forms of state organisation varied from one place to another.\n2. In the Interlacustrine area there was the establishment of Kingdoms under the Mwami in Ruanda, Burundi and Buha.\n3. In Kagera region and Ankole the supreme political authority was the Omukama who was known as the “Kabaka\" in Buganda.\n4. ____________________",
+                  "options": {
+                    "A": "In zanzibar the state was established by the Portuguese traders.",
+                    "B": "In central Tanzania, the village rulers became known as the Mtemi.",
+                    "C": "Along the coastal society of East Africa the ruler became known as Jumbe and Akida.",
+                    "D": "In southern part of Tanganyika the ruler was originated from among agriculturist society and became known as Mtwa."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. The prosperity and growth of some East African Coastal city States depended on the trade from the Great Zimbabwe.\n2. The Swahili and Arab traders in these City states bought gold from Zimbabwe and exported it to Asia with Sofala in Mozambique serving as a transit port.\n3. The traders thus accumulated a lot of wealth.\n4. ____________________",
+                  "options": {
+                    "A": "Wealth enabled the traders to build modern houses.",
+                    "B": "Wealth made Kilwa city to become prosperous.",
+                    "C": "Wealth enabled the Arabs to shift their trading activities from Oman to Sofala.",
+                    "D": "Wealth enabled people from China, Portugal, Spain and Indonesia to arrive in East Africa and establish their military base."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. West African societies came into contact with European merchants during the early phase of development of capitalism.\n2. This early phase of capitalism was called the phase of primitive accumulation of capital.\n3. In Europe it was known as the age of discovery and overseas expansion.\n4. ____________________",
+                  "options": {
+                    "A": "The motives which propelled European merchants and soldiers across the Atlantic were to stop slave trade.",
+                    "B": "West African societies benefited much from these early contacts.",
+                    "C": "It was this contact which brought about the Trans Atlantic economic system based on slave trade.",
+                    "D": "The Red Indians for the first time came to trade in West Africa."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. Nationalism in East Africa emerged from the contradictions of colonial production.\n2. The colonial production placed people of different ethnic origins under the same oppressive conditions.\n3. ____________________\n4. The soldiers returning from the first and second world wars provided a major impetus to nationalist struggle for independence.",
+                  "options": {
+                    "A": "The colonialist exploited the African resources in order to improve infrastructure in their colonies.",
+                    "B": "The colonial subjects developed common interest and identity which culminated in the formation of national wide political movement.",
+                    "C": "The colonial subjects collaborated with their colonial masters in order to acquire manufactured goods, guns and security.",
+                    "D": "The nationalistic African leader managed to organize struggle against colonial rule by using ex - soldiers of Second World War."
+                  }
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Arrange the following historical facts about the history of Namibia in a chronological order by using number 1 to 5 to write beside the item number.\n\n(i) The Germans declared a protectorate over the area in 1885 following the Berlin Conference of 1884 - 1885.\n\n(ii) In their wake, came fortune seekers, traders, prospectors, settlers and later administrators.\n\n(iii) By 1900 German traders, settlers and companies had seized by trickery and force almost all agricultural land and cattle.\n\n(iv) The first group of Europeans to visit Namibia were missionaries in the 19th century.\n\n(v) This was followed by systematic looting of the Africans' wealth."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "The downfall of Fort Jesus in Mombasa in 1698 marked the end of the Portuguese rule in East Africa. Show the main factors which led to the end of the Portuguese rule in East Africa."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Discuss the impact of the external contact on East African societies before the advent of colonialism."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Examine the effects of great depression (1929-1933) on Africa."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "How effective was the building of the Uganda railway in the colonization of both Uganda and Kenya by the British?"
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Describe the Africans grievances in South Africa against whites rule up to 1990."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Why is the year 1945 regarded as an important turning point of African nationalism?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which of the following are included in the museums?",
+              "options": {
+                "A": "Cultural, social and economic items from the earliest time to the present.",
+                "B": "Remains which show man's past made and used tools.",
+                "C": "Cultural practices such as art, music religion and riddles.",
+                "D": "Colonial records and early traveller's records.",
+                "E": "Special names of generations, clan trees and tribal chronology."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The coastal city states which grew from the trade contacts between East Africa and Asia were",
+              "options": {
+                "A": "Mwanza, Tanga and Dar es Salaam",
+                "B": "Malindi, Kilwa and Mombasa",
+                "C": "Nairobi, Kampala and Dar es Salaam",
+                "D": "Lamu, Bagamoyo and Mbeya",
+                "E": "Mombasa, Zanzibar and Kigoma."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The type of colonial agriculture which predominated in Kenya was",
+              "options": {
+                "A": "plantation",
+                "B": "peasant",
+                "C": "co-operative",
+                "D": "settler",
+                "E": "pastoralism."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The primitive communal societies were characterized by the following features except",
+              "options": {
+                "A": "hunting and gathering",
+                "B": "low production",
+                "C": "exploitation of man by man",
+                "D": "low level of technology",
+                "E": "dependence on nature."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which of the following did not result from the contacts between East Africans and the people from the Middle and Far East?",
+              "options": {
+                "A": "Construction of Fort Jesus.",
+                "B": "Introduction of Islam.",
+                "C": "Emergence of slave trade",
+                "D": "Intermarriage.",
+                "E": "Growth of coastal towns."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Who convened the conference which legalized the colonization of Africa?",
+              "options": {
+                "A": "David Livingstone.",
+                "B": "Carl Peters.",
+                "C": "Otto Von Bismarck.",
+                "D": "Charles Darwin.",
+                "E": "Adolf Hitler."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The period which was characterized by intense competition and warfare among the European states during the 17th century is called",
+              "options": {
+                "A": "capitalism",
+                "B": "mercantilism",
+                "C": "feudalism",
+                "D": "industrial revolution",
+                "E": "scramble."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "When did most parts of East Africa adopt iron technology?",
+              "options": {
+                "A": "1st millennium AD.",
+                "B": "1st millennium BC.",
+                "C": "3rd millennium AD.",
+                "D": "2nd millenium AD.",
+                "E": "2nd millennium BC."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The increase of the European merchants in the interior of Africa after the abolition of slave trade aimed at",
+              "options": {
+                "A": "intensifying slavery and slave trade",
+                "B": "establishing heavy industries",
+                "C": "searching for the sea route to India",
+                "D": "establishing legitimate trade",
+                "E": "assisting the Africans economically."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Industrial development in Africa was not prioritized by the capitalists during the colonial time because",
+              "options": {
+                "A": "the colonialists were interested in obtaining raw materials",
+                "B": "the colonialists stressed on the provision of social services",
+                "C": "the climate did not favour industrial development",
+                "D": "Africa had no enough raw materials",
+                "E": "Africa had no infrastructure to support the industries."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the corresponding response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "A treaty signed in France which aimed at avoiding the occurrence of other wars in future.",
+                "ii": "A treaty that enabled the British to control Zanzibar, Pemba, Kenya and Uganda as her areas of influence.",
+                "iii": "A colonial system of administration that was introduced in Tanganyika by Governor Donald Cameron between 1925 and 1931.",
+                "iv": "A treaty that confined the Sultan's possession to the Islands of Zanzibar, Pemba, Mafia and the coastal towns of Kismayu.",
+                "v": "A treaty that illegalized slave trade in East Africa in 1873.",
+                "vi": "An agreement made between Carl Peters and Sultan Mangungo of Msowero.",
+                "vii": "The first treaty that was signed in 1822 to illegalize slave trade in East Africa.",
+                "viii": "The first treaty that was signed in 1822 to illegalize slave trade in East Africa.",
+                "ix": "A declaration that intended to transform Uganda into a socialist state.",
+                "x": "An economic strategy for Tanzania which stated that all major means of production and exchange should be controlled by the peasants through the government."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Indirect rule",
+                "B": "Direct rule",
+                "C": "Common Man's Charter",
+                "D": "Buganda Agreement",
+                "E": "Versailles Treaty",
+                "F": "The Toro agreement",
+                "G": "Hamerton Treaty",
+                "H": "Frere Treaty",
+                "I": "The Ankole Agreement",
+                "J": "Arusha Declaration",
+                "K": "Delimitatiom Treaty",
+                "L": "Crown Land Ordinance",
+                "M": "Moresby treaty",
+                "N": "Franco-Russian Alliance",
+                "O": "Bogus Treaty",
+                "P": "The Treaty of April 1897",
+                "Q": "Multi-party system",
+                "R": "Communalism",
+                "S": "Warsaw Pact",
+                "T": "Heligoland Treaty"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of Africa and locate by using roman numbers:",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "A country whose independence sharpened the continent-wide struggle for independence."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "A country in which Biafra war occurred."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "A Portuguese colony which attained her independence under the leadership of Augostino Neto."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "A country in which the Organization of African Unity was formed."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The canal built by the colonists to facilitate voyages to and from India and the Middle East."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five tactics used to establish the colonial economy in Africa."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by writing number 1 to 5 beside the item number.\n\n(i) The scramble for colonies reached serious proportions by 1884.\n\n(ii) The Conference was held in Berlin from 1884 to 1885\n\n(iii) In order to avert war, the German Chancellor called an international conference.\n\n(iv) There were signs that if this scramble was not regulated, war would erupt among the European powers.\n\n(v) The Conference was attended by Belgium, Britain, France, Portugal, Spain, Italy, Germany, Denmark and the United States of America."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The items (i-v) consist of four sentences which form a complete historical meaning. One of the sentences (A - E) is missing. Identify the missing sentence and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. National armed forces are established because of some objectives.\n2. They protect the country from external aggression.\n3. They promote internal security and integrity.\n4. ____________________",
+                  "options": {
+                    "A": "They are characterised by jailing the thieves.",
+                    "B": "They participate in the League of Nations.",
+                    "C": "They are members of the Security Council.",
+                    "D": "They heavily depended on prisoner's labor.",
+                    "E": "They provide assistance during national emergencies."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. The survival of the colonial system despite the formal attainment of political independence is called neo-colonialism.\n2. African countries became victims of this system through political, economic and technical means.\n3. ____________________\n4. Developing countries are conditioned to depend on the developed countries politically, socially and economically.",
+                  "options": {
+                    "A": "The system works through agents of colonialism.",
+                    "B": "This system works through African Unity.",
+                    "C": "This system works through the World Bank.",
+                    "D": "This system works through equal exchange.",
+                    "E": "This system works through scramble for colonies."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. Political instability has also weakened the attempts of many countries to attain political unity.\n2. Civil wars in Africa have contributed to the backwardness of the continent.\n3. Civil wars have been experienced in Rwanda, Burundi, Sudan and Somalia.\n4. ____________________",
+                  "options": {
+                    "A": "Its consequences include lack of economic progress and loss of life.",
+                    "B": "Its consequences include loss of property and slave labour.",
+                    "C": "Its consequences include destruction of property and the power of Veto.",
+                    "D": "Its consequences include indirect rule and loss of life.",
+                    "E": "Its consequences include mass nationalism and nationalist struggles."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Colonial oppression was extended in political, economic and social spheres.\n2. Politically, the Africans in Africa had no democracy.\n3. They did not have representation in the legislative council.\n4. ____________________",
+                  "options": {
+                    "A": "They did not have the right to vote.",
+                    "B": "They lacked membership in the Security Council.",
+                    "C": "They demanded Africans to be Kings in Europe.",
+                    "D": "They replaced colonialism with neo-colonialism.",
+                    "E": "They initiated an Open Door Policy in Africa."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. The Portuguese were reluctant to grant independence since Mozambique was a settler colony.\n2. The Portuguese never believed that Africans could be stronger than them.\n3. The Portuguese government banned all political parties in the colony.\n4. ____________________",
+                  "options": {
+                    "A": "The Portuguese were ready for peaceful transformation of power.",
+                    "B": "Mozambique was not regarded as part and parcel of Portugal.",
+                    "C": "Portugal was one among the richest countries in Europe.",
+                    "D": "Colonies were regarded as overseas provinces of Portugal.",
+                    "E": "The colony was not very important to Portugal's economy."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain six significance of studying History."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Access six contributions made by discovery of fire to the development of human being."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Critically examine six effects of the legitimate trade in West Africa."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "\"Colonial health system was discriminative.\" Substantiate this statement by giving six points."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Why some Africans collaborated with Europeans during colonial invasion? (Give six points)."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Explain six advantages of the discovery of iron to African societies."
+        }
+      ]
+    }
+  ]
+}

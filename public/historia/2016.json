@@ -1,0 +1,326 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "One of the factors for the fall of Songhai empire was",
+              "options": {
+                "A": "invasion from the Moroccans",
+                "B": "attacks from the Tuaregs",
+                "C": "attacks from the almoravids",
+                "D": "establishment of colonialism",
+                "E": "introduction of legitimate trade."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "What was the major cause of the Great Depression?",
+              "options": {
+                "A": "Second World War.",
+                "B": "First World War.",
+                "C": "Berlin Conference",
+                "D": "Boer Trek.",
+                "E": "Anglo-Boer war."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The first European nation to industrialize was",
+              "options": {
+                "A": "Germany",
+                "B": "Britain",
+                "C": "France",
+                "D": "Belgium",
+                "E": "Holland."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The theory of evolution was proposed by",
+              "options": {
+                "A": "Louis Leakey",
+                "B": "Carl Peters",
+                "C": "Charles Darwin",
+                "D": "Henry Stanley",
+                "E": "Donald Cameron."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Three pre-colonial modes of production which existed in Africa were",
+              "options": {
+                "A": "Socialism, capitalism and communism",
+                "B": "Socialism, capitalism and communalism",
+                "C": "Slavery, feudalism and communalism",
+                "D": "Slavery, feudalism and communism",
+                "E": "Socialism, capitalism and humanism."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The core ideas of the French Revolution were",
+              "options": {
+                "A": "slave trade, colonialism and neo-colonialism",
+                "B": "markets, raw materials and cheap labour",
+                "C": "communalism, slavery and feudalism",
+                "D": "fraternity, liberty and equality",
+                "E": "scramble, partition and bogus treaties."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The people whose work is to study and explain remains which show man's physical development and the tools he made and used are called",
+              "options": {
+                "A": "Iron Smiths",
+                "B": "Industrialists",
+                "C": "Revolutionists",
+                "D": "Evolutionists",
+                "E": "Archaeologists."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Which among the following include the three organs of the United Nations Organization?",
+              "options": {
+                "A": "The General Assembly, Secretariat and the World Bank.",
+                "B": "The Secretariat, Security Council and General Assembly.",
+                "C": "The World Bank, League of Nations and Security Council.",
+                "D": "The International Court of Justice, World Bank and Secretariat.",
+                "E": "The Security Council, UNESCO and International Court of Justice."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The economic system of goods and services which comprised activities such as trade, manufacturing, agriculture and mining during the colonial era is called",
+              "options": {
+                "A": "Neo-colonialism",
+                "B": "Trusteeship",
+                "C": "Nationalism",
+                "D": "Bureaucracy",
+                "E": "Colonial economy."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Who discovered the skull of the earliest ancestors of man in Olduvai Gorge?",
+              "options": {
+                "A": "David Livingstone.",
+                "B": "Charles Darwin.",
+                "C": "Carl Peters.",
+                "D": "Vasco Da Gama.",
+                "E": "Louis Leakey."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the stems in List A with the correct responses in List B by writing the letter of the correct response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "A person who stated that man developed from an ape-like creature.",
+                "ii": "A person who created the kingdom of Mwenemutapa.",
+                "iii": "A person who played a vital role in the mass killing of Jews in Europe.",
+                "iv": "A person who established a fascist ideology in Italy.",
+                "v": "A person who formed the Royal Niger Company which operated in West Africa.",
+                "vi": "A person whose leadership paved the way for the independence of Zambia.",
+                "vii": "A person who overthrew Milton Obote and led Uganda with an iron hand.",
+                "viii": "A person who initiated an indirect rule system in Nigeria.",
+                "ix": "A person who heads the Secretariat of the United Nations Organization.",
+                "x": "A person who spent several months or a number of years away from their families in the reserves."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Adolf Hitler",
+                "B": "Fredrick Lugard",
+                "C": "Charles Darwin",
+                "D": "Mungo Park",
+                "E": "Idd Amin Dada",
+                "F": "Louis Leakey",
+                "G": "Yoweri Museveni",
+                "H": "Mutota",
+                "I": "King Leopold",
+                "J": "Lobengula",
+                "K": "Benito Mussolini",
+                "L": "Cecil Rhodes",
+                "M": "Keneth Kaunda",
+                "N": "David Livingstone",
+                "O": "George Goldie",
+                "P": "Robert Mugabe",
+                "Q": "Nelson Mandela",
+                "R": "Fredrick Chiluba",
+                "S": "Migrant Labourer",
+                "T": "Secretary-General"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of the new East Africa Community and locate by using roman numbers;",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The member state in which an identity card (Kipande) was given to the labourer during colonial economy era."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The headquarters of the committee which was responsible for coordinating the activities of national liberation movements for eradicating colonialism in Africa."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "The country in which the 1994 genocide took place."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The country whose Common Man's Charter intended to transform it into a socialist state."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The Trusteeship colony under the British from 1945 to 1961."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five objectives of colonial education in Africa."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by writing number 1 to 5 beside the item number in your answer booklet.\n\n(i) Before 1800 AD, Africa and its interior were not known to the outside world.\n\n(ii) Europeans took interest in Africa's strategic areas with fertile land, minerals and navigable rivers.\n\n(iii) The interior of Africa was exposed to the European world after the work of agents of colonialism.\n\n(iv) By 1880s, many European nations rushed and grabbed parts of the African continent claiming they were their areas of influence.\n\n(v) Reports of the existence of snow-capped mountains in the interior of Africa attracted great interest in the continent."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The items (i-v) consist of four sentences which form a complete historical meaning. One of the sentences (A - E) is missing. Identify the missing sentence and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. The important items from West Africa to North Africa were gold and ivory.\n2. West Africa obtained salt, dates and horses from North Africa.\n3. ____________________\n4. It expanded after the introduction of camel during the 9th century.",
+                  "options": {
+                    "A": "This trade took place through the Atlantic Ocean.",
+                    "B": "This trade took place across the Sahara desert.",
+                    "C": "This trade took place across the Indian Ocean.",
+                    "D": "This trade took place after the partition of Africa.",
+                    "E": "This trade took place after the decolonization of Africa."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. After the Second World War the United States of America advocated for decolonization.\n2. ____________________\n3. The United States of America wanted the colonizing powers to give independence to their colonies.\n4. She wanted to have a freer hand in the exploitation of the ex-colonies.",
+                  "options": {
+                    "A": "This was known as the Open Door Policy.",
+                    "B": "This was known as the Veto Policy.",
+                    "C": "This was known as the Indirect rule policy.",
+                    "D": "This was known as the Assimilation Policy.",
+                    "E": "This was known as the Direct rule Policy."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. In the course of time the White settlers established themselves as stock farmers.\n2. They farmed and at the same time kept cattle.\n3. Eventually they were referred to as Boers or Afrikaners.\n4. ____________________",
+                  "options": {
+                    "A": "The language that evolved among them was Khoikhoi.",
+                    "B": "Their language was known as Xhosa.",
+                    "C": "They used to speak Spanish and Portuguese languages.",
+                    "D": "They adopted different Bantu languages.",
+                    "E": "The language that evolved among them was Afrikaans."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Creation of a one party system, did not transfer power to the people.\n2. In pursuit of that goal TANU adopted the Arusha Declaration.\n3. Following the Arusha Declaration more pronouncements were made in mainland Tanzania.\n4. ____________________",
+                  "options": {
+                    "A": "These included Education for Self-Reliance and Socialism.",
+                    "B": "These included Common Man's Charter and Capitalism.",
+                    "C": "These included multi-party system and decolonization.",
+                    "D": "These included nationalism and democratic election.",
+                    "E": "These included Arusha Declaration and globalization."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. During the British period, hospitals were concentrated in areas with dense labour forces.\n2. These included the urban centres, settler and company plantations.\n3. ____________________\n4. The same could be said for the health services offered along the major routes of migrant labourers.",
+                  "options": {
+                    "A": "They aimed at improving the standard of living of the Africans.",
+                    "B": "They aimed at keeping the colonial labourers fit for production.",
+                    "C": "They aimed at making the Europeans inferior to the Africans.",
+                    "D": "The Africans wanted to justify the importance of their medicine.",
+                    "E": "The British wanted to prevent the Germans from getting treatment."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain six social factors for early interactions in Africa."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "“Missionaries prepared Africa for European colonization.” Discuss."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Explain six differences between Direct and Indirect rule."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Why Mozambique attained her independence through armed struggle? (Give six points)."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Examine six problems encountered by the Africans during mass nationalism in Africa."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Discuss the impact of the Dutch settlement at the Cape by giving six points."
+        }
+      ]
+    }
+  ]
+}

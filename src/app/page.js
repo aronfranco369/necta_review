@@ -1,4 +1,5 @@
 // import VideoPlayerUI from "./VideoPlayerUI";
+import CivicsTextbookReader from "./BookReader";
 import ExamViewerPage from "./ExamViewer";
 
 export default function Home() {
@@ -9,7 +10,8 @@ export default function Home() {
 
   return (
     <div>
-      <ExamViewerPage />
+      <CivicsTextbookReader />
+      {/* <ExamViewerPage /> */}
     </div>
   );
 }

@@ -1,0 +1,339 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The following are limitations of archaeology as a source of historical knowledge except one",
+              "options": {
+                "A": "time factor is very relative",
+                "B": "humid climate cause decay of artefacts",
+                "C": "it is more employed in Engaruka Valley than Egypt",
+                "D": "difficulty to know the culture, language and beliefs of the artefacts",
+                "E": "it takes time and it is very expensive."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Trading caravans going into the interior of East Africa in the 19th century carried the Red flag because",
+              "options": {
+                "A": "they were travelling along dangerous trade routes",
+                "B": "they needed the protection of the Sultan of Zanzibar",
+                "C": "they were afraid of the British who were trying to stop slave trade",
+                "D": "slaves suffered during their journey from the interior to the coast",
+                "E": "they were carrying slaves as the main trade article."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "In most parts of pre-colonial Africa, the ruling classes appropriated surpluses through",
+              "options": {
+                "A": "wars of conquest",
+                "B": "looting and plundering",
+                "C": "tribute and labour services",
+                "D": "taxation",
+                "E": "agriculture and domestication of animals."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Dr. Robert Moffat worked as a missionary in one of the following stations",
+              "options": {
+                "A": "Salisbury",
+                "B": "Kuruman",
+                "C": "Blantyre",
+                "D": "Maposeni",
+                "E": "Rabai."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In which of the following countries was colonization accompanied by mass European settlement?",
+              "options": {
+                "A": "Algeria",
+                "B": "Nigeria",
+                "C": "Gabon",
+                "D": "Mauritania",
+                "E": "Sierra leone."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Which of the following cash crops were the most important in the early German colonial rule in Mainland Tanzania?",
+              "options": {
+                "A": "Rubber, cotton and cloves",
+                "B": "Coffee, wheat and sugar cane",
+                "C": "Rubber, coffee and sugar cane",
+                "D": "Wheat, sisal and maize",
+                "E": "Rubber, cotton and sisal."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The British took over Tanganyika after 1918 because",
+              "options": {
+                "A": "it was the end of the First World War",
+                "B": "they were asked by the League of Nations",
+                "C": "they defeated the Germans",
+                "D": "they wanted to merge Kenya, Uganda and Tanganyika",
+                "E": "the Germans were not able to reparate the war."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The event which marked the end of peaceful protests by African nationalists in South Africa was the",
+              "options": {
+                "A": "Rivonial trial",
+                "B": "Soweto massacre",
+                "C": "institution of the apartheid policy",
+                "D": "formation of the Unkhonto we Sizwe",
+                "E": "Sharpeville massacre."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "A political and economic programme which aims at promoting democracy, stability good governance and economic development in Africa is known as",
+              "options": {
+                "A": "Pan Africanism",
+                "B": "NEPAD",
+                "C": "African Nationalism",
+                "D": "African Initiative",
+                "E": "Global Vision 2025."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "The first president who was assassinated in post-colonial Africa was",
+              "options": {
+                "A": "Patrice Lumumba of Congo-Kinshasa",
+                "B": "Sylvanus Olympio of Togo",
+                "C": "Anwar Sadat of Egypt",
+                "D": "Abeid Aman Karume of Zanzibar",
+                "E": "Samora Machel of Mozambique."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the correct response beside the item number.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "Kayamaghan",
+                "ii": "Assegai",
+                "iii": "Voortekker",
+                "iv": "Lukiko",
+                "v": "Vasco Da Gama"
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Sailed from Portugal to the Cape, on to Malindi in East Africa and to Calcutta in India, a centre of the spice trade.",
+                "B": "Capital of Ghana Empire.",
+                "C": "Cow horn military technique introduced by the Ngoni in East Africa.",
+                "D": "Prime Minister of Buganda.",
+                "E": "Title given to the King of Ghana meaning “Master of gold\".",
+                "F": "Afrikaner's movement from Vaal river to Pretoria.",
+                "G": "The Kabaka's council and court of appeal in Buganda Kingdom.",
+                "H": "Ngoni short stabing spears adopted by East African Societies.",
+                "I": "The Boer's exodus from the Cape.",
+                "J": "Rounded the Cape of Good Hope and entered the Indian Ocean in 1487."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "The time chart below shows dates in Column I and the events in Column II. Match the dates in column I with the corresponding events by writing the letter of the event beside the number of the date in your answer booklet.\n\nArrange the following statements in a chronological order.\n\n(i) There the Boers established the Republic of South Africa and Orange Free State.\n(ii) Boers developed anti-British sentiments.\n(iii) South Africa was firstly inhabited by Boers in 1652 under Jan Van Riebeck.\n(iv) The Boers came into clash with the British government in 1795.\n(v) The Boers moved northwards",
+          "visual_elements": [
+            {
+              "element_type": "image",
+              "alt_text": "Time chart with dates in Column I and historical events in Column II for a matching exercise.",
+              "image_url": "URL_TO_BE_ADDED"
+            }
+          ],
+          "sub_questions": []
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "The Time Chart below shows centuries AD the 11th to the 21. It also shows the period of historical events in East Africa represented in blocks labelled A-K. Below the chart is a list of those events numbered (i)-(xv). Choose the event from the list provided and match it with the corresponding period by writing the number of the event beside the letter of the period.\nFor example: K - (ii)\n\n(i) Early spread of Islam and the rise of coastal city states.\n(ii) The outbreak of the Majimaji War in Umatumbi.\n(iii) Societies in many parts of Tanzania mainland had political organization bigger than clans.\n(iv) The Chwezi Empire was founded.\n(v) The period of the Second World War.\n(vi) Collapse of the socialist bloc and its consequent introduction of liberalization policies in East Africa.\n(vii) British colonial rule.\n(viii) Period of Oman Arab Slave trade which led to destruction of properties, depopulation and state of fear to Africans.\n(ix) East Africa eventually came under alien colonial rule.\n(x) The Portuguese were eventually driven out of East Africa north of the Ruvuma coast.\n(xi) The period of German colonial rule.\n(xii) Triumph of mass nationalism in East Africa.\n(xiii) Destruction of many coastal city states and the decline of Swahili civilization and coastal trade.\n(xiv) Ngoni migration into East Africa.\n(xv) The period of the Great Depression.\n(xvi) Introduction of Structural Adjustment Programmes in Tanzania.\n(xvii) Death of Mzilikazi, king of the Ndebele.\n(xviii) Peak of British Industrial Revolution.\n(xix) Luba-Lunda kingdom was founded.\n(xx) German East Africa became Tanganyika."
+        },
+        {
+          "question_number": 5,
+          "question_type": "explanatory",
+          "question_text": "Each of the following paragraphs is supposed to have four (4) sentences which form a complete historical meaning. One sentence is missing. Identify the missing sentence from the sentences below each paragraph labelled A to D. Write the letter of the missing sentence in the answer booklet beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "1. Naturally, near to each great slave-raiding tribe was another group that suffered.\n2. The raids of the Mande and Fulani meant that the Kissi tribe was hard hit.\n3. On the Gold Coast (Ghana) the Akan speakers made life so difficult for the Ga people that until today they still remember the Atlantic slave trade.\n4. ____________________\n5. The raiding tribes however, ripped good profit out of this trade.",
+              "options": {
+                "A": "The Northern Mbundu people of Zimbabwe were wiped out of the attacks of Ndebele and Portuguese armies.",
+                "B": "The Southern Mbundu people of Guinea were wiped out by Mande and British armies.",
+                "C": "The Northern Mbundu people of Angola were nearly wiped out by the attacks of the African neighbours and by Portugues armies.",
+                "D": "The Northern Mbundu people of Northern Rhodesia were wiped out by slave traders from East Africa.",
+                "E": "The Northern Mbundu people of Southern Rhodesia were wiped out by the Yao and Ngoni armies."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "1. The first major area of contact between East Africa and the capitalist world was trade.\n2. East Africa was integrated into the system of international trade through the operation of merchants capital.\n3. ____________________\n4. Before the 1850's the major commodities sought from East Africa were slaves and ivory.\n5. In 1873, Zanzibar slave market was closed and so was slave trade.",
+              "options": {
+                "A": "The major agents were Arab and African businessmen.",
+                "B": "The major agents were people from Zanzibar.",
+                "C": "The major agents were African and Shiraz merchants.",
+                "D": "The major agents were Arab and Indian merchants.",
+                "E": "The major agents were Asian traders."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "1. Oyo came into rise in the 14th century under the outstanding leadership of Alafin.\n2. By the middle of 19th century the opulent and well organised empire of Oyo had completely collapsed.\n3. ____________________\n4. The southern part had broken up into a series of independent states competing among themselves for supremacy.\n5. The old capital Oyoile itself had been reduced to ashes and the king had been forced to flee to New Oyo town.",
+              "options": {
+                "A": "The Northern part had been captured and converted into Hausa emirates of Sokoto.",
+                "B": "The Northern part had been captured by fulani emirate of Ghana.",
+                "C": "The Almoravids of the North were responsible for the collapse of Oyo empire.",
+                "D": "The Northern part had been annexed and converted into the Fulani emirate of Ilorin.",
+                "E": "The Trans-Saharan trade contributed to the disintegration of Oyo empire."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "1. Kilwa remained for many years the principle centre of the East African slave trade.\n2. ____________________\n3. The end of the 18th century saw the beginning of this process of internal slave raiding, in which within 50 years large areas were empty.\n4. Slavery by this time was vitally important in the Islands especially that of Pemba where plantation of agriculture was more pronounced.\n5. Slave and ivory trade contributed much to the rise of Kilwa coastal city-state.",
+              "options": {
+                "A": "The Hehe played a vital role in bringing slaves to Kilwa in exchange for guns and cowrie shells much needed in Hehe society.",
+                "B": "It was mainly the Yao who kept the merchants there were well supplied with men, women and children who either came from their own people or had been captured from slave raids.",
+                "C": "It was mainly the Ngoni during their wondering wars and invasion who captured men, women and children and took them to the merchants to Kilwa.",
+                "D": "The Kimbu played an important role in bringing slaves to Kilwa in exchange for guns and other coastal goods much needed in Kimbu empire.",
+                "E": "Both Yao and Kimbu kept merchants and supplied them with food and arms."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "1. Mirambo was a Nyamwezi Prince.\n2. ____________________\n3. He inherited the chiefdoms of Uyowa and Ulyankuru.\n4. He used Ngoni battle tactics and formed a rugaruga army.\n5. He played a vital role to the establishment of Nyamwezi kingdom through trade.",
+              "options": {
+                "A": "His relations with Germans ended when the Germans were defeated in the First World War.",
+                "B": "He spent part of his early life as a Tuta captive.",
+                "C": "He was captured by German soldiers and spent sometime in a German Boma.",
+                "D": "He spent part of his early life as a Kimbu captive.",
+                "E": "He married a Kimbu princess."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "1. Trans-Saharan Trade greatly promoted the economy of Western Sudanic societies.\n2. The use of camels as a means of desert transport, availability of fresh water in the oases, availability of trading goods and security provided by native traders made this trade more attractive to Arab and European traders.\n3. The Western Sudan would not have became so famous throughout Europe and the Muslim world as a gold producing area without this trade.\n4. Above all, the caravan trade greatly stimulated the textile industry for which Timbuktu and Kano became so famous from the fifteenth and sixteenth centuries onwards.\n5. ____________________",
+              "options": {
+                "A": "The technique of weaving cloth brought into Sudan from either India or the Arabic world by Muslim traders who came in from the North.",
+                "B": "The technique of weaving cloth brought into Sudan from either Egypt or Berber states by the Muslim traders who came in from the North.",
+                "C": "The technique of weaving cloth brought into Sudan from either Egypt or China by the Muslim traders who came in from the North.",
+                "D": "The technique of weaving cloth brought into the Sudan from either Egypt or Tunisia by the Muslim traders who came in from the North.",
+                "E": "The technique of weaving cloth brought into the Sudan from Europe."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "1. In Tanganyika and Kenya there were massive peasant resistance.\n2. ____________________\n3. These were to a large extent class struggles opposed to colonialism.\n4. These resistances were caused by crude colonial exploitation and oppression.\n5. These resistances were important background for independence of the two nations.",
+              "options": {
+                "A": "These were tribal wars of Machemba of the Yao.",
+                "B": "These were Nandi resistance of 1890's and Mkwawa resistance of 1890's.",
+                "C": "These were Maji Maji war and Nana war of 1904-1907.",
+                "D": "These involved Maji Maji war of 1905-1907 and Mau Mau war of 1952.",
+                "E": "These were Kikuyu and Abushiri resistances."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "1. The Nyamwezi people became famous traders in the 19th century.\n2. ____________________\n3. When Slave Trade started the Nyamwezi became agents of the Arabs slave traders.\n4. The Nyamwezi conducted Long Distance Trade caravans from the interior to the coast.\n5. The Nyamwezi kingdom became very rich out of this trade.",
+              "options": {
+                "A": "The Nyamwezi rulers specialized in trade activities.",
+                "B": "The Nyamwezi trade influence extended as far south as Northern Rhodesia.",
+                "C": "Wagogo were forced to pay “hongo” to the Nyamwezi.",
+                "D": "The people who specialized as traders among the Nyamwezi were known as Wandewa.",
+                "E": "The Nyamwezi rulers were forced to pay tribute to Arab traders."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "1. The history of Ancient Egypt has been reconstructed mainly through archaeology.\n2. Archaelogical evidences suggest that the history of ancient Egypt goes as far back as between 1500 and 500 BC.\n3. Tombs along the Nile valley show that there were village communities of self-sufficient food producers.\n4. ____________________\n5. Well organized political leadership under pharaohs made Egypt the famous state in the world.",
+              "options": {
+                "A": "The basis of the achievements of man in Egypt was the dryness of the soil in the Nile Valley.",
+                "B": "These communities' ability to utilize the floods of the Nile enabled them to grow perennial crops like cassava, palm-trees and yams.",
+                "C": "The basis of the prosperity of man in Egypt was the dryness of the soil in the Nile Valley which favoured more pastoralism than crop cultivation.",
+                "D": "These communities' ability to utilize the floods of the Nile enabled them to grow wheat and barley apart from keeping livestock.",
+                "E": "These communities' ability to exploit and control River Nile made them successful in all spheres of life."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "1. The Dutch established settlements at the Cape in South Africa in 1652.\n2. ____________________\n3. With the very attractive climatic conditions, South Africa attracted European colonization and settlements.\n4. The Dutch East Indian company established a centre at the Cape to supply fresh green vegetables, fresh water, meats and fruits.\n5. After the coming of the British in the 18th century, the Dutch moved north and settled in Transvaal province.",
+              "options": {
+                "A": "The region was very fertile with both sub-tropical and equatorial climates.",
+                "B": "The region was very fertile characterized by both savannah and tropical climates.",
+                "C": "The region was very fertile with both sub-tropical and mediterranean climates.",
+                "D": "The region was fertile characterized by both sub-tropical and sub-mediterranean climates.",
+                "E": "The region was very fertile with both mediterrenean and tropical climates."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Examine the impact of Portuguese intrusion in East Africa in the 16th century"
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "THrough their activities the missionaries became forerunners of colonialism. Justify this statement."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "With concrete examples show why the conflict between Africans and the Whites during the colonial period was inevitable."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Explain the roles of Welfare Associations, Religions Movements and Cooperative Societies in the struggle for independence in East Africa."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Discuss the benefits gained by the members of the Commonwealth."
+        },
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "Why has the dream of a United Africa not been achieved?"
+        }
+      ]
+    }
+  ]
+}

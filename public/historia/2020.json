@@ -1,0 +1,310 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (xv), choose the correct answer from among the given alternatives and write its letter beside the item number in the answer booklet(s) provided. (15 marks)",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "John's grandmother, who witnessed the German invasion in Tanganyika, has a habit of narrating regularly to John and his friends on how some societies in Tanganyika resisted the Germans strongly. Which source of historical information is this?",
+              "options": {
+                "A": "Oral traditions",
+                "B": "Archives",
+                "C": "Museum",
+                "D": "Archaeology",
+                "E": "Linguistics"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "When did the theory of evolution of man become more publicly known?",
+              "options": {
+                "A": "After the birth of Charles Darwin who introduced the theory of evolution.",
+                "B": "After the publication of the book “The Origin Species” in 1859",
+                "C": "After the discovery of man's remains by Dr. Leakey at Olduvai Gorge",
+                "D": "After the scientific discovery of Homo-Habilis and Homo-Erectus",
+                "E": "After the spread of religious books like the Quran and the Bible"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Why salt making industries were important in pre-colonial Africa?",
+              "options": {
+                "A": "It enabled people to eat uncooked food",
+                "B": "It facilitated the development of heavy industries",
+                "C": "It played a vital role in food preservation and healing",
+                "D": "It enabled some societies to make ornaments of copper alloys",
+                "E": "It was a source of vitamins"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The range of productive activities that man performs is determined by",
+              "options": {
+                "A": "nature of the environment and the productive forces.",
+                "B": "strong standing army and modern weapons.",
+                "C": "major means of production and cheap labour.",
+                "D": "availability of raw materials and markets.",
+                "E": "presence of offensive and defensive forces."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which one of the following shows a set representing communal societies in East Africa up to the 19th century?",
+              "options": {
+                "A": "Teso, Iraqw and Hadzabe",
+                "B": "Dorobo, Teso and Iraqw",
+                "C": "Hadzabe, Karamajong and Iraqw",
+                "D": "Tindiga, Iraqw and Dorobo",
+                "E": "Dorobo, Tindiga and Teso"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Which one of the following was used to colonize Africa?",
+              "options": {
+                "A": "Finance capital",
+                "B": "Primitive accumulation of capital",
+                "C": "Bank capital",
+                "D": "Mercantile capital",
+                "E": "Industrial capital"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The following factors were responsible for the failure of company rule in East Africa except",
+              "options": {
+                "A": "lack of experienced personnel.",
+                "B": "widespread resistances in the interior.",
+                "C": "shortage of funds to run the colonies.",
+                "D": "difficulties to penetrate in the interior of East Africa.",
+                "E": "lack of interest to exploit the interior of East Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "What was the main aim of establishing a colonial state?",
+              "options": {
+                "A": "To exploit a colony effectively",
+                "B": "To develop a free colony for Africans",
+                "C": "To establish African oversea province in Europe",
+                "D": "To supervise African traditional institutions",
+                "E": "To prepare Africans for their self-rule"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "An agricultural system in which plantations were owned and supervised by Europeans in the colonies was called",
+              "options": {
+                "A": "Settler agriculture.",
+                "B": "Peasant agriculture.",
+                "C": "Plantation agriculture.",
+                "D": "Mixed farming.",
+                "E": "Slash and burn cultivation."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which one of the following descriptions illustrates best the objectives of colonial education in Africa?",
+              "options": {
+                "A": "To get cheap laborers, raw materials and area of investment",
+                "B": "To enable the Africans to get good treatment, housing and white color job",
+                "C": "To get the producers of raw materials, cheap workers and puppets",
+                "D": "To facilitate the activities of traders, missionaries and explorers",
+                "E": "To enable the Africans to become investors, chiefs and governors"
+              }
+            },
+            {
+              "sub_question_identifier": "xi",
+              "sub_question_text": "The military alliance which was formed between Germany, Italy and Japan before the Second World War was known as",
+              "options": {
+                "A": "Triple Alliance.",
+                "B": "Berlin-Rome Axis.",
+                "C": "Triple Entente.",
+                "D": "Dual Alliance.",
+                "E": "Berlin-Rome-Tokyo Axis."
+              }
+            },
+            {
+              "sub_question_identifier": "xii",
+              "sub_question_text": "One of the national building campaigns taken to change the post-colonial economic system in Africa was",
+              "options": {
+                "A": "\"Feed yourself” in Ghana.",
+                "B": "\"Harambee\" in Uganda.",
+                "C": "\"Feed yourself\" in Uganda.",
+                "D": "\"Capitalism and Self-reliance” in Tanzania.",
+                "E": "\"Freedom is coming tomorrow\" in South Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "xiii",
+              "sub_question_text": "What was the basic reason for adopting a single party system soon after independence by many African countries?",
+              "options": {
+                "A": "Lack of enough educated elites who could lead many political parties",
+                "B": "It was a suitable system for maximizing administration costs",
+                "C": "It was suitable for promoting national social cohesion and harmony",
+                "D": "It could easily cause division among the members of one country",
+                "E": "Lack of enough offices that could be used by many political parties"
+              }
+            },
+            {
+              "sub_question_identifier": "xiv",
+              "sub_question_text": "When did Kofi Annan of Ghana serve as the Secretary General of the United Nations?",
+              "options": {
+                "A": "1961-1971",
+                "B": "1996-2006",
+                "C": "1971-1981",
+                "D": "2010-2016",
+                "E": "1991-1996"
+              }
+            },
+            {
+              "sub_question_identifier": "xv",
+              "sub_question_text": "From what you have learned in history, which criterion indicates that pre-colonial African societies were developing?",
+              "options": {
+                "A": "Presence of processing and heavy industries",
+                "B": "Presence of past social, political and economic systems",
+                "C": "Presence of bogus treaties and colonial boundaries",
+                "D": "Presence of the League of Nations and United Nations",
+                "E": "Presence of colonial economy and administrative systems"
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the descriptions in List A with the corresponding political parties in List B by writing the letter of the corresponding response beside the item number in the answer booklet(s) provided. (5 marks)",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "A political party which struggled for the independence of Angola.",
+                "ii": "A political party which was formed in 1963 in Zimbabwe.",
+                "iii": "A political party which took active participation in the struggle for independence of Ghana.",
+                "iv": "A political party that was formed in 1952 to demand for the independence of Uganda.",
+                "v": "The political party in Zanzibar that overthrew the oppressive Arab rule in 1964."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "ASP",
+                "B": "UGCC",
+                "C": "UNC",
+                "D": "ZANU",
+                "E": "ZPPP",
+                "F": "MPLA",
+                "G": "AMNUT",
+                "H": "FRELIMO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 35,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Briefly answer the following questions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Differentiate between the tools made and used during the Old Stone Age and the Late Stone Age."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "How medicine stimulated the interaction among the African people?"
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "How did the people along the coast of East Africa use their natural environment to make salt?"
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Why did Portugal lead the search for the sea route to India?"
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "How did Asian goods reach Europe before the sea route was discovered by the Portuguese in the 15th century?"
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Why Carl Peters is regarded as an important person in the History of Tanganyika?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Arrange the following historical events in chronological order by writing number 1 to 6 beside the item number in the answer booklet(s) provided.\n\n(i) By 1880s the scramble for Africa had reached serious proportions. There were signs that if this scramble was not regulated war would erupt among the European powers.\n\n(ii) In order to avert war, Chancellor Otto Von Bismarck of Germany called an International Conference of European Powers with interests in Africa.\n\n(iii) The countries that were represented at the conference included Germany, Britain, France, Portugal, Belgium, Italy, Spain, Denmark and the United States of America.\n\n(iv) The Berlin conference introduced the principles of effective occupation of colonies, hence paving the way for the colonization of the African continent.\n\n(v) The Berlin conference led to economic growth for most European nations since they were assured of maximum supply of raw materials, cheap labour and markets for their industrial manufactured goods.\n\n(vi) By the late 1870s much of Africa's interior was known to Europe's capitalist interests through the services of explorers and missionaries."
+        },
+        {
+          "question_number": 5,
+          "question_type": "explanatory",
+          "question_text": "Draw a sketch map of Africa and locate by using roman numbers:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The British East African colony where indirect rule policy was more successful."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The Portuguese colony whose nationalist leader was assassinated by a parcel bomb in Dar es Salaam."
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The country where the Apartheid Policy was applied."
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "The Germany colony that resisted Direct Rule Policy in 1904 – 1907."
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The British colony where Indirect Rule Policy was first experimented in Africa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 45,
+      "instructions": "Answer three (3) questions from this section. Each question carries fifteen (15) marks.",
+      "questions": [
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Why some areas in Africa experienced intensive scramble more than others? Explain by giving six points."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "With examples, explain six effects of colonial agriculture in Africa."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Elaborate six contributions of the First and Second World Wars to the rise and development of anti-colonial movements in Africa."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Explain six reasons which facilitated the collapse of the first East African Community in 1977."
+        }
+      ]
+    }
+  ]
+}

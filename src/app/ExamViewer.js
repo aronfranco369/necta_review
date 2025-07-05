@@ -1,6 +1,6 @@
 "use client";
 import { useState } from "react";
-import { fetchExamFromSupabase } from "./SupabaseClient";
+
 // --- Helper Components ---
 
 const VisualElement = ({ element }) => {
@@ -210,7 +210,7 @@ export default function ExamViewerPage() {
   const [examData, setExamData] = useState(null);
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [examPath, setExamPath] = useState("civics/2000.json");
+  const [examPath, setExamPath] = useState("2000.json"); // Default to the new exam
 
   const loadExamData = async () => {
     if (!examPath.trim()) {
@@ -220,7 +220,13 @@ export default function ExamViewerPage() {
     setLoading(true);
     setError(null);
     try {
-      const data = await fetchExamFromSupabase(examPath);
+      const response = await fetch(`/${examPath}`);
+      if (!response.ok) {
+        throw new Error(
+          `Failed to load file: ${response.status} ${response.statusText}`
+        );
+      }
+      const data = await response.json();
       setExamData(data);
     } catch (error) {
       console.error("Failed to load exam data:", error);
@@ -253,7 +259,7 @@ export default function ExamViewerPage() {
             value={examPath}
             onChange={(e) => setExamPath(e.target.value)}
             onKeyPress={handleKeyPress}
-            placeholder="e.g., civics/2000.json or history/2001.json"
+            placeholder="e.g., 2000.json"
             className="flex-1 rounded-md border border-gray-300 px-3 py-2 shadow-sm focus:border-indigo-500 focus:outline-none focus:ring-1 focus:ring-indigo-500"
           />
           <button

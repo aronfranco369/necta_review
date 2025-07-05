@@ -1,0 +1,304 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The two types of oral traditions are",
+              "options": {
+                "A": "cultural practices and historical sites",
+                "B": "museums and historical sites",
+                "C": "cultural practices and archives",
+                "D": "cultural practices and narration of past events",
+                "E": "historical sites, museums and archives."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The advantages of using better tools during the new stone age were the following except",
+              "options": {
+                "A": "family life became more stable",
+                "B": "communities were able to produce more food",
+                "C": "division of labour emerged",
+                "D": "men became responsible for hunting and defence",
+                "E": "settled life discouraged communal life."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Which of the following functions was performed by chiefs under indirect rule in Africa?",
+              "options": {
+                "A": "Collection of taxes",
+                "B": "Loading cash crops into ships",
+                "C": "Advising the governor",
+                "D": "Promoting international capital export",
+                "E": "Organizing election of the colonial officials"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Early commercial contacts between Africa and Asian World is evidenced by the Periplus of the Erythrean sea written around",
+              "options": {
+                "A": "200 years BC",
+                "B": "15th century",
+                "C": "7th century",
+                "D": "first century",
+                "E": "13th century."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The agents of industrial capitalism had great contribution to the colonization of Africa because",
+              "options": {
+                "A": "they reported about the richness of the interior of Africa",
+                "B": "they preached the word of God and wanted Africans to be civilized",
+                "C": "they discovered new places where europeans would shift and make settlements",
+                "D": "Africa would benefit by trading with European companies",
+                "E": "Europe could solve her internal problems by exploiting African resources."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "A successful resistance against colonialism in Africa occurred in",
+              "options": {
+                "A": "Ethiopia",
+                "B": "Liberia",
+                "C": "Egypt",
+                "D": "Sierra Leone",
+                "E": "Ghana."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The main objectives of the construction of the railway networks during colonial rule in Africa were the following except transportation of",
+              "options": {
+                "A": "raw materials from the interior of Africa",
+                "B": "the tourists to the interior of Africa",
+                "C": "the colonial officials and troops to the interior of Africa",
+                "D": "European manufactured goods to the interior of Africa",
+                "E": "missionaries, settlers and labourers from and to the interior of Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "One of the political effects of the First World War on Africa was",
+              "options": {
+                "A": "intensive exploitation of African resources",
+                "B": "death among the African soldiers",
+                "C": "spread of communicable diseases",
+                "D": "putting all German colonies under the League of Nations",
+                "E": "returning of Alsace and Lorraine to France from Germany domination."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "The term “decolonization\" as applied to African struggle for independence means",
+              "options": {
+                "A": "a process of liberating children and women from forced labour",
+                "B": "a process of strengthening colonial ties",
+                "C": "to welcome the colonialists for the second time",
+                "D": "process and activities leading to independence",
+                "E": "to deny taxation."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "It was necessary for independent African states to opt for socialism policy of production because of the need to",
+              "options": {
+                "A": "have assistance from the USSR",
+                "B": "achieve development and unity",
+                "C": "contain the European world",
+                "D": "have new African thoughts",
+                "E": "have Africans in European economy."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with responses in List B by writing the letter of the correct response beside the item number.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "Zanzibar",
+                "ii": "The Anglo-German Agreement of 1886",
+                "iii": "Emin Pahsa",
+                "iv": "Mwanga",
+                "v": "France, Britain and Germany",
+                "vi": "Ethiopia",
+                "vii": "Congo",
+                "viii": "USA",
+                "ix": "Chancellor Bismarck",
+                "x": "Karl Peters"
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "The Egyptian Governor of the equatorial provinces in Sudan",
+                "B": "The King of present day Mwanga District",
+                "C": "Put Africa under colonial rule",
+                "D": "The centre of foreigners in East Africa during the scramble",
+                "E": "Great European nations which scrambled for Africa",
+                "F": "An area which had modern heavy clove processing industries",
+                "G": "Defined most of the North coastal areas to be under the Sultan's domain",
+                "H": "Chaired the Berlin conference",
+                "I": "The Kabaka who was deported by the European religious factions",
+                "J": "Did not enter into the race of dividing Africa",
+                "K": "Given to Belgium in the 1884/1885 conference",
+                "L": "Was not colonized",
+                "M": "Made Germany posses East Africa",
+                "N": "Was fought for by the Arabs",
+                "O": "A leader of Nyamwezi",
+                "P": "Was responsible for defeat of the Italians in Ethiopia",
+                "Q": "Encouraged the British to colonize Zambia and Malawi",
+                "R": "Introduced by the French",
+                "S": "Signed bogus treaties with the Arabs in Zanzibar",
+                "T": "Was given Reunion and Mauritius as her colonies"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map showing the Trans-saharan trade routes of Western Sudanic states and indicate the trading centres of Sijilmasa, Taghaza, Timbuktu, Tripoli and Ghat."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Mention five (5) trade items that were involved in the trans-saharan trade."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange sentences in chronological order.\n\n(i) Slaves taken from different parts of the interior of Africa to the coast passed through special caravan routes.\n\n(ii) From the interior the caravans took mostly slaves and ivory to the coast and from the coast the caravans brought cloth, salt, iron and other imported consumer goods.\n\n(iii) The caravan owners employed experienced slave drivers who knew the routes and areas of slave trading activities\n\n(iv) These caravan routes had been traditional trade routes before the slave trade.\n\n(v) Along these caravan routes calling stations for slaves were established e.g. Kotakota, Karonga, Chikola, Tabora, Ujiji and Mpwapwa."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Each of the following paragraphs is supposed to have five (5) sentences which form a complete historical meaning. One sentence is missing. Identify the missing sentence from the sentences listed below each paragraph. The sentences are labeled A to E. Write the letter of missing sentence in your answer booklet beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. At independence, all African countries inherited backward agrarian economies.\n2. ____________________\n3. The economies were also externally oriented.\n4. They were based on the export of raw materials and import of consumer goods and machinery.\n5. The industrial sector was based on semi-processing of raw materials.",
+                  "options": {
+                    "A": "They were characterized by large number of manpower.",
+                    "B": "They were characterized by the use of simple hand tools such as the hoes and the matchets.",
+                    "C": "They were characterized by advanced technology such as huge and sophiscated machines for cultivation and carrying goods.",
+                    "D": "They were characterized by the well developed infrastructures such as Railways and Roads which facilitated the growth and expansion of agrarian sector.",
+                    "E": "They were characterized by the presence of modern peasants."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. German encroachment in East Africa began with the treaty making activities of Karl Peters.\n2. The latter was a member of a group of Germany capitalist desperately looking for colonies in Africa.\n3. In fact, he was a president of the societies formed in Germany to undertake the search for colonies.\n4. ____________________\n5. By the time of Berlin conference of 1884/1885, Karl Peter's was already in East Africa trying to carve a sphere of influence for German imperialism.",
+                  "options": {
+                    "A": "His society was called the society for German colonization.",
+                    "B": "His society was called Germany East African Company.",
+                    "C": "His society was called Royal society for Germany.",
+                    "D": "His society was called Germany system.",
+                    "E": "His society was called the Germany Association Society."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. The sudden rise of the Zulu kingdom led to many people being driven from their original homes.\n2. Zwangendaba group of Ngoni travelled Westward through Mwenemutapa empire.\n3. Ndwandwe army fled northwards into Southern Mozambique.\n4. ____________________\n5. Where Zwangendaba died about 1848.",
+                  "options": {
+                    "A": "Zwangendaba group moved northwards and reached Ufipa near Southern end of Lake Tanganyika.",
+                    "B": "Zwangendaba group went northward to Malawi.",
+                    "C": "Zwangendaba group traveled to Northern part of Tanganyika.",
+                    "D": "This was the Ngoni diaspora in South West and Central Africa.",
+                    "E": "The Ngoni crossed River Zambezi around 1847."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Explorers came to find more about East Africa for capitalist interest in Europe and America.\n2. Like the missionaries, they were being financed by individuals and capitalist companies.\n3. Rebman reached Mt. Kilimanjaro in 1848. Richard Burton and John Speke went as far as Lake Tanganyika between 1857 and 1859.\n4. Speke and Grant went as far as Lake Victoria and Buganda between 1860 and 1863.\n5. ____________________",
+                  "options": {
+                    "A": "Karl Peters travelled between 1853 and 1873 to central and East African coast.",
+                    "B": "William Macknon travelled between 1853 and 1873 to central and East African coast.",
+                    "C": "David Livingstone travelled between 1853 and 1873 to central and East African Coast.",
+                    "D": "Henry Stanley travelled between 1853 and 1873 to central and East African Coast.",
+                    "E": "Dr. Mungo Park travelled between 1853 and 1873 to East African coast."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. Before Arab colonization around 1840 the coastal societies were feudal.\n2. At the top of social hierarchy was the great Lord called Mwinyi Mkuu.\n3. ____________________\n4. The Mwinyi Mkuu lived off surplus product of peasantry.\n5. He appointed tax collectors called shakua.",
+                  "options": {
+                    "A": "He ruled with the consent of the next officials called Jumbe or Mwinyi.",
+                    "B": "He ruled with the consent of the next officials called Sheik or Jumbe.",
+                    "C": "He ruled with the consent of the next officials called Sharif or Sheha.",
+                    "D": "He ruled with the consent of the next officials called Sheha or Diwani.",
+                    "E": "He ruled with the conet of the next officials called ministers."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Appraise the advantages of iron technology in pre-colonial Africa."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Explain why some areas in Africa experienced more intensive scramble than others."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Explain the problems that faced the nationalist struggle in Nigeria during 1950s."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Distinguish settler economy from peasant economy in Africa during colonial period."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Analyse the causes of Zanzibar Revolution."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "What measures were taken by Tanzania after independence to enable every citizen to have access to education?"
+        }
+      ]
+    }
+  ]
+}

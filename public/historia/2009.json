@@ -1,0 +1,304 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) – (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Which one among the following statements is not true about the discoveries made by man during the middle stone age?",
+              "options": {
+                "A": "Development of sharper, smaller and portable tools",
+                "B": "Introduction of stone picks, spears, arrows, knives and needles",
+                "C": "Use of wooden and bone materials to facilitate production",
+                "D": "Discovery of fire",
+                "E": "Emergence of social cultural groups or ethnic groups."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The Portuguese conquest of the East African Coast was led by",
+              "options": {
+                "A": "King Emmanuel",
+                "B": "Ahmed Ibn Majid",
+                "C": "Henry the Navigator",
+                "D": "Vasco Salgado",
+                "E": "Francisco D'Almeida."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Which one of the following best describes the Stone Age Era?",
+              "options": {
+                "A": "When man used stone artifacts widely in his daily life",
+                "B": "When stones were formed on earth",
+                "C": "When man used stones widely as ornaments",
+                "D": "When Africans used stones to fight against invaders",
+                "E": "When stone became a major commodity in a long distance trade."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Why are missionaries important in African history?",
+              "options": {
+                "A": "Treated Africans very well",
+                "B": "Brought in trade goods with them",
+                "C": "Accounts of their expeditions and experiences attracted more Europeans",
+                "D": "Established medical services",
+                "E": "Introduced civilization in Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Who among the following supported greatly the idea to have a British Empire from Cape to Cairo?",
+              "options": {
+                "A": "Sir George Goldie",
+                "B": "Cecil John Rhodes",
+                "C": "Captain Frederick Lugard",
+                "D": "Sir Harry Johnston",
+                "E": "Karl Peters."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "The first British Governor in Kenya Sir Charles Eliot stressed on the",
+              "options": {
+                "A": "construction of the Uganda railway",
+                "B": "establishment of settler economy",
+                "C": "creation of Kenya as the industrial centre for East Africa",
+                "D": "introduction of steamers in Lake Victoria",
+                "E": "integration of Kikuyu into plantation economy."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which among the following statements was a problem towards independence in Nigeria?",
+              "options": {
+                "A": "Elitism, tribalism and ignorance",
+                "B": "Regionalism, tribalism and religion",
+                "C": "Poverty, tribalism and ignorance",
+                "D": "Religion, tribalism and poverty",
+                "E": "Elitism, tribalism and poverty."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "One of the major objectives of SADC is to",
+              "options": {
+                "A": "help member states to secure genuine and equitable regional integration",
+                "B": "establish a common defence among the member states",
+                "C": "promote the use of Kiswahili language among the member states",
+                "D": "help Southern African countries to be self-reliant instead of depending on South Africa",
+                "E": "help member states to combat HIV/AIDS pandemic."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "One of the important features of feudal relations of production as prevailed in the interlacustrine region during the pre-colonial period was",
+              "options": {
+                "A": "commercial ownership of land",
+                "B": "communal ownership of land",
+                "C": "private ownership of land and cattle",
+                "D": "private ownership of labour force",
+                "E": "private ownership of capital."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the notable United Nations failure in its objectives is its inability to",
+              "options": {
+                "A": "control food shortage",
+                "B": "eradicate colonial rule",
+                "C": "establish tribunes for war criminals",
+                "D": "prevent big powers from violating its principles",
+                "E": "control poverty in Africa."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the dates in List A with the historical events in List B by writing the letter of the correct event beside the number of the date in your answer booklet.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "1487",
+                "ii": "1815",
+                "iii": "1869",
+                "iv": "1890",
+                "v": "1929",
+                "vi": "1954",
+                "vii": "1967",
+                "viii": "1982",
+                "ix": "1994",
+                "x": "2001"
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Great Economic Crisis started.",
+                "B": "Independence of Liberia.",
+                "C": "The Tanzania Peoples Defence Force was formed.",
+                "D": "Bartholomew Diaz landed in South Africa.",
+                "E": "Suez Canal was opened.",
+                "F": "The Organization of African Unity gave birth to African Union.",
+                "G": "Beginning of British rule in Zanzibar.",
+                "H": "Nelson Mandela was released from Roben Island.",
+                "I": "Britain annexed Cape Colony.",
+                "J": "Tanzania adopted National Economic Survival Programm.",
+                "K": "Kenya entered into the first multiparty election.",
+                "L": "Genocide in Rwanda.",
+                "M": "Birth of the Tanganyika African National Union.",
+                "N": "The policy of Socialism and Self Reliance was introduced in Tanzania.",
+                "O": "Samora Machel was assassinated.",
+                "P": "Kwame Nkruma became the president of Ghana.",
+                "Q": "Vasco Da Gama reached India.",
+                "R": "German colonial administration came to an end.",
+                "S": "Jan Van Riebeeck landed at the cape of South Africa.",
+                "T": "First World War came to an end."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of East Africa and mark the following historical sites: Olduvai gorge, Fort Ternan, Rusinga Island, Kondoa and Nsongezi."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "State the Historical significance of the sites mentioned in (a) above."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by using number 1 to 5 to write beside the item number.\n\ni. Furthermore the trade increased in size when in the 1770s the French opened up plantations of sugar in Mauritius and Reunion.\n\nii. However, the indigenous chiefs in the hinterland of East Africa participated fully in the trade because it was their source of political and economic power.\n\niii. At the beginning Slave Trade was small in size because slaves were taken to work as domestic slaves.\n\niv. The coming of Portuguese increased the demand for slaves because many people were enslaved for the big plantations of coffee in Brazil.\n\nv. The coming of Seyyid Said to Zanzibar intensified the trade. The clove and coconut economy in Zanzibar mainly depended on the Slave Trade"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Identify the incorrect historical statement in the following items and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "",
+                  "options": {
+                    "A": "Selling war prisoners was one of the methods used to obtain slaves in East Africa.",
+                    "B": "Slave traders raided villages during nights to capture slaves.",
+                    "C": "Some members of the family were convinced to join slavery",
+                    "D": "Dangerous criminals and other law-breakers were sold as slaves in some societies.",
+                    "E": "Frequent burning of villages added number of slaves to slave traders."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "",
+                  "options": {
+                    "A": "History is a record of human activities.",
+                    "B": "Human activities enabled man to obtain his needs from nature.",
+                    "C": "Man enters into definite social relations with other people",
+                    "D": "History accounts for Queens and Kings.",
+                    "E": "Man's basic needs constitute food, clothing and shelter."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "",
+                  "options": {
+                    "A": "State organisation as a pre-colonial African political system was purely based on pastoral economy practised by the Nandi, Turkana and Maasai people.",
+                    "B": "Age- set-system depended on keeping herds of cattle and the leadership was age-based.",
+                    "C": "The Baganda practised state organisation which had permanent farming economy.",
+                    "D": "Mixed farming was principally exercised by the Ntemiship organisational systems mainly among the Sukuma, Kikuyu and Kamba people.",
+                    "E": "Clan organisation was among political systems practised through shifting agriculture."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "",
+                  "options": {
+                    "A": "The Berlin Conference of 1884/1885 was an imperialist conference which brought together Europeans and African chiefs to divide Africa.",
+                    "B": "The Berlin conference legalised the division of African countries among European capitalists.",
+                    "C": "The Berlin conference solved the conflicts among the European powers over African land",
+                    "D": "The Berlin conference declared the basins of Nile, Niger and Congo Rivers as free zones.",
+                    "E": "The Berlin conference resolved to abolish slave trade in all European occupied territories."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "",
+                  "options": {
+                    "A": "The plantation agriculture was a very distinctive form of cultivation in which specialized crops were grown.",
+                    "B": "The plantation agriculture used a large number of closely unskilled labourers who were supervised by foremen.",
+                    "C": "In Central Africa rubber plantations were owned by the Germans and the French settlers.",
+                    "D": "Plantations were scientifically managed and involved the use of machines.",
+                    "E": "There was a maximum of profit making through super exploitation of labourers during colonial period."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain the factors for the rise of the Bunyoro - Kitara kingdom."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Account for the Nandi resistance against their land occupation by British."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Compare and contrast the British and French systems of administration as practised in Africa during colonial period."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Examine the factors for nationalism in Africa after the Second World War."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Political changes which have been taking place in African states since the second half of the 1980s were a result of inevitable internal and external circumstances\". Discuss."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Explain the objectives of the newly re-established East African Community and how Tanzania is likely to benefit from it."
+        }
+      ]
+    }
+  ]
+}

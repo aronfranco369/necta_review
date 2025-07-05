@@ -1,0 +1,310 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (xv), choose the correct answer from among the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "What are the major types of oral traditions?",
+              "options": {
+                "A": "Museums and archives",
+                "B": "Poems and proverbs",
+                "C": "Historical sites and narration of events",
+                "D": "Archaeology and museum",
+                "E": "Cultural practices and narration of events"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Why is Charles Darwin famous in history?",
+              "options": {
+                "A": "He discovered pebbles and chopping tools.",
+                "B": "He discovered the fossil of man's ancestors.",
+                "C": "He introduced the theory of creation.",
+                "D": "He discovered the remains of old people.",
+                "E": "He introduced the theory of evolution."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "What was the most common method of farming in pre-colonial Africa?",
+              "options": {
+                "A": "Mixed farming",
+                "B": "Plantation agriculture",
+                "C": "Shifting cultivation",
+                "D": "Slash and burn cultivation",
+                "E": "Permanent crop cultivation"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "As a historian, which one would you consider as Prince Henry's main aims in organizing the Portuguese voyages to West and East African coasts?",
+              "options": {
+                "A": "Acquiring raw materials, markets and cheap labour",
+                "B": "Acquiring colonies, raw materials and markets",
+                "C": "Spreading Christianity, adventure, and trade",
+                "D": "Establishing processing industries, markets and raw materials",
+                "E": "Abolishing slave trade, slavery and introduction of legitimate trade"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "What took place in Europe between the 1750s and 1850s?",
+              "options": {
+                "A": "Industrial revolution",
+                "B": "Scramble for Africa",
+                "C": "Mercantile capitalism",
+                "D": "Emergence of slave trade.",
+                "E": "Monopoly capitalism"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Colonialism was established through",
+              "options": {
+                "A": "post-colonial political changes.",
+                "B": "violence and coercion.",
+                "C": "piracy and plundering.",
+                "D": "revolution and violence.",
+                "E": "waylaying and bogus treaties."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Who headed the Central government of the colony?",
+              "options": {
+                "A": "Queen",
+                "B": "Governor",
+                "C": "Secretary for colonies",
+                "D": "Secretary General",
+                "E": "Minister for colonies"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The law that demanded the Africans to carry a labour card \"Kipande\" aimed at ensuring that",
+              "options": {
+                "A": "the European colony is exploited effectively.",
+                "B": "there is effective occupation of the colony.",
+                "C": "the Africans should be allowed to grow cash crops.",
+                "D": "the welfare of the Africans were taken care of.",
+                "E": "the white farmers got a cheap supply of labour."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Why the British in East Africa provided colonial health services to few areas such as settler plantation areas, military camps and cash crop producing areas?",
+              "options": {
+                "A": "To make their subjects support colonial rule.",
+                "B": "To keep their subjects wealthier and resistant to diseases.",
+                "C": "To make their subjects fit for economic production.",
+                "D": "To make their subjects loyal to the colonial state.",
+                "E": "To stop their subjects from using traditional medicines."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which of the following were the long-term causes of the First World War?\n(I) The formation of military alliances among the great powers of Europe.\n(II) The need for revenge among the European powers.\n(III) The assasination of Archduke Franz Ferdinand of Serbia.\n(IV) The rise of Adolf Hitler and Nazism in Germany.",
+              "options": {
+                "A": "I and II",
+                "B": "II and III",
+                "C": "IV and I",
+                "D": "III and IV",
+                "E": "I and III"
+              }
+            },
+            {
+              "sub_question_identifier": "xi",
+              "sub_question_text": "Which of the following were the countries which used constitutional means to gain their political independence.\n(I) Mozambique and Nigeria\n(II) Kenya and Tanganyika\n(III) Ghana and Uganda\n(IV) Uganda and Tanganyika",
+              "options": {
+                "A": "I and II",
+                "B": "II and III",
+                "C": "IV and I",
+                "D": "III and IV",
+                "E": "I and III"
+              }
+            },
+            {
+              "sub_question_identifier": "xii",
+              "sub_question_text": "What challenged the work of the police in 1998 in East Africa?",
+              "options": {
+                "A": "Terrorist bombing attacks",
+                "B": "Idi Amin's government take over from Milton Obote",
+                "C": "Launching over the New East African Community",
+                "D": "Inciting genocide in Rwanda",
+                "E": "Adoption of the Universal Declaration of Human Rights"
+              }
+            },
+            {
+              "sub_question_identifier": "xiii",
+              "sub_question_text": "The social challenges facing people in Africa include",
+              "options": {
+                "A": "political instability and tribalism.",
+                "B": "tribalism and neo-colonialism.",
+                "C": "colonialism and illiteracy.",
+                "D": "illiteracy and diseases.",
+                "E": "corruption and lack of rule of law."
+              }
+            },
+            {
+              "sub_question_identifier": "xiv",
+              "sub_question_text": "Which organ of the United Nations investigates situations that pose a threat to international peace?",
+              "options": {
+                "A": "The Executive secretariat",
+                "B": "The General Assembly",
+                "C": "The Trusteeship Council",
+                "D": "The Security Council",
+                "E": "The Red Cross"
+              }
+            },
+            {
+              "sub_question_identifier": "xv",
+              "sub_question_text": "The international organization undermined by Hitler was called",
+              "options": {
+                "A": "United Nations Organization.",
+                "B": "League of Nations.",
+                "C": "Non-Aligned Movement.",
+                "D": "Berlin conference.",
+                "E": "International Court of Justice."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the descriptions in List A with the corresponding names of the revolutions in List B by writing the letter of the correct response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The revolution that was led by Gamal Abdel Nasser in 1952.",
+                "ii": "The revolution that removed the Arab Regime from power during the 1960s.",
+                "iii": "The revolution that took place in 1917 and inspired African nationalism.",
+                "iv": "The revolution that took place in 1949 and provided material and moral support to African nationalist struggles.",
+                "v": "The revolution whose impact led to the abolition of the slave trade."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Russian revolution",
+                "B": "Industrial revolution",
+                "C": "Mineral revolution",
+                "D": "Egypt revolution",
+                "E": "Libya revolution",
+                "F": "Chinese revolution",
+                "G": "Zanzibar Revolution",
+                "H": "Sudanese October revolution"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 35,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Answer the following questions briefly:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Mzee Juma is an illiterate man with 89 years of age. He narrates past political events to his grand child who is eighteen years old. Why such method used by Mzee Juma is considered as an unreliable source of historical information?"
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Why the German colonial agents would not forget the Hehe resistance?"
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "How would you relate the French Assimilation policy and destruction of African culture?"
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "How would you prove that colonial education was an agent of division and racism in colonial Africa?"
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Why Adolf Hitler is blamed for the occurrence of the Second World War?"
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Why some historians consider Chancellor Otto Von Bismarck as the architect of the partition of the African continent?"
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Arrange the following historical events in chronological order by writing number 1 to 6 beside the item number in the answer booklet provided.\n\n(i) The League of Nations did not take any action when Japanese attacked Manchuria.\n\n(ii) The United Nations Organization emerged as the successor to the League of Nations.\n\n(iii) One of the treaties signed by the Central powers was the Versailles Treaty of 1919.\n\n(iv) Adolf Hitler and Benito Mussolini used the effects of the Great Depression as a chance to enter into power and promised people to revive the Germany and Italy's economy respectively.\n\n(v) Japanese attack on Pearl Harbour forced the United States of America to participate in the Second World War.\n\n(vi) The assassination of Archduke Francis Ferdinand immediately caused the emergence of military conflicts samong the European powers."
+        },
+        {
+          "question_number": 5,
+          "question_type": "explanatory",
+          "question_text": "Draw a sketch map of Africa and locate by using roman numbers:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "A country which adopted a kind of a socialist ideology known as Socialism and Self Reliance."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "A country which adopted a socialist ideology known as Humanism."
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "A country which was not colonized and is currently the headquarters of the African Union."
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "A country which adopted a kind of socialist ideology known as the Common Man's Charter."
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "A Portuguese colony which tried to adopt a socialist ideology under the FRELIMO political party."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 45,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "By using six points, explain how the Berlin Conference of 1884/1885 helped the European countries to prevent war that would have occurred due to the scramble for colonies."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "How was migrant labour beneficial to the capitalists during the colonial period? Limit your response to six points."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Elaborate six factors that contributed to the occurrence of Mfecane during the 19th century."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"African countries have been suffering socially, economically and politically as a result of being members of the United Nations\". Explain six reasons to justify this statement."
+        }
+      ]
+    }
+  ]
+}

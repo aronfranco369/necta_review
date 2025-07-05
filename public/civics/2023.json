@@ -121,7 +121,14 @@
               }
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 54,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
         {
           "question_number": 2,
           "question_type": "matching",
@@ -130,12 +137,12 @@
             {
               "column_name": "List A",
               "column_items": {
-                "i": "The ability of a person to convey a message to other people according to their mood, age and background.",
-                "ii": "The ability of an individual to withstand negative influence from his/her friends.",
-                "iii": "The ability of one's friends to influence him or her to do something good or bad.",
-                "iv": "The ability of a person to agree on issues without undermining or going against one's principles.",
-                "v": "The ability of a person to understand and feel concerned about other people's problems.",
-                "vi": "The ability of people to collaborate to achieve a common goal."
+                "(i)": "The ability of a person to convey a message to other people according to their mood, age and background.",
+                "(ii)": "The ability of an individual to withstand negative influence from his/her friends.",
+                "(iii)": "The ability of one's friends to influence him or her to do something good or bad.",
+                "(iv)": "The ability of a person to agree on issues without undermining or going against one's principles.",
+                "(v)": "The ability of a person to understand and feel concerned about other people's problems.",
+                "(vi)": "The ability of people to collaborate to achieve a common goal."
               }
             },
             {
@@ -152,21 +159,14 @@
               }
             }
           ]
-        }
-      ]
-    },
-    {
-      "section_name": "SECTION B",
-      "marks": 54,
-      "instructions": "Answer all questions in this section.",
-      "questions": [
+        },
         {
           "question_number": 3,
           "question_type": "composite",
           "sub_questions": [
             {
               "sub_question_identifier": "a",
-              "sub_question_text": "Read the following passage carefully and answer the questions that follow:\n\nFood vending is considered as part of the informal sector which is a fast growing small scale business especially in producing and distributing services of the cooked food at different times in Tanzania. The term street vended food describes a wide range of ready to eat food and beverages sold and sometimes it is prepared along streets and several other public places which include; lorry stations, parks, schools, construction sites and virtually all location where there is high number of potential customers. It is accessible everywhere, convenient, inexpensive, delicious, authentic, culturally enriching and relatively healthful.\n\nThe food vendor sector is growing not only because people need food but also due to the lack of formal job which influence the growth of the sector. Most unemployed college or school graduates in many African countries fall back to street food vending. The reason being the initial capital is low and is affordable. Food vendors are categorized into two groups based on how they operate their food vending activities. There are food vendors who travel from one place to another on bicycles, motorcycles or tricycles carrying a glass case which contain the food intended for sale. Most of the time the food is prepared much in advance and stored under unfavorable conditions. The second category is stationary food vendors who have stalls which are immovable at a point usually on the road side or under a shop where they prepare or cook food instantly. Every day these vendors store their bulky goods such as tables and benches in their caravan.\n\nIn Tanzania the recognition of the economic value of the informal sector came shortly after the economic hardship in the early 1980's. The most remarkable feature of the informal sector is its diversity and heterogeneity. The sector comprises individuals from all steps of the economic and education ladder. There is a need for the government authorities to provide facilitation to this sector through licensing, allocation of spaces for business premises, financial services, health and quality control, setting rules and regulations and policy management.",
+              "sub_question_text": "Read the following passage carefully and answer the questions that follow:\n\nFood vending is considered as part of the informal sector which is a fast growing small scale business especially in producing and distributing services of the cooked food at different times in Tanzania. The term street vended food describes a wide range of ready to eat food and beverages sold and sometimes it is prepared along streets and several other public places which include; lorry stations, parks, schools, construction sites and virtually all location where there is high number of potential customers. It is accessible everywhere, convenient, inexpensive, delicious, authentic, culturally enriching and relatively healthful.\n\nThe food vendor sector is growing not only because people need food but also due to the lack of formal job which influence the growth of the sector. Most unemployed college or school graduates in many African countries fall back to street food vending. The reason being the initial capital is low and is affordable. Food vendors are categorized into two groups based on how they operate their food vending activities. There are food vendors who travel from one place to another on bicycles, motorcycles or tricycles carrying a glass case which contain the food intended for sale. Most of the time the food is prepared much in advance and stored under unfavorable conditions. The second category is stationary food vendors who have stalls which are immovable at a point usually on the road side or under a shop where they prepare or cook food instantly. Every day these vendors store their bulky goods such as tables and benches in their caravan.\n\nIn Tanzania the recognition of the economic value of the informal sector came shortly after the economic hardship in the early 1980's. The most remarkable feature of the informal sector is its diversity and heterogeneity. The sector comprises individuals from all steps of the economic and education ladder. There is a need for the government authorities to provide facilitation to this sector through licensing, allocation of spaces for business premises, financial services, health and quality control, setting rules and regulations and policy management.\n\nQuestions",
               "sub_questions": [
                 {
                   "sub_question_identifier": "i",
@@ -217,6 +217,38 @@
             {
               "sub_question_identifier": "a",
               "sub_question_text": "Explain the four distinctive roles of the judiciary in Tanzania."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "How do Members of Parliament execute their duties as people's representatives in the Parliament of the United Republic of Tanzania? Give five points."
+            }
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "In Tanzania the youth are encouraged to opt for entrepreneurship. What are the four basic skills for a successful entrepreneurship?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "What five features will you observe when assessing the society which is maintaining positive relationship?"
+            }
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "In Tanzania the government reserves the right to withdrawal citizenship acquired through registration. In four points, briefly explain the circumstances which can lead to the withdrawal of Tanzania citizenship."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "What conditions should be observed by refugees who wish to obtain Tanzanian citizenship by registration? Give five conditions."
             }
           ]
         },

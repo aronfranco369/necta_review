@@ -1,0 +1,304 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The action that man takes against nature aims at",
+              "options": {
+                "A": "studying the changes in the process of material production",
+                "B": "explaining man's struggle against nature",
+                "C": "showing the relationships between man and man in production",
+                "D": "developing understanding on man and his environment",
+                "E": "changing natural objects into a condition of satisfying human needs."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following are included in the archives?",
+              "options": {
+                "A": "Division of time into days, weeks and years.",
+                "B": "Family trees, time lines and time charts.",
+                "C": "Colonial records and early travellers' records.",
+                "D": "Cultural items from the earliest times to the present.",
+                "E": "Items which show man's physical development."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Who among the following was the first systematic tool maker and had a bigger brain than that of Zinjanthropus?",
+              "options": {
+                "A": "Homo Habilis.",
+                "B": "Homo Sapiens.",
+                "C": "Homo Eractus.",
+                "D": "Modern Man.",
+                "E": "Modern Apes."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which of the following best explains the Old Stone Age?",
+              "options": {
+                "A": "Man made industrial machines.",
+                "B": "Man established social institutions.",
+                "C": "Man ate cooked food.",
+                "D": "Man made tools like hand axes.",
+                "E": "Man domesticated crops and animals."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "In areas such as Kondoa-Irangi, paintings and drawings in caves give evidence of the activities of",
+              "options": {
+                "A": "iron smelters",
+                "B": "settled communities",
+                "C": "colonial legacy",
+                "D": "education for adaptation",
+                "E": "slave trade and slavery."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "African countries have tried to bring about real independence through",
+              "options": {
+                "A": "setting up new factories and political instabilities in Africa",
+                "B": "improving communication system and military coups",
+                "C": "expanding education and agricultural practices",
+                "D": "establishing heavy industries and free market economy",
+                "E": "expanding agricultural production and administering Trust Territories."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Which of the following societies in West Africa were famous in using copper alloys for making various ornaments?",
+              "options": {
+                "A": "Ibo and Yoruba.",
+                "B": "Venda and Mashona.",
+                "C": "Manganja and Fulani.",
+                "D": "Yoruba and Mandika.",
+                "E": "Mandika and Ibo."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Most of the traders during the early commercial contacts between East Africa and the Far East came from",
+              "options": {
+                "A": "China and Egypt",
+                "B": "Europe and China",
+                "C": "Egypt and Indonesia",
+                "D": "Indonesia and Europe",
+                "E": "Indonesia and China."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "In Britain, the years between 1780 and 1820 formed the period of transition from commercial capitalism to",
+              "options": {
+                "A": "monopoly capitalism",
+                "B": "primitive accumulation of capital",
+                "C": "the age of mercantilism",
+                "D": "industrial capitalism",
+                "E": "the period of scramble for Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "One of the features of monopoly capitalism is",
+              "options": {
+                "A": "merging bank capital and trade",
+                "B": "formation of big African monopolies",
+                "C": "expansion of industrial production in the capitalist countries",
+                "D": "growth of small scale production in Europe",
+                "E": "emergence of slave trade and slavery in Africa."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the stems in List A with the correct responses in List B by writing the letter of the response beside the item number. The options in List B can be used once, more than once or not at all.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The founder of the Luba Empire.",
+                "ii": "Established the Tanzania-Zambia railway to reduce dependence on South African networks.",
+                "iii": "The first president of Zimbabwe.",
+                "iv": "The last leader of the Boer government.",
+                "v": "Nigeria's first president.",
+                "vi": "A German dictator with unlimited power and ambition to make Germany great.",
+                "vii": "Mozambique became a sovereign state under his leadership.",
+                "viii": "Prime Minister of Congo independent state in 1960.",
+                "ix": "Played a leading role in Pan-Africanism.",
+                "x": "Led the Ngoni group which settled in Ufipa."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Eduardo Mondlane.",
+                "B": "Patrice Lumumba.",
+                "C": "Adolf Hitler.",
+                "D": "Joaquim Chisano.",
+                "E": "Donald Cameron.",
+                "F": "Carl Peters.",
+                "G": "Keneth Kaunda.",
+                "H": "Samora Machel.",
+                "I": "Kalala Ilunga.",
+                "J": "Tafawa Balewa.",
+                "K": "Nnandi Azikiwe.",
+                "L": "Kwame Nkrumah.",
+                "M": "Canan Banana.",
+                "N": "Fredrick De Klerk.",
+                "O": "Robert Mugabe.",
+                "P": "Rupia Banda.",
+                "Q": "P.W. Botha.",
+                "R": "Zwangendaba.",
+                "S": "Lobengula.",
+                "T": "Mobutu Sese Seko."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of Africa and locate the following: (i) the former German colony of Togo (ii) German Cameroon Protectorate (iii) German East Africa (iv) A coast city of Witu (v) South West Africa."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Outline five characteristics of colonial education in Africa."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by writing number 1 to 5 beside the item number.\n\n(i) The district officers exercised full jurisdiction over the people.\n\n(ii) German rule was renowned for its harshness.\n\n(iii) For the same reasons, very few officers could travel without armed escort for fear of being attacked by the people.\n\n(iv) Force was the base of German rule and each European travelled with a whip.\n\n(v) They meted out to \"offenders\" any punishments they chose."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The items (i-v) consist of four sentences which form a complete historical meaning. One of the sentences is missing. Identify the missing sentence from the sentences given after each set of items (A - E) and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. Commercial contacts between East Africa and the Middle and Far East started around 200 B.C.\n2. Early commercial contacts are evidenced by archeological excavations.\n3. ____________________\n4. The Periplus of the Erythrean Sea written by Greek traders is another evidence.",
+                  "options": {
+                    "A": "These include all the remains observed by the colonial agents.",
+                    "B": "These show records of colonial administrators.",
+                    "C": "These reveal remains of pottery, porcelain, coins and beads.",
+                    "D": "These reveal ancient pyramids along the coast of East Africa.",
+                    "E": "These reveal the remains of the greatest slave market in Zanzibar."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. The Portuguese search for the sea route to the Far East was sponsored by King Henry.\n2. ____________________\n3. In 1498 captain Vasco Da Gama reached India.\n4. Thus the vital direct link between Europe and Asia was established.",
+                  "options": {
+                    "A": "Their search for a route around Africa began in the 15th century.",
+                    "B": "Their activities enabled them to make permanent settlement at the Cape.",
+                    "C": "Their search for a sea route to India started in the 19th century.",
+                    "D": "Their contacts with the natives led to the growth of a Dutch language.",
+                    "E": "Their arrival in South Africa led to the discovery of gold at Kimberley."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. The British based their administration on the indirect rule system.\n2. Under this system each ethnic group was subdivided into several administrative units, each under a chief or headman.\n3. Local rulers became paid servants of the colonial administration.\n4. ____________________",
+                  "options": {
+                    "A": "They were elected in the Anglo-German legislature.",
+                    "B": "They acted as the spokesmen of the Europeans in Europe.",
+                    "C": "They lost authority they used to have in the pre-colonial period.",
+                    "D": "They signed treaties which were beneficial to the Africans.",
+                    "E": "They were deposed because of collecting taxes effectively."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Migrant labour helped the planters to keep the wage of the labourers very low.\n2. The labourer left his family at home, so he had no responsibility for feeding his family while at the plantation.\n3. His family sustained itself at home.\n4. ____________________",
+                  "options": {
+                    "A": "The wage the labourer got was actually meant for his own maintenance.",
+                    "B": "The labourer established capitalist companies through this wage.",
+                    "C": "The wage the labourer got enabled the family to get their basic needs.",
+                    "D": "The labourer used this wage to buy agricultural machines.",
+                    "E": "The African kings used the wages of the labourers to pay the soldiers."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. The Security Council is responsible for maintaining peace and security.\n2. It is composed of fifteen members, five of which are permanent.\n3. ____________________\n4. The other ten are elected by the General Assembly for a term of two years.",
+                  "options": {
+                    "A": "The permanent members include USA, China, Italy, Russia and Britain.",
+                    "B": "France, United Kingdom and Italy are some of the permanent members.",
+                    "C": "China, Canada, USA and Germany are Examples of permanent members.",
+                    "D": "Some of the permanent members are USSR, USA, France and Canada.",
+                    "E": "The permanent members include China, France, USSR and USA."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Analyse six causes of the Second World War."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "“Colonial social services consolidated colonialism in Africa.” Justify this statement by giving six points."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Elaborate six causes of political instability in Africa."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "With examples, explain six reasons for African resistances to colonial rule."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Analyse six tactics used by the colonialists to establish colonial economy in Africa."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "“The United Nations Organization (UNO) has some political, social and economic gains to Tanzania.” Discuss this statement by giving six points."
+        }
+      ]
+    }
+  ]
+}

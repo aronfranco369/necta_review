@@ -1,0 +1,275 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 16,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) – (x), choose the correct answer from the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "How long does a millennium last?",
+              "options": {
+                "A": "10 years",
+                "B": "100 years",
+                "C": "1000 years",
+                "D": "10000 years",
+                "E": "200 years"
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which theories describe the origin of human beings?",
+              "options": {
+                "A": "Creation theory and Leakey's theory",
+                "B": "Evolution theory and Social Development theory",
+                "C": "Creation theory and Evolution theory",
+                "D": "Revolution theory and Creation theory",
+                "E": "Evolution theory and Human development theory"
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Why traders preferred the use of camels to horses during the Trans-Saharan trade?",
+              "options": {
+                "A": "They were resistant to desert conditions",
+                "B": "They could walk easily in equatorial climate",
+                "C": "They were faster during rainy seasons",
+                "D": "They were bought cheaply compared to horses",
+                "E": "They could survive without food and water for a short time"
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Which one of the following factors facilitated the rise and expansion of Buganda kingdom?",
+              "options": {
+                "A": "Good leadership of Mukama Kabarega",
+                "B": "Strong standing army which was established by Sundiata",
+                "C": "Good fighting techniques learned from the Second World War",
+                "D": "Good geographical and climatic conditions",
+                "E": "Accumulation of wealth from Trans-Saharan Trade"
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Why did the Dutch migrate from the Cape colony?",
+              "options": {
+                "A": "Due to introduction of apartheid policy",
+                "B": "Due to abolition of slave trade in the Cape",
+                "C": "Due to the rise of Shaka Zulu",
+                "D": "Due to the emergence of the First World War",
+                "E": "Due to the scramble for and partition of Africa"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Which economic activities facilitated interactions in the pre-colonial African societies?",
+              "options": {
+                "A": "Fishing, agriculture, trade and metal working",
+                "B": "War, trade, agriculture and medicine",
+                "C": "Metal working, trade, war and fishing",
+                "D": "Medicine, music, metal working and trade",
+                "E": "Agriculture, migration, fishing and music"
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "The following are features of communalism, except:",
+              "options": {
+                "A": "Existence of exploitation",
+                "B": "Low productivity",
+                "C": "Collective ownership of the means of production",
+                "D": "Absence of social classes",
+                "E": "Absence of exploitation"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "Which evidence will you give to justify that Africa benefitted from the early commercial contacts with the Middle and Far East?",
+              "options": {
+                "A": "Exploitation of resources",
+                "B": "Emergence of slave trade and importation of clothes",
+                "C": "Unequal exchange and introduction of new technology",
+                "D": "Growth of coastal city states",
+                "E": "Abolition of slave trade"
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which statement explains the weakness of Berlin conference of 1884-1885?",
+              "options": {
+                "A": "It forced Germany to pay for damages of the war",
+                "B": "It established clear borders in Africa after the First World War",
+                "C": "It failed to recognize existing African political and cultural structures",
+                "D": "It fulfilled the harsh orders given by Adolf Hitler",
+                "E": "It based its decision on the Open Door Policy"
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "Which concept best indicates the situation where an independent country depends on foreign aids?",
+              "options": {
+                "A": "Colonialism",
+                "B": "Neo-colonialism",
+                "C": "Mercantilism",
+                "D": "Scorched earth policy",
+                "E": "Militarism"
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the descriptions of capitalism in List A with the corresponding terms in List B by writing the letter of the correct response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "The stage of capitalism where the merchants were the key people.",
+                "ii": "The stage of capitalism where large companies dominated the production of commodities.",
+                "iii": "The economic system in which the major means of production are privately owned.",
+                "iv": "The stage of capitalism which took place when machines started to be used to a large extent and the bourgeoisie owned factories.",
+                "v": "The mode of production whose collapse led to the emergence of capitalism.",
+                "vi": "The political and economic system advocating state ownership and control of the major means of production, distribution and exchange."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Industrial capitalism",
+                "B": "Monopoly capitalism",
+                "C": "Capitalism",
+                "D": "Slavery",
+                "E": "Socialism",
+                "F": "Communalism",
+                "G": "Feudalism",
+                "H": "Mercantile capitalism",
+                "I": "Communism"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 54,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "explanatory",
+          "question_text": "Briefly, answer the following questions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "How does the study of History promote patriotism?"
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Briefly, explain the rationale for using oral traditions as a method of getting historical information."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "Two Form Four students in a neighboring country discovered the fossil whose age is estimated to be 6,000 years ago;",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "Which instrument would you advise them to use to determine the fossil's age?"
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "Why did you recommend such an instrument in (i) above? Give a reason."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "normal",
+          "question_text": "Arrange the following events in a chronological order by writing number 1 to 6 beside the item number.\n\n(i) The war spread worldwide due to existence of military alliances.\n\n(ii) The murder of Archduke Franz Ferdinand and his wife was the immediate cause.\n\n(iii) One of the effects of the First World War was that Tanganyika was declared a mandate territory and placed under the League of Nations.\n\n(iv) Failure of the League of Nations to prevent the growing militarism and armament of Germany and Italy contributed to the occurrence of the Second World War.\n\n(v) Conflicts associated with the scramble for colonies planted the seeds which caused the outbreak of the First World War.\n\n(vi) The scramble for colonies among the European powers was characterized by conflicts and quarrels."
+        },
+        {
+          "question_number": 5,
+          "question_type": "explanatory",
+          "question_text": "Briefly, answer the following questions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Otto von Bismarck succeeded to resolve a conflict that could have led to a great war among the European powers which were scrambling for colonies during the 19th century. Suggest one strategy that he used."
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "The Versailles Treaty was signed by the Central Powers in 1919. Give a reason for its creation."
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The Great Economic Depression caused the failure of the League of Nations. Justify this statement by giving one point."
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Adolf Hitler played a key role to the rise of the Second World War. Support this statement by giving three points."
+            }
+          ]
+        },
+        {
+          "question_number": 6,
+          "question_type": "explanatory",
+          "question_text": "Briefly, answer the following questions:",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Differentiate direct rule system from indirect rule system. Give two points."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Give two advantages of the indirect rule system to the British."
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "How is assimilation policy different from association policy? Give two points."
+            }
+          ]
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Briefly, explain three forms of decolonization during the struggle for independence in African countries."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Identify two societies from East Africa which were still practicing the communal way of life by the 19th century and specify the countries in which each one is found."
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 30,
+      "instructions": "Answer two (2) questions from this section.",
+      "questions": [
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "\"Colonial transport and communication networks affected Africa.\" Justify this statement by giving six points."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Explain six challenges which face Africa due to her participation in the United Nations' Organization."
+        },
+        {
+          "question_number": 11,
+          "question_type": "normal",
+          "question_text": "In six points, explain the effects of slave trade in East Africa."
+        }
+      ]
+    }
+  ]
+}

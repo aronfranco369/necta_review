@@ -1,0 +1,298 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i)-(x) choose the correct answer from among the given alternatives and write its letter beside the item number.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "Homo Habilis is believed to be a direct ancestor of modern man because",
+              "options": {
+                "A": "his body resembled that of an ape",
+                "B": "he had a bigger brain and he was a more systematic tool-maker",
+                "C": "he lived in the Olduvai gorge",
+                "D": "he walked on two limbs",
+                "E": "he lived during the last stone age."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "During the first phase of trading connections, traders who came to East Africa were from",
+              "options": {
+                "A": "China, Oman, Mauritius and Comoro",
+                "B": "China, Indonesia, India and Middle East",
+                "C": "Sahara, India, Katanga and Meroe",
+                "D": "China, Indonesia, Katanga and Sofala",
+                "E": "Britain, Yemen, Sahara and India."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "Which of the following kingdoms had no standing army in the history of the pre-colonial African states?",
+              "options": {
+                "A": "Luba and Lunda",
+                "B": "Kongo and Mwenemutapa",
+                "C": "Kongo kingdom",
+                "D": "Ovimbundu and Imbangala",
+                "E": "Zulu and Ndebele."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "Where did the first European Missionaries to Africa come from?",
+              "options": {
+                "A": "Britain",
+                "B": "Germany",
+                "C": "Italy",
+                "D": "Portugal",
+                "E": "Holland."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "The Berlin Conference of 1884-1885 was held in order to",
+              "options": {
+                "A": "draw up territorial boundaries in colonial Africa",
+                "B": "enforce the anti-slave trade campaign",
+                "C": "prevent conflicts between European nations over territorial claims in Africa",
+                "D": "assess the form of administration which colonial regimes would follow in Africa",
+                "E": "support the activities of the European missionaries in Central Africa"
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Which of the following elements were the backbones of the colonial economy?",
+              "options": {
+                "A": "Labour and Minerals",
+                "B": "Land and Industry",
+                "C": "Cattle and Land",
+                "D": "Money and Crops",
+                "E": "Land and Labour."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Land Improvement Schemes and Extension Services were applied in African colonies after the",
+              "options": {
+                "A": "Great Depression",
+                "B": "First World War",
+                "C": "Second World War",
+                "D": "Rise of Fascism and Nazism",
+                "E": "Majimaji War"
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The following were motives for USA in supporting decolonization in Africa except",
+              "options": {
+                "A": "USA had no colonies in Africa hence she had nothing to loose",
+                "B": "USA being the dominant power after the 2nd World War wanted to see more members join UNO",
+                "C": "The emerging independent states of Africa were expected to be vital economic satellites of USA",
+                "D": "The Marshall Plan was to compensate what other nations would loose from their former colonies",
+                "E": "The former European colonial powers were to be principal military bases in preventing Socialist expansionism."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which of the following was not a strategy for promoting manpower development policies taken by newly independent states of Africa?",
+              "options": {
+                "A": "Using former traditional rulers",
+                "B": "Africanization",
+                "C": "Abolition of chieftainship",
+                "D": "Decentralization",
+                "E": "Villagization."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "In 1961 the Republic of South Africa was forced to withdraw from the Commonwealth Organization due to",
+              "options": {
+                "A": "apartheid policy",
+                "B": "independence of Natal",
+                "C": "Sharpeville massacre",
+                "D": "death of Dr D.F. Malan",
+                "E": "Rivonnia Trial."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the items in List A with the correct responses in List B by writing the letter of the correct response beside the item number.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "Nzinga Nkuwu",
+                "ii": "NAM",
+                "iii": "Abraham Lincoln",
+                "iv": "Amir Ali Bey",
+                "v": "Rudd Concession",
+                "vi": "Mputa Maseko",
+                "vii": "William Macknnon",
+                "viii": "Microliths",
+                "ix": "1952",
+                "x": "1923"
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Came out as a result of conflicts between two ideologically opponent blocks.",
+                "B": "Granted to British South Africa Company monopoly rights of mining in Matabeleland.",
+                "C": "Associated with the coming of Indians in East Africa.",
+                "D": "Boer Trek leader.",
+                "E": "The first German Governor in Tanganyika.",
+                "F": "Estates given to loyal supporters as rewards for services provided to the king in Buganda.",
+                "G": "Turkish pirate who attacked the Portuguese ships and settlements in 1585.",
+                "H": "Party formed by non-whites in South Africa in 1912 to fight against colonial exploitation and racial discrimination.",
+                "I": "Nationalist party in Nigeria.",
+                "J": "He freed all slaves in America in 1863.",
+                "K": "Lead the Nguni speaking people who crossed Zambezi and went along the eastern side of Lake Nyasa.",
+                "L": "Formed a trading Company of British East Africa Association based in Zanzibar.",
+                "M": "Smaller and more refined stone tools like stone knives.",
+                "N": "Formation of Uganda National Congress.",
+                "O": "Devonshire White Paper.",
+                "P": "Lead the Nguni speaking people who came to settle in Ufipa between Lake Nyasa and Tanganyika.",
+                "Q": "Opened up an embassy in Portugal.",
+                "R": "Important iron smelting centres around 200 B.C.",
+                "S": "Emergence of Nationalistic struggle in Nigeria and Burundi.",
+                "T": "Establishment of a Railway line from Tabora to Kigoma."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of Kongo Kingdom and locate the following chiefdoms: Mpemba, Nsundi, Mbamba, Soyo, Mpangu and Mbata."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Explain why Kongo kingdom crumbled."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "The items (i-iv) consist of four sentences which form a complete historical meaning. One of the sentences is missing. Identify the missing sentence from the sentences given after each set of items and write its letter beside the item number.\n\n(i) Germany need for colonies came later after Britain and France.\n(ii) The entering of Germany in the scramble stimulated and heightened the scramble.\n(iii) Carl Peters became champion for Germany colonization of Africa through GEACO.\n(iv) ____________________",
+              "options": {
+                "A": "Carl Peters decided to call the Berlin conference to solve the competition problem.",
+                "B": "Finally Namibia, Cameroon and Togo became Germany colonies.",
+                "C": "Carl Peters presented the already signed treaties at the Berlin Conference in 1884/1885.",
+                "D": "Carl Peter was part of the early explorers who pretended to be the mechanics.",
+                "E": "After the Heligoland Treaty of 1890 Carl Peters became the first German Governor in East Africa."
+              }
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "(i) Transport and communication was essential during the colonial period.\n(ii) Railways and roads were established running perpendicularly to the coast.\n(iii) In some places feeder roads were constructed to facilitate transportation of raw materials and goods.\n(iv) Such roads include ____________________",
+              "options": {
+                "A": "Iringa - Dodoma road, Lushoto - Mombo and Kondoa - Arusha road.",
+                "B": "Moshi - Arusha and Tanga - Muheza roads.",
+                "C": "Dar es Salaam - Dodoma - Singida - Mwanza road",
+                "D": "Dar es Salaam - Tanga - Mombasa road.",
+                "E": "Dar es Salaam - Morogoro - Iringa - Songea road."
+              }
+            },
+            {
+              "sub_question_identifier": "c",
+              "sub_question_text": "(i) Reaction towards the imposition of colonialism in Africa took different responses.\n(ii) Treaty making was one of the methods used by some African societies to maintain their freedom.\n(iii) Other societies collaborated as a way to avoid war with Europeans.\n(iv) ____________________",
+              "options": {
+                "A": "Those who collaborated were able to maintain their independence.",
+                "B": "Regardless of which method opted no single African society accepted colonization.",
+                "C": "The treaties were bogus because African societies knew the contents through their interpreters.",
+                "D": "Where the missionaries were used in the signing of treaties, African interest was considered.",
+                "E": "In East Africa most societies in Southern Tanganyika collaborated with Germany."
+              }
+            },
+            {
+              "sub_question_identifier": "d",
+              "sub_question_text": "(i) Establishment of colonial economy in Africa went through stages.\n(ii) ____________________\n(iii) Bee wax, wild rubber, pigeon peas were among the commodities.\n(iv) Other new export crops like cotton, sisal, coffee and rubber were introduced.",
+              "options": {
+                "A": "The first stage was creation, destruction and preservation.",
+                "B": "The first stage was extraction of traditional commodities.",
+                "C": "Commodities such as cloth, spirits, mirror, outdated guns came from the North.",
+                "D": "Slaves, salt, dates and indigo were highly demanded in exchange with European commodities.",
+                "E": "Establishment of strong colonial economy was halted by slave trade activities."
+              }
+            },
+            {
+              "sub_question_identifier": "e",
+              "sub_question_text": "(i) One of the drawbacks of African nationalism in East Africa was religious conflicts.\n(ii) The problem was more noted in Uganda than in German East Africa.\n(iii) ____________________\n(iv) In British East Africa the conflicts were more tribal than religious.",
+              "options": {
+                "A": "The conflict was between Buganda against Toro, Ankole and Nyoro.",
+                "B": "The Moslems, Protestants, Catholics and the traditionalists each wanted to influence Kabaka.",
+                "C": "The conflict led to the signing of the Buganda Agreement of 1900 as a solution to the problem.",
+                "D": "To avoid more conflicts both the East African territories were put under the British through the 1890 Heligoland Treaty.",
+                "E": "To avoid more conflicts Kabaka Mwanga of Buganda was deported to Mauritius."
+              }
+            },
+            {
+              "sub_question_identifier": "f",
+              "sub_question_text": "Arrange the following statements in chronological order by writing numbers 1 to 5 beside the item number.\n\n(i) Violence, intimidation and diplomacy were used by colonial powers in occupying different parts of Africa.\n\n(ii) Colonial economy was then established so as to meet the requirements of colonialism such as the demand for raw materials and markets\n\n(iii) Missionaries, explorers and traders came to Africa for the purpose of getting different information about the African continent.\n\n(iv) Colonial political control was established over African territories through the use of different principles such as military, administrative and ideological principles.\n\n(v) Chancellor Bismarck of Germany convened the Berlin Conference so as to partition Africa among the imperialist powers peacefully"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain the obstacles that faced the abolitionists of slave trade along the coast of West Africa?"
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "\"The Berlin Conference had nothing beneficial to Africans.\" Justify this statement by showing clearly the significance of the Berlin Conference in regard to the partition of Africa."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "\"Decolonization process in Africa gained momentum after the Second World war\" Verify the statement."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Give an account of Sharpeville massacre in South Africa in 1960 and its aftermath."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "Describe the achievements and problems of Economic Community of West African States (ECOWAS)?"
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Examine the impacts of First World War (1914-918) on Africa."
+        }
+      ]
+    }
+  ]
+}

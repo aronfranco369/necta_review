@@ -1,0 +1,326 @@
+{
+  "sections": [
+    {
+      "section_name": "SECTION A",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 1,
+          "question_type": "multiple_choice",
+          "question_text": "For each of the items (i) - (x), choose the correct answer from among the given alternatives and write its letter beside the item number in the answer booklet provided.",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "i",
+              "sub_question_text": "The places which are created for preserving historical information are called",
+              "options": {
+                "A": "archives",
+                "B": "archaeology",
+                "C": "oral traditions",
+                "D": "museums",
+                "E": "libraries."
+              }
+            },
+            {
+              "sub_question_identifier": "ii",
+              "sub_question_text": "Which of the following is NOT a historical site in Tanzania?",
+              "options": {
+                "A": "Isimila.",
+                "B": "Olduvai gorge.",
+                "C": "Kondoa Irangi.",
+                "D": "Kilwa.",
+                "E": "Kalenga."
+              }
+            },
+            {
+              "sub_question_identifier": "iii",
+              "sub_question_text": "The family from which man evolved is known as",
+              "options": {
+                "A": "Zinjanthropus",
+                "B": "Homo Habilis",
+                "C": "Primates",
+                "D": "Homo Sapiens",
+                "E": "Homo Erectus."
+              }
+            },
+            {
+              "sub_question_identifier": "iv",
+              "sub_question_text": "What was the achievement of man during the late Stone Age?",
+              "options": {
+                "A": "Discovered fire and ate cooked food.",
+                "B": "Started walking upright using fore-limbs.",
+                "C": "Made and used pebble and chopping tools.",
+                "D": "Started walking on all four limbs",
+                "E": "Established settled communities."
+              }
+            },
+            {
+              "sub_question_identifier": "v",
+              "sub_question_text": "Which one among the following places did people extract salt from salt bearing rocks?",
+              "options": {
+                "A": "Uvinza and Taghaza.",
+                "B": "Taghaza and Bilma.",
+                "C": "Axum and Taghaza.",
+                "D": "Meroe and Egypt",
+                "E": "Uvinza and Bilma."
+              }
+            },
+            {
+              "sub_question_identifier": "vi",
+              "sub_question_text": "Which one among the following factors contributed to the rise of states in Africa?",
+              "options": {
+                "A": "Low level of productive forces.",
+                "B": "Presence of chartered companies.",
+                "C": "Hunting and gathering activities.",
+                "D": "Absence of classes among the people.",
+                "E": "Availability of iron technology."
+              }
+            },
+            {
+              "sub_question_identifier": "vii",
+              "sub_question_text": "Who commanded the respect of all and acted as a unifying force among the Maasai?",
+              "options": {
+                "A": "Kabaka.",
+                "B": "Omukama.",
+                "C": "Morani.",
+                "D": "Warriors.",
+                "E": "Laibon."
+              }
+            },
+            {
+              "sub_question_identifier": "viii",
+              "sub_question_text": "The organization comprising of less developed countries in the world is called",
+              "options": {
+                "A": "Non-Aligned Movement",
+                "B": "Organization of African Unity",
+                "C": "East African Community",
+                "D": "United Nations Organization",
+                "E": "New Partnership for Africa's Development."
+              }
+            },
+            {
+              "sub_question_identifier": "ix",
+              "sub_question_text": "Which one of the following best explains the reason which made Mozambique to use force during her struggle for independence?",
+              "options": {
+                "A": "It was a mandated territory.",
+                "B": "It was a trusteeship territory.",
+                "C": "It adopted the Open Door Policy.",
+                "D": "It was a settler colony.",
+                "E": "It was under indirect rule policy."
+              }
+            },
+            {
+              "sub_question_identifier": "x",
+              "sub_question_text": "The following was one of the characteristics of colonial education except",
+              "options": {
+                "A": "it based on rudimentary curriculum",
+                "B": "it segregated the Africans",
+                "C": "it focused on literacy and numeracy",
+                "D": "it reflected the interests of the Africans.",
+                "E": "it was provided to few people."
+              }
+            }
+          ]
+        },
+        {
+          "question_number": 2,
+          "question_type": "matching",
+          "question_text": "Match the stems in List A with the correct responses in List B by writing the letter of the correct response beside the item number in the answer booklet provided.",
+          "columns": [
+            {
+              "column_name": "List A",
+              "column_items": {
+                "i": "It was fought by the Ndebele and Shona against the oppression of their colonizers in 1890s.",
+                "ii": "The last and most serious revolt against German rule in Tanganyika.",
+                "iii": "The struggle between European powers which lasted in 1918.",
+                "iv": "One of its effects was the emergence of the successor to the League of Nations.",
+                "v": "The name given to the situation during which there was a tension between the Eastern and Western bloc.",
+                "vi": "It was fought between the Boers and Xhosa.",
+                "vii": "It was fought in Nigeria from 1967 to 1970.",
+                "viii": "They caused the migration of the Ngoni during the 19th century.",
+                "ix": "France lost two provinces after being defeated by Germany in 1871.",
+                "x": "It ended when Jonas Savimbi died in 2002."
+              }
+            },
+            {
+              "column_name": "List B",
+              "column_items": {
+                "A": "Majimaji war",
+                "B": "Anglo-Boer war",
+                "C": "Angolan civil war",
+                "D": "Liberian civil war",
+                "E": "Cold war",
+                "F": "Mfecane wars",
+                "G": "Franco-Prusian war",
+                "H": "Second World War",
+                "I": "Ceasefire",
+                "J": "Ethiopia-Somalia war",
+                "K": "Kaffir wars",
+                "L": "Tanzania-Uganda war",
+                "M": "Chimurenga war",
+                "N": "War against terrorism",
+                "O": "Biafran war",
+                "P": "Ghana- Togo war",
+                "Q": "Ugandan civil war",
+                "R": "Algeria-Morocco war",
+                "S": "First World War",
+                "T": "Ethiopia-Eritrea war"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION B",
+      "marks": 20,
+      "instructions": "Answer all questions in this section.",
+      "questions": [
+        {
+          "question_number": 3,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Draw a sketch map of Africa and locate by using roman numbers;",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "The country which moved from apartheid to black majority rule in 1994."
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "The country which attained political independence in 1957."
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "An East African country in which peasant cash crop production predominated."
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "The country in which genocide occurred in 1990s."
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "The country where the headquarters of the OAU Liberation Committee based."
+                }
+              ]
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "Mention five advantages of museums."
+            }
+          ]
+        },
+        {
+          "question_number": 4,
+          "question_type": "composite",
+          "sub_questions": [
+            {
+              "sub_question_identifier": "a",
+              "sub_question_text": "Arrange the following statements in chronological order by writing number 1 to 5 beside the item number.\n\n(i) The newly industrialized powers in the 19th century were Germany and France.\n\n(ii) Britain was the first country to industrialize and she dominated the world's industrial production.\n\n(iii) During the period of industrial capitalism the capitalists manufactured goods in large quantities.\n\n(iv) This wealth enabled them to invest in new and modern machines.\n\n(v) This was possible because they had accumulated much wealth from commerce and agriculture."
+            },
+            {
+              "sub_question_identifier": "b",
+              "sub_question_text": "The items (i-v) consist of four sentences which form a complete historical meaning. One of the sentences (A - E) is missing. Identify the missing sentence and write its letter beside the item number.",
+              "sub_questions": [
+                {
+                  "sub_question_identifier": "i",
+                  "sub_question_text": "1. The UN Secretariat headquarters is in New York.\n2. ____________________\n3. It administers peacekeeping operations in many warring countries.\n4. It organizes international conferences.",
+                  "options": {
+                    "A": "It is headed by the Secretary-General.",
+                    "B": "It implements the Berlin conference resolutions.",
+                    "C": "It draws the annual budget of the UNO.",
+                    "D": "It elects Security Council members.",
+                    "E": "It recommends the admission of new members."
+                  }
+                },
+                {
+                  "sub_question_identifier": "ii",
+                  "sub_question_text": "1. The colonial agents came before the establishment of colonial rule in Africa.\n2. These colonial agents included explorers, missionaries and traders.\n3. The explorers supplied important information to their mother countries.\n4. ____________________",
+                  "options": {
+                    "A": "Prominent explorers included David Livingstone and John Speke.",
+                    "B": "Famous explorers in East Africa were Mungo Park and David Livingstone.",
+                    "C": "The earliest explorers in East Africa were Cecil Rhodes and Karl Peters.",
+                    "D": "The famous British explorer in Tanganyika was Karl Peters.",
+                    "E": "William Mackinnon was an explorer who headed Imperial British East African Comany."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iii",
+                  "sub_question_text": "1. West Africans came into contact with European merchants during the early phase of development of capitalism.\n2. The early phase of capitalism was called the phase of primitive accumulation of capital.\n3. ____________________\n4. During this phase commerce was the most important activity.",
+                  "options": {
+                    "A": "The motives of European merchants were to stop slave trade.",
+                    "B": "West African societies benefited much from these early contacts.",
+                    "C": "In Europe it was known as the age of discovery and overseas expansion.",
+                    "D": "The red Indians for the first time came to trade in West Africa.",
+                    "E": "In this trade the European slaves were exchanged for African goods."
+                  }
+                },
+                {
+                  "sub_question_identifier": "iv",
+                  "sub_question_text": "1. Indirect rule was introduced in Africa by Fredrick Lugard.\n2. ____________________\n3. The system was very cheap.\n4. The system reduced resistance from the natives.",
+                  "options": {
+                    "A": "Africans used Jumbes and Akidas to represent their problems.",
+                    "B": "France applied this system in her colonies in Africa.",
+                    "C": "The system improved the living standard of the Africans.",
+                    "D": "The British preferred direct rule due to its efficiency.",
+                    "E": "The system helped the British to consolidate tribalism."
+                  }
+                },
+                {
+                  "sub_question_identifier": "v",
+                  "sub_question_text": "1. Colonial health services had a significant impact on African communities.\n2. They reduced the infant mortality rate.\n3. They reduced the numbers of women who died during childbirth.\n4. ____________________",
+                  "options": {
+                    "A": "Colonial health services concentrated in rural areas.",
+                    "B": "Colonial health services encouraged the use of traditional medicine.",
+                    "C": "There was equal distribution of health services during colonialism.",
+                    "D": "Medical services led to the higher population growth during colonialism.",
+                    "E": "Better hygiene practices led to the emergence of civil wars in Africa."
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_name": "SECTION C",
+      "marks": 60,
+      "instructions": "Answer three (3) questions from this section.",
+      "questions": [
+        {
+          "question_number": 5,
+          "question_type": "normal",
+          "question_text": "Explain six characteristics of the first non-exploitative mode of production."
+        },
+        {
+          "question_number": 6,
+          "question_type": "normal",
+          "question_text": "Elaborate six techniques used by colonialists to obtain labourers during the colonial period."
+        },
+        {
+          "question_number": 7,
+          "question_type": "normal",
+          "question_text": "Analyse the problems experienced during the struggle for independence in Tanganyika."
+        },
+        {
+          "question_number": 8,
+          "question_type": "normal",
+          "question_text": "Discuss six contributions of the agents of colonialism to the colonization of Africa."
+        },
+        {
+          "question_number": 9,
+          "question_type": "normal",
+          "question_text": "With examples show how the establishment of colonial economy affected the African societies. (Give six points)."
+        },
+        {
+          "question_number": 10,
+          "question_type": "normal",
+          "question_text": "Inherited problems from colonial past are major hindrances to the development of Africa after independence. Justify this statement by giving six points."
+        }
+      ]
+    }
+  ]
+}
